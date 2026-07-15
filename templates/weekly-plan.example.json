@@ -1,0 +1,97 @@
+{
+  "weekStart": "2026-07-20",
+  "carousels": [
+    {
+      "slug": "credito-com-estrategia",
+      "theme": "Crédito como ferramenta patrimonial",
+      "category": "PLANEJAMENTO PATRIMONIAL",
+      "hook": "Crédito não é falta de dinheiro",
+      "caption": "Crédito pode ser uma ferramenta de planejamento quando a decisão considera custo, prazo, liquidez e objetivo patrimonial. Neste carrossel, mostramos perguntas que ajudam a avaliar a estrutura com mais clareza. Arraste para o lado e confira. Conteúdo educativo; decisões individuais exigem análise. #planejamentopatrimonial #credito #patrimonio #consorcio #investimentos",
+      "slides": [
+        {"title": "Crédito não é falta de dinheiro", "body": "Pode ser uma escolha de estrutura patrimonial."},
+        {"title": "Liquidez também tem valor", "body": "Imobilizar todo o capital pode reduzir sua capacidade de aproveitar oportunidades."},
+        {"title": "Compare o custo total", "body": "Taxas, prazo, previsibilidade e flexibilidade precisam entrar na mesma análise."},
+        {"title": "A estratégia vem antes do produto", "body": "O instrumento certo depende do objetivo, do fluxo de caixa e do horizonte."},
+        {"title": "Comece por um diagnóstico", "body": "Converse com a Borelli Capital para estruturar suas possibilidades."}
+      ]
+    },
+    {
+      "slug": "liquidez-e-patrimonio",
+      "theme": "Liquidez na construção patrimonial",
+      "hook": "Patrimônio sem liquidez limita escolhas",
+      "caption": "Construir patrimônio não é apenas acumular ativos. É preservar capacidade de decisão ao longo do caminho. Veja cinco pontos para equilibrar aquisição e liquidez com mais racionalidade. Conteúdo educativo, sem promessa de resultado. #liquidez #patrimonio #planejamentofinanceiro #credito #estrategia",
+      "slides": [
+        {"title": "Patrimônio sem liquidez limita escolhas", "body": "A composição importa tanto quanto o valor total."},
+        {"title": "Reserva protege decisões", "body": "Liquidez reduz a necessidade de agir sob pressão."},
+        {"title": "Prazo muda a análise", "body": "Uma estrutura adequada hoje pode não servir ao objetivo de amanhã."},
+        {"title": "Aquisição exige contexto", "body": "Preço, custo de oportunidade e fluxo de caixa precisam conversar."},
+        {"title": "Planeje antes de imobilizar", "body": "A Borelli Capital ajuda a organizar as premissas da decisão."}
+      ]
+    },
+    {
+      "slug": "consorcio-alem-da-parcela",
+      "theme": "Consórcio além da parcela",
+      "hook": "Consórcio não começa pela parcela",
+      "caption": "Avaliar um consórcio somente pela parcela deixa de fora as variáveis mais importantes. Objetivo, prazo, liquidez e estratégia de contemplação precisam ser considerados em conjunto. Arraste para entender. #consorcio #credito #planejamentopatrimonial #imoveis #estrategiafinanceira",
+      "slides": [
+        {"title": "Consórcio não começa pela parcela", "body": "Começa pelo objetivo patrimonial."},
+        {"title": "Prazo precisa fazer sentido", "body": "A estrutura deve respeitar o horizonte da aquisição."},
+        {"title": "Contemplação não é promessa", "body": "Cenários precisam ser tratados com premissas realistas."},
+        {"title": "Crédito deve caber na estratégia", "body": "A decisão precisa preservar saúde financeira e flexibilidade."},
+        {"title": "Analise antes de contratar", "body": "Estruture a decisão com apoio consultivo."}
+      ]
+    },
+    {
+      "slug": "comprar-a-vista-ou-estruturar",
+      "theme": "Comprar à vista ou estruturar crédito",
+      "hook": "Pagar à vista nem sempre encerra a análise",
+      "caption": "Ter o capital disponível não significa que pagar à vista seja automaticamente a melhor estrutura. A decisão depende do desconto, do custo do crédito, da liquidez necessária e das alternativas para o capital. Conteúdo educativo. #planejamentopatrimonial #credito #liquidez #investimentos #decisaofinanceira",
+      "slides": [
+        {"title": "Pagar à vista nem sempre encerra a análise", "body": "Disponibilidade de caixa é apenas uma variável."},
+        {"title": "O desconto é relevante", "body": "Mas deve ser comparado ao custo de oportunidade."},
+        {"title": "Liquidez tem função", "body": "Capital disponível pode proteger ou viabilizar outros projetos."},
+        {"title": "Crédito também tem custo", "body": "A estrutura precisa ser comparada de forma completa."},
+        {"title": "Decida com premissas claras", "body": "A Borelli Capital organiza os cenários com você."}
+      ]
+    },
+    {
+      "slug": "alavancagem-com-responsabilidade",
+      "theme": "Alavancagem responsável",
+      "hook": "Alavancagem exige margem de segurança",
+      "caption": "Alavancagem não é sinônimo de assumir o máximo de dívida possível. Uma estrutura responsável considera previsibilidade, margem de segurança e capacidade de atravessar cenários adversos. Veja os pontos essenciais. #alavancagem #credito #patrimonio #gestaoderisco #planejamento",
+      "slides": [
+        {"title": "Alavancagem exige margem de segurança", "body": "Crescimento sem proteção aumenta fragilidade."},
+        {"title": "Fluxo de caixa vem primeiro", "body": "A parcela precisa conviver com a operação e com a vida financeira."},
+        {"title": "Cenários importam", "body": "A estrutura deve suportar variações de renda e prazo."},
+        {"title": "Garantias têm consequência", "body": "Risco e patrimônio comprometido precisam ser compreendidos."},
+        {"title": "Estruture com responsabilidade", "body": "Diagnóstico e planejamento precedem qualquer contratação."}
+      ]
+    },
+    {
+      "slug": "perguntas-antes-do-credito",
+      "theme": "Perguntas antes de contratar crédito",
+      "hook": "Cinco perguntas antes de contratar crédito",
+      "caption": "Uma boa decisão de crédito começa com perguntas melhores. Antes de comparar propostas, esclareça objetivo, prazo, custo total, impacto na liquidez e plano de saída. Salve este roteiro para sua próxima análise. #credito #planejamentofinanceiro #patrimonio #consorcio #educacaofinanceira",
+      "slides": [
+        {"title": "Cinco perguntas antes de contratar crédito", "body": "A taxa não conta toda a história."},
+        {"title": "Qual é o objetivo real?", "body": "Aquisição, expansão e preservação de caixa exigem estruturas diferentes."},
+        {"title": "Qual é o custo total?", "body": "Considere taxas, tarifas, seguros e prazo."},
+        {"title": "Como fica sua liquidez?", "body": "A operação não deve eliminar sua margem de decisão."},
+        {"title": "Existe um plano de saída?", "body": "Toda estrutura precisa de acompanhamento e revisão."}
+      ]
+    },
+    {
+      "slug": "diagnostico-patrimonial",
+      "theme": "Diagnóstico patrimonial",
+      "hook": "Produto financeiro não substitui diagnóstico",
+      "caption": "Antes de escolher um produto, organize o cenário: patrimônio atual, fluxo de caixa, objetivos, prazos e tolerância a risco. O diagnóstico reduz decisões isoladas e melhora a coerência da estratégia. Conteúdo educativo. #consultoriapatrimonial #planejamento #credito #patrimonio #estrategia",
+      "slides": [
+        {"title": "Produto financeiro não substitui diagnóstico", "body": "A solução depende do contexto."},
+        {"title": "Mapeie o patrimônio atual", "body": "Ativos, passivos e liquidez mostram o ponto de partida."},
+        {"title": "Defina objetivos e prazos", "body": "Prioridades diferentes pedem estruturas diferentes."},
+        {"title": "Teste cenários", "body": "Uma decisão robusta precisa sobreviver a mudanças."},
+        {"title": "Transforme informação em estratégia", "body": "Converse com a Borelli Capital."}
+      ]
+    }
+  ]
+}

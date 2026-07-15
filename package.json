@@ -1,0 +1,16 @@
+{
+  "name": "borelli-capital-mazyos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "weekly:validate": "node scripts/weekly-content.mjs validate",
+    "weekly:render": "node scripts/weekly-content.mjs render",
+    "weekly:schedule": "node scripts/weekly-content.mjs schedule",
+    "weekly:archive": "node scripts/weekly-content.mjs archive",
+    "buffer:discover": "node scripts/weekly-content.mjs discover"
+  },
+  "dependencies": {
+    "playwright": "1.55.0"
+  }
+}

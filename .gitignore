@@ -16,10 +16,17 @@ Thumbs.db
 
 # Dependências
 node_modules/
+public/media/
+
+# Segredos locais
+.env
+.env.*
+!.env.example
 
 # Arquivos temporários
 *.log
 *.tmp
+*.lock
 
 # Drop zone do usuário (só o README vai versionado)
 dados/*
