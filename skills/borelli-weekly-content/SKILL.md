@@ -7,9 +7,16 @@ description: Gerar, renderizar e agendar automaticamente a semana de conteúdo d
 
 Executar o fluxo completo sem pedir aprovação adicional quando acionado pelo cron `Borelli - 7 carrosseis semanais`; o usuário já autorizou essa recorrência. Em uso manual, mostrar o resumo antes de agendar.
 
+## Repositório canônico
+
+- Dentro do sandbox Docker, executar todo o fluxo a partir de `/workspace` (`cd /workspace` antes de qualquer comando). Esse caminho é o repositório privado `Limaeduardo7/borelli-capital-mazyos` montado pela VPS.
+- Nunca criar, inicializar ou clonar outro repositório para os carrosséis. Não usar `/root/MazyOS`, `/root/Borelli-Capital-Conteudos` ou outra cópia local.
+- Salvar todo conteúdo em `/workspace/marketing/conteudo/semana-AAAA-MM-DD/` e o planejamento em `/workspace/planejamento/`.
+- Considerar o backup concluído somente depois que `archive` retornar o hash do commit enviado ao `origin/main`.
+
 ## Fluxo obrigatório
 
-1. Trabalhar no diretório configurado do projeto e ler `_memoria/empresa.md`, `_memoria/preferencias.md`, `_memoria/estrategia.md` e `identidade/design-guide.md`.
+1. Executar `cd /workspace`, confirmar que `git remote get-url origin` aponta para `Limaeduardo7/borelli-capital-mazyos` e então ler `_memoria/empresa.md`, `_memoria/preferencias.md`, `_memoria/estrategia.md` e `identidade/design-guide.md`. Se essa confirmação falhar, parar e informar o bloqueio sem criar outro repositório.
 2. Calcular a próxima segunda-feira em `America/Sao_Paulo` e usar essa data como `weekStart`.
 3. Confirmar a presença de `identidade/assets/logo-borelli-capital.png` e ler a prancha `identidade/assets/paleta-referencia.jpeg`. Se algum arquivo estiver ausente, parar sem gerar conteúdo visual.
 4. Criar `planejamento/semana-AAAA-MM-DD.json` com exatamente sete carrosséis, um para cada dia.
@@ -52,5 +59,5 @@ Executar o fluxo completo sem pedir aprovação adicional quando acionado pelo c
 - Não agendar se a validação ou a renderização falhar.
 - Não usar URLs temporárias ou autenticadas; o Buffer precisa de HTTPS público estável.
 - Não apagar semanas anteriores.
-- Não usar `git push --force`, não versionar `.env` e não alterar o remote durante a execução semanal.
+- Não usar `git push --force`, não versionar `.env`, não alterar o remote e não executar `git init` durante a execução semanal.
 - Se faltar `BUFFER_ACCESS_TOKEN`, concluir geração e renderização, informar o bloqueio e não simular sucesso.
