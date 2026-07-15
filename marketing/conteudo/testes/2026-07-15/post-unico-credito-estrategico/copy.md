@@ -1,6 +1,6 @@
 # Post único — Liquidez também é patrimônio
 
-**Eyebrow:** CRÉDITO E ESTRATÉGIA
+**Categoria:** CRÉDITO E ESTRATÉGIA
 
 **Headline:** Liquidez também é patrimônio.
 
