@@ -127,7 +127,7 @@ function themeFor(index) {
   return ['dark', 'light', 'graphite'][index % 3];
 }
 
-function carouselHtml(item) {
+function carouselHtml(item, backgroundDir = null) {
   const logoFile = path.join(ROOT, 'identidade', 'assets', 'logo-borelli-capital.png');
   if (!fs.existsSync(logoFile)) fail('logo oficial ausente em identidade/assets/logo-borelli-capital.png.');
   const logoUrl = pathToFileURL(logoFile).href;
@@ -141,8 +141,17 @@ function carouselHtml(item) {
     const total = String(item.slides.length).padStart(2, '0');
     const kicker = slide.kicker || item.category || 'PLANEJAMENTO PATRIMONIAL';
     const isFinal = index === item.slides.length - 1;
+    const backgroundFile = backgroundDir
+      ? path.join(backgroundDir, `fundo-${number}.png`)
+      : null;
+    const overlay = theme === 'light'
+      ? 'linear-gradient(rgba(242,242,242,.78),rgba(242,242,242,.78))'
+      : 'linear-gradient(rgba(13,13,13,.48),rgba(13,13,13,.48))';
+    const backgroundStyle = backgroundFile && fs.existsSync(backgroundFile)
+      ? ` style="background-image:${overlay},url('${pathToFileURL(backgroundFile).href}');background-size:cover;background-position:center"`
+      : '';
     return `
-      <section class="slide ${theme} ${isFinal ? 'final' : ''}">
+      <section class="slide ${theme} ${isFinal ? 'final' : ''}"${backgroundStyle}>
         <header><div class="brand"><img src="${logoUrl}" alt="Borelli Capital"></div><span class="counter">${number} / ${total}</span></header>
         <main>
           <div class="kicker">${escapeHtml(kicker)}</div>
@@ -180,7 +189,7 @@ async function renderPlan(inputFile, plan) {
       const publicPostDir = path.join(publicRoot, slug);
       fs.mkdirSync(imageDir, { recursive: true });
       fs.mkdirSync(publicPostDir, { recursive: true });
-      const html = carouselHtml(item);
+      const html = carouselHtml(item, path.join(postDir, 'fundos'));
       fs.writeFileSync(path.join(postDir, 'carrossel.html'), html, 'utf8');
       fs.writeFileSync(path.join(postDir, 'legenda.md'), `${item.caption.trim()}\n`, 'utf8');
       writeJsonAtomic(path.join(postDir, 'conteudo.json'), item);
