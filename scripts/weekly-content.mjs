@@ -290,6 +290,7 @@ async function schedulePlan(plan) {
       channelId: channel.id,
       schedulingType: 'automatic',
       mode: 'customScheduled',
+      metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
       dueAt,
       assets: urls.map((url) => ({ image: { url } })),
     };
