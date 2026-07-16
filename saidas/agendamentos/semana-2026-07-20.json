@@ -1,0 +1,55 @@
+{
+  "weekStart": "2026-07-20",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-patrimonio-como-sistema",
+      "bufferPostId": "6a58fd606d6c40f9373c6c31",
+      "dueAt": "2026-07-20T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:48:48.675Z"
+    },
+    {
+      "slug": "02-credito-preserva-opcoes",
+      "bufferPostId": "6a58fd63b278478ecc5fece6",
+      "dueAt": "2026-07-21T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:48:51.280Z"
+    },
+    {
+      "slug": "03-consorcio-alem-da-parcela",
+      "bufferPostId": "6a58fd6544151f60bbf7d4b6",
+      "dueAt": "2026-07-22T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:48:53.554Z"
+    },
+    {
+      "slug": "04-liquidez-e-margem-de-manobra",
+      "bufferPostId": "6a58fd6744151f60bbf7d4d9",
+      "dueAt": "2026-07-23T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:48:55.785Z"
+    },
+    {
+      "slug": "05-decisao-de-compra-em-camadas",
+      "bufferPostId": "6a58fd69b278478ecc5fed09",
+      "dueAt": "2026-07-24T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:48:58.105Z"
+    },
+    {
+      "slug": "06-objecoes-que-merecem-analise",
+      "bufferPostId": "6a58fd6c6d6c40f9373c6ce8",
+      "dueAt": "2026-07-25T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:49:00.318Z"
+    },
+    {
+      "slug": "07-diagnostico-antes-da-solucao",
+      "bufferPostId": "6a58fd6eb278478ecc5fed78",
+      "dueAt": "2026-07-26T22:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-16T15:49:02.613Z"
+    }
+  ]
+}
