@@ -5,9 +5,15 @@
     {
       "slug": "01-patrimonio-como-sistema",
       "bufferPostId": "6a58fd606d6c40f9373c6c31",
-      "dueAt": "2026-07-20T22:00:00.000Z",
+      "dueAt": "2026-07-16T17:49:19.801Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:48:48.675Z"
+      "scheduledAt": "2026-07-16T15:48:48.675Z",
+      "originalDueAt": "2026-07-20T22:00:00.000Z",
+      "status": "sent",
+      "sharedNow": true,
+      "shareMode": "shareNow",
+      "sentAt": "2026-07-16T17:49:55.294Z",
+      "externalLink": "https://www.instagram.com/p/Da3NzFKFN6t/"
     },
     {
       "slug": "02-credito-preserva-opcoes",
