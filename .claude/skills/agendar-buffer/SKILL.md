@@ -7,9 +7,11 @@ description: Agenda posts aprovados no Buffer usando a API oficial. Use quando o
 
 ## Pré-requisitos
 
-- `.env` na raiz, criado a partir de `.env.example`.
+- No sandbox Docker, executar `cd /workspace` antes de qualquer verificação ou agendamento. Nunca usar uma cópia em `/root`.
+- `/workspace/.env` criado a partir de `.env.example`.
 - `BUFFER_ACCESS_TOKEN` válido e rotacionado.
 - `BUFFER_ORGANIZATION_ID` configurado.
+- `BUFFER_INSTAGRAM_CHANNEL_ID` configurado para o Instagram autorizado.
 - Para imagens, cada URL precisa ser pública e acessível pelo Buffer.
 
 Nunca escrever tokens em arquivos versionados, mensagens, legendas ou comandos salvos no histórico.
@@ -17,10 +19,10 @@ Nunca escrever tokens em arquivos versionados, mensagens, legendas ou comandos s
 ## Descobrir canais
 
 ```bash
-node --env-file=.env scripts/buffer.js channels
+cd /workspace && node scripts/weekly-content.mjs discover
 ```
 
-Guardar os IDs dos canais apenas no `.env` ou em configuração local não versionada.
+Esse comando deve retornar a organização e o canal reais. Nunca responder sobre o estado da integração apenas inspecionando variáveis do shell. Guardar os IDs apenas no `.env` ou em configuração local não versionada.
 
 ## Agendar texto ou imagem
 
@@ -32,7 +34,7 @@ node --env-file=.env scripts/buffer.js schedule \
   --image https://dominio-publico.com/slide-01.png
 ```
 
-Para carrossel, repetir `--image` na ordem correta. O agendamento só deve ser executado depois de mostrar o resumo e receber confirmação explícita do usuário, incluindo canal, data/hora, legenda e imagens.
+Para carrossel, repetir `--image` na ordem correta. Em uso manual, o agendamento só deve ser executado depois de mostrar o resumo e receber confirmação explícita do usuário, incluindo canal, data/hora, legenda e imagens. Em cron recorrente já autorizado, não pedir novamente; aplicar as regras de idempotência e exigir o ID real do Buffer.
 
 ## Fluxo
 
