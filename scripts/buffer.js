@@ -7,7 +7,7 @@ function usage() {
   console.error(`Uso:
   node --env-file=.env scripts/buffer.js channels
   node --env-file=.env scripts/buffer.js schedule --channel ID --at 2026-07-20T15:00:00Z --text "Texto"
-  node --env-file=.env scripts/buffer.js schedule --channel ID --at 2026-07-20T15:00:00Z --text "Texto" --image URL --image URL
+  node --env-file=.env scripts/buffer.js schedule --channel ID --at 2026-07-20T15:00:00Z --text "Texto" --type post --image URL --image URL
 
 A data deve ser ISO-8601 com timezone explícito (ex.: Z ou -03:00).`);
   process.exit(2);
@@ -64,6 +64,7 @@ async function schedule(args) {
   const channelId = arg('--channel', args);
   const dueAt = arg('--at', args);
   const text = arg('--text', args);
+  const type = arg('--type', args) || 'post';
   const images = allArgs('--image', args);
   if (!channelId || !dueAt || !text) usage();
   if (Number.isNaN(Date.parse(dueAt))) throw new Error('--at não é uma data ISO-8601 válida.');
@@ -82,6 +83,7 @@ async function schedule(args) {
     channelId,
     schedulingType: 'automatic',
     mode: 'customScheduled',
+    metadata: { instagram: { type, shouldShareToFeed: true } },
     dueAt: new Date(dueAt).toISOString(),
     ...(assets.length ? { assets } : {}),
   };
