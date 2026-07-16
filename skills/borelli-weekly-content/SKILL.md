@@ -25,18 +25,19 @@ Executar o fluxo completo sem pedir aprovação adicional quando acionado pelo c
 
 1. Executar `cd /workspace`, confirmar que `git remote get-url origin` aponta para `Limaeduardo7/borelli-capital-mazyos` e então ler `_memoria/empresa.md`, `_memoria/preferencias.md`, `_memoria/estrategia.md` e `identidade/design-guide.md`. Se essa confirmação falhar, parar e informar o bloqueio sem criar outro repositório.
 2. Calcular a próxima segunda-feira em `America/Sao_Paulo` e usar essa data como `weekStart`.
-3. Confirmar a presença de `identidade/assets/logo-borelli-capital.png` e ler a prancha `identidade/assets/paleta-referencia.jpeg`. Se algum arquivo estiver ausente, parar sem gerar conteúdo visual.
-4. Criar `planejamento/semana-AAAA-MM-DD.json` com exatamente sete carrosséis, um para cada dia.
-5. Variar os temas entre educação patrimonial, crédito estratégico, consórcio, liquidez, decisões de compra, objeções e convite consultivo. Não repetir hooks ou ângulos das quatro semanas anteriores.
-6. Cada carrossel deve ter entre 6 e 8 slides. A capa deve ter no máximo oito palavras; o último slide deve ter CTA consultivo. Evitar promessas, rentabilidade garantida, urgência artificial e recomendação individual.
-7. Escrever legenda completa, com CTA para reunião e de 5 a 10 hashtags relevantes. Não inventar telefone, endereço, resultados ou credenciais.
-8. O próprio agente Hermes deve criar as imagens e composições visuais durante a execução semanal, seguindo integralmente o design guide. Não reutilizar os arquivos de exemplo como produção e não solicitar ao Codex uma geração prévia.
-9. Validar com `node scripts/weekly-content.mjs validate --input planejamento/semana-AAAA-MM-DD.json`.
-10. Renderizar com `node scripts/weekly-content.mjs render --input planejamento/semana-AAAA-MM-DD.json` somente depois de o conteúdo semanal ter sido criado pelo agente.
-11. Conferir que cada pasta em `marketing/conteudo/semana-AAAA-MM-DD/` contém HTML, legenda e PNGs e que as imagens também existem em `public/media/semana-AAAA-MM-DD/`.
-12. Agendar com `node scripts/weekly-content.mjs schedule --input planejamento/semana-AAAA-MM-DD.json`. O comando é idempotente e não deve ser substituído por chamadas manuais à API.
-13. Independentemente de o Buffer concluir ou apresentar bloqueio, salvar o lote organizado no GitHub com `node scripts/weekly-content.mjs archive --input planejamento/semana-AAAA-MM-DD.json`. Esse comando versiona somente o planejamento, a pasta da semana e o registro de agendamento; nunca usar `git add -A` na rotina semanal.
-14. Responder com os sete temas, datas, IDs retornados pelo Buffer, commit do GitHub e qualquer bloqueio real. Nunca afirmar agendamento sem IDs nem backup sem commit.
+3. Antes de criar conteúdo, verificar `planejamento/semana-AAAA-MM-DD.json` e `saidas/agendamentos/semana-AAAA-MM-DD.json`. Se o lote já existir e o ledger contiver sete posts com `bufferPostId`, não reescrever o planejamento, não renderizar novamente e não chamar `schedule`; executar somente `discover`, confirmar os sete IDs, executar `archive` se necessário e relatar que a semana já estava concluída.
+4. Confirmar a presença de `identidade/assets/logo-borelli-capital.png` e ler a prancha `identidade/assets/paleta-referencia.jpeg`. Se algum arquivo estiver ausente, parar sem gerar conteúdo visual.
+5. Criar `planejamento/semana-AAAA-MM-DD.json` com exatamente sete carrosséis, um para cada dia.
+6. Variar os temas entre educação patrimonial, crédito estratégico, consórcio, liquidez, decisões de compra, objeções e convite consultivo. Não repetir hooks ou ângulos das quatro semanas anteriores.
+7. Cada carrossel deve ter entre 6 e 8 slides. A capa deve ter no máximo oito palavras; o último slide deve ter CTA consultivo. Evitar promessas, rentabilidade garantida, urgência artificial e recomendação individual.
+8. Escrever legenda completa, com CTA para reunião e de 5 a 10 hashtags relevantes. Não inventar telefone, endereço, resultados ou credenciais.
+9. O próprio agente Hermes deve criar as imagens e composições visuais durante a execução semanal, seguindo integralmente o design guide. Não reutilizar os arquivos de exemplo como produção e não solicitar ao Codex uma geração prévia.
+10. Validar com `node scripts/weekly-content.mjs validate --input planejamento/semana-AAAA-MM-DD.json`.
+11. Renderizar com `node scripts/weekly-content.mjs render --input planejamento/semana-AAAA-MM-DD.json` somente depois de o conteúdo semanal ter sido criado pelo agente.
+12. Conferir que cada pasta em `marketing/conteudo/semana-AAAA-MM-DD/` contém HTML, legenda e PNGs e que as imagens também existem em `public/media/semana-AAAA-MM-DD/`.
+13. Agendar com `node scripts/weekly-content.mjs schedule --input planejamento/semana-AAAA-MM-DD.json`. O comando é idempotente e não deve ser substituído por chamadas manuais à API.
+14. Independentemente de o Buffer concluir ou apresentar bloqueio, salvar o lote organizado no GitHub com `node scripts/weekly-content.mjs archive --input planejamento/semana-AAAA-MM-DD.json`. Esse comando versiona somente o planejamento, a pasta da semana e o registro de agendamento; nunca usar `git add -A` na rotina semanal.
+15. Responder com os sete temas, datas, IDs retornados pelo Buffer, commit do GitHub e qualquer bloqueio real. Nunca afirmar agendamento sem IDs nem backup sem commit.
 
 ## Estrutura do JSON
 
