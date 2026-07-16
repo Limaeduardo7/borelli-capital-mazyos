@@ -14,6 +14,13 @@ Executar o fluxo completo sem pedir aprovação adicional quando acionado pelo c
 - Salvar todo conteúdo em `/workspace/marketing/conteudo/semana-AAAA-MM-DD/` e o planejamento em `/workspace/planejamento/`.
 - Considerar o backup concluído somente depois que `archive` retornar o hash do commit enviado ao `origin/main`.
 
+## Verificação do Buffer
+
+- Para responder qualquer pergunta sobre acesso, conexão ou administração do Buffer, executar `cd /workspace && node scripts/weekly-content.mjs discover`. Nunca concluir o estado da integração apenas olhando o ambiente atual do shell ou uma cópia em `/root`.
+- O arquivo canônico é `/workspace/.env`. As variáveis usadas são `BUFFER_ACCESS_TOKEN`, `BUFFER_ORGANIZATION_ID` e `BUFFER_INSTAGRAM_CHANNEL_ID`.
+- Considerar a conexão validada somente quando `discover` retornar a organização e o canal Instagram reais. Considerar um agendamento confirmado somente quando `schedule` retornar e registrar `bufferPostId`, `dueAt` e `channelId`.
+- O status `ok` do cron confirma apenas a execução do job; nunca tratá-lo como confirmação do Buffer sem os identificadores acima.
+
 ## Fluxo obrigatório
 
 1. Executar `cd /workspace`, confirmar que `git remote get-url origin` aponta para `Limaeduardo7/borelli-capital-mazyos` e então ler `_memoria/empresa.md`, `_memoria/preferencias.md`, `_memoria/estrategia.md` e `identidade/design-guide.md`. Se essa confirmação falhar, parar e informar o bloqueio sem criar outro repositório.

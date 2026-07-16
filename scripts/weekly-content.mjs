@@ -4,9 +4,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import process from 'node:process';
 import { spawnSync } from 'node:child_process';
-import { pathToFileURL } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
-const ROOT = process.cwd();
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+process.chdir(ROOT);
 const DEFAULT_MEDIA_BASE_URL = 'https://srv1829993.hstgr.cloud/media';
 
 function loadEnv(file = path.join(ROOT, '.env')) {
@@ -204,7 +205,7 @@ async function renderPlan(inputFile, plan) {
 
 async function bufferRequest(query, variables = {}) {
   const token = process.env.BUFFER_ACCESS_TOKEN;
-  if (!token) fail('BUFFER_ACCESS_TOKEN ausente em .env.');
+  if (!token) fail(`BUFFER_ACCESS_TOKEN ausente em ${path.join(ROOT, '.env')}.`);
   const response = await fetch(process.env.BUFFER_API_URL || 'https://api.buffer.com', {
     method: 'POST',
     headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },

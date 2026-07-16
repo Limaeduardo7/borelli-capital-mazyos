@@ -5,3 +5,5 @@ Antes de produzir conteúdo, leia `_memoria/empresa.md`, `_memoria/preferencias.
 Para o lote semanal de Instagram, siga a skill `borelli-weekly-content` e use apenas `scripts/weekly-content.mjs` para validar, renderizar e agendar. Nunca exponha tokens nem afirme que algo foi agendado sem um ID retornado pelo Buffer.
 
 No sandbox Docker, `/workspace` é o único repositório canônico. Antes de produzir qualquer mídia, execute `cd /workspace` e confirme que o `origin` aponta para `Limaeduardo7/borelli-capital-mazyos`. Nunca crie outro repositório local para armazenar os carrosséis.
+
+Para verificar o Buffer, execute `cd /workspace && node scripts/weekly-content.mjs discover`. Não responda com base no ambiente de `/root` nem apenas na presença de variáveis. O `.env` canônico fica em `/workspace/.env`, e o nome correto da variável do canal é `BUFFER_INSTAGRAM_CHANNEL_ID`.
