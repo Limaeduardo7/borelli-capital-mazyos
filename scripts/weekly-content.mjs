@@ -261,7 +261,7 @@ function addDays(isoDate, days) {
 }
 
 function dueAtFor(weekStart, dayIndex) {
-  const hour = Number(process.env.POST_HOUR_BRT || '19');
+  const hour = Number(process.env.POST_HOUR_BRT || '13');
   if (!Number.isInteger(hour) || hour < 0 || hour > 23) fail('POST_HOUR_BRT deve estar entre 0 e 23.');
   const utcHour = (hour + 3) % 24;
   const dayOffset = hour + 3 >= 24 ? dayIndex + 1 : dayIndex;
