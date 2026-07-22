@@ -30,37 +30,42 @@
     {
       "slug": "03-consorcio-alem-da-parcela",
       "bufferPostId": "6a58fd6544151f60bbf7d4b6",
-      "dueAt": "2026-07-22T22:00:00.000Z",
+      "dueAt": "2026-07-22T16:00:00.000Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:48:53.554Z"
+      "scheduledAt": "2026-07-16T15:48:53.554Z",
+      "updatedAt": "2026-07-22T01:49:37.871Z"
     },
     {
       "slug": "04-liquidez-e-margem-de-manobra",
       "bufferPostId": "6a58fd6744151f60bbf7d4d9",
-      "dueAt": "2026-07-23T22:00:00.000Z",
+      "dueAt": "2026-07-23T16:00:00.000Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:48:55.785Z"
+      "scheduledAt": "2026-07-16T15:48:55.785Z",
+      "updatedAt": "2026-07-22T01:49:37.873Z"
     },
     {
       "slug": "05-decisao-de-compra-em-camadas",
       "bufferPostId": "6a58fd69b278478ecc5fed09",
-      "dueAt": "2026-07-24T22:00:00.000Z",
+      "dueAt": "2026-07-24T16:00:00.000Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:48:58.105Z"
+      "scheduledAt": "2026-07-16T15:48:58.105Z",
+      "updatedAt": "2026-07-22T01:49:37.873Z"
     },
     {
       "slug": "06-objecoes-que-merecem-analise",
       "bufferPostId": "6a58fd6c6d6c40f9373c6ce8",
-      "dueAt": "2026-07-25T22:00:00.000Z",
+      "dueAt": "2026-07-25T16:00:00.000Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:49:00.318Z"
+      "scheduledAt": "2026-07-16T15:49:00.318Z",
+      "updatedAt": "2026-07-22T01:49:37.873Z"
     },
     {
       "slug": "07-diagnostico-antes-da-solucao",
       "bufferPostId": "6a58fd6eb278478ecc5fed78",
-      "dueAt": "2026-07-26T22:00:00.000Z",
+      "dueAt": "2026-07-26T16:00:00.000Z",
       "assets": 7,
-      "scheduledAt": "2026-07-16T15:49:02.613Z"
+      "scheduledAt": "2026-07-16T15:49:02.613Z",
+      "updatedAt": "2026-07-22T01:49:37.873Z"
     }
   ]
 }
