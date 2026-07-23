@@ -33,7 +33,10 @@
       "dueAt": "2026-07-22T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-16T15:48:53.554Z",
-      "updatedAt": "2026-07-22T01:49:37.871Z"
+      "updatedAt": "2026-07-22T01:49:37.871Z",
+      "status": "sent",
+      "sentAt": "2026-07-22T16:07:51.266Z",
+      "externalLink": "https://www.instagram.com/p/DbGexB_oH8N/"
     },
     {
       "slug": "04-liquidez-e-margem-de-manobra",
