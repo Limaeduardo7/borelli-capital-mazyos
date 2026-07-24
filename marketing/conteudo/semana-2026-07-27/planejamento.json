@@ -2,115 +2,115 @@
   "weekStart": "2026-07-27",
   "carousels": [
     {
-      "slug": "mapa-de-decisoes-patrimoniais",
-      "theme": "Educação patrimonial: transformar objetivos em mapa de decisões",
-      "category": "EDUCAÇÃO PATRIMONIAL",
-      "hook": "Objetivo sem mapa vira improviso",
-      "caption": "Um objetivo patrimonial ganha força quando deixa de ser apenas uma intenção e passa a orientar decisões concretas. Isso envolve prazo, liquidez, capacidade de contribuição e o papel de cada recurso no caminho.\n\nMapear não significa prever o futuro. Significa tornar as premissas visíveis para que uma escolha importante não dependa apenas do impulso do momento.\n\nQuer organizar seu mapa de decisões? Agende uma reunião consultiva com a Borelli Capital. Este conteúdo é educativo e não substitui uma recomendação personalizada.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #BorelliCapital #Patrimônio",
-      "slides": [
-        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Objetivo sem mapa vira improviso", "body": "Patrimônio se constrói com decisões que conversam entre si."},
-        {"kicker": "PONTO DE PARTIDA", "title": "Nomeie o que precisa acontecer", "body": "Aquisição, proteção, expansão ou organização pedem critérios diferentes."},
-        {"kicker": "HORIZONTE", "title": "Prazo muda a arquitetura da escolha", "body": "O tempo disponível influencia liquidez, compromissos e alternativas."},
-        {"kicker": "RECURSOS", "title": "Cada recurso tem uma função", "body": "Capital, crédito e reserva não precisam cumprir o mesmo papel."},
-        {"kicker": "CLAREZA", "title": "Premissas visíveis reduzem ruído", "body": "Uma decisão fica mais explicável quando seus critérios estão organizados."},
-        {"kicker": "PLANEJAMENTO", "title": "Mapa não é promessa de controle", "body": "É uma forma responsável de reconhecer cenários e limites."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Desenhe o próximo passo", "body": "Converse com a Borelli Capital em uma reunião consultiva sobre seu contexto."}
-      ]
-    },
-    {
-      "slug": "credito-e-custo-de-oportunidade",
-      "theme": "Crédito estratégico: analisar o custo de oportunidade da decisão",
+      "slug": "credito-precisa-produzir",
+      "theme": "Crédito como ferramenta produtiva",
       "category": "CRÉDITO ESTRATÉGICO",
-      "hook": "O custo não mora só na parcela",
-      "caption": "Quando uma decisão usa crédito, o olhar não deve parar no valor da parcela. O custo da escolha também envolve prazo, flexibilidade, recursos comprometidos e o que deixa de ser possível enquanto o compromisso permanece.\n\nEssa leitura não transforma crédito em solução automática. Ela ajuda a comparar estruturas com mais honestidade, respeitando orçamento, reservas e objetivos reais.\n\nSe você está avaliando uma aquisição relevante, marque uma reunião consultiva com a Borelli Capital para discutir as premissas.\n\n#CréditoEstratégico #CustoDeOportunidade #PlanejamentoFinanceiro #Liquidez #BorelliCapital #EducaçãoFinanceira",
+      "hook": "O erro não está em usar crédito",
+      "caption": "O crédito não é bom ou ruim por definição. Ele precisa ser analisado pelo que viabiliza, pelo custo que carrega e pelo impacto que produz no patrimônio e no fluxo de caixa.\n\nA pergunta central não é apenas “quanto custa?”. É “o que esse capital precisa produzir para que a estrutura faça sentido?”. Pode ser aquisição, expansão, geração de renda ou preservação de liquidez — sempre dentro de premissas claras e capacidade financeira real.\n\nCrédito sem função vira compromisso. Crédito bem estruturado pode virar ferramenta. Este conteúdo é educativo e não substitui uma análise personalizada.\n\n#CréditoEstratégico #PlanejamentoPatrimonial #GestãoFinanceira #Liquidez #BorelliCapital",
       "slides": [
-        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "O custo não mora só na parcela", "body": "Uma decisão financeira tem efeitos que aparecem ao longo do tempo."},
-        {"kicker": "COMPARAÇÃO", "title": "Olhe o compromisso inteiro", "body": "Prazo, custos, regras e impacto no caixa fazem parte da análise."},
-        {"kicker": "OPORTUNIDADE", "title": "Capital comprometido perde flexibilidade", "body": "Pergunte quais escolhas ficam menores depois da assinatura."},
-        {"kicker": "ESTRUTURA", "title": "Crédito pode preservar alternativas", "body": "Mas só quando o compromisso cabe no planejamento e na capacidade financeira."},
-        {"kicker": "RESPONSABILIDADE", "title": "Aprovação não é estratégia", "body": "Ter acesso a uma solução não define se ela é adequada ao objetivo."},
-        {"kicker": "MÉTODO", "title": "Compare cenários, não slogans", "body": "Uma boa análise explicita premissas e reconhece o que permanece incerto."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Torne o custo compreensível", "body": "Agende uma conversa com a Borelli Capital para avaliar o cenário."}
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "O erro não está em usar crédito", "body": "Está em usar crédito sem saber o que ele precisa produzir."},
+        {"kicker": "FUNÇÃO", "title": "Todo crédito precisa de uma função", "body": "Aquisição, expansão, renda ou liquidez: o destino vem antes da estrutura."},
+        {"kicker": "PRODUÇÃO", "title": "O recurso precisa criar capacidade", "body": "A operação deve ampliar possibilidades, não apenas transferir um problema no tempo."},
+        {"kicker": "CUSTO", "title": "Taxa é parte da equação", "body": "Prazo, garantias, fluxo de caixa e custo de oportunidade completam a análise."},
+        {"kicker": "CRITÉRIO", "title": "Aprovação não valida a decisão", "body": "Ter acesso ao crédito não significa que ele esteja alinhado ao objetivo."},
+        {"kicker": "ESTRATÉGIA", "title": "Primeiro o resultado esperado", "body": "Depois, a ferramenta que melhor organiza capital, prazo e risco."},
+        {"kicker": "POSICIONAMENTO", "title": "Crédito precisa produzir", "body": "A Borelli Capital estrutura decisões a partir do objetivo, não do produto."}
       ]
     },
     {
-      "slug": "consorcio-e-horizonte",
-      "theme": "Consórcio: alinhar ferramenta, horizonte e objetivo",
+      "slug": "consorcio-financiamento-home-equity",
+      "theme": "Comparação entre consórcio, financiamento e Home Equity",
+      "category": "ARQUITETURA DE CRÉDITO",
+      "hook": "Qual é o melhor? Nenhum isoladamente",
+      "caption": "Consórcio, financiamento e Home Equity não são respostas concorrentes para todos os cenários. Cada ferramenta atende combinações diferentes de prazo, urgência, liquidez, custo, garantias e objetivo patrimonial.\n\nO financiamento pode atender uma aquisição imediata. O consórcio pode participar de uma construção planejada. O Home Equity pode transformar um imóvel em fonte de liquidez. Nenhum deles é automaticamente superior fora de contexto.\n\nA decisão começa pelo diagnóstico e só depois chega ao produto. Converse com a Borelli Capital para organizar as premissas da sua escolha.\n\n#Consórcio #Financiamento #HomeEquity #CréditoEstratégico #PlanejamentoPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "ARQUITETURA DE CRÉDITO", "title": "Consórcio, financiamento ou Home Equity?", "body": "Qual é o melhor? Nenhum deles isoladamente."},
+        {"kicker": "URGÊNCIA", "title": "Quando o tempo é decisivo", "body": "A necessidade imediata muda o peso do financiamento e das alternativas disponíveis."},
+        {"kicker": "HORIZONTE", "title": "Quando existe tempo para planejar", "body": "O consórcio pode participar da estratégia, sem promessa de contemplação."},
+        {"kicker": "GARANTIA", "title": "Quando o imóvel já existe", "body": "O Home Equity pode liberar liquidez usando o patrimônio como garantia."},
+        {"kicker": "LIQUIDEZ", "title": "Quanto capital precisa permanecer disponível?", "body": "A resposta altera a estrutura e o nível de compromisso aceitável."},
+        {"kicker": "DECISÃO", "title": "Compare função, prazo e custo", "body": "Ferramentas diferentes só fazem sentido quando resolvem o mesmo objetivo."},
+        {"kicker": "DIAGNÓSTICO", "title": "O melhor depende do contexto", "body": "A Borelli Capital organiza a decisão antes de indicar a ferramenta."}
+      ]
+    },
+    {
+      "slug": "tres-funcoes-do-imovel",
+      "theme": "Imóvel como patrimônio, renda ou fonte de liquidez",
+      "category": "ESTRATÉGIA IMOBILIÁRIA",
+      "hook": "Um imóvel pode cumprir três funções",
+      "caption": "Um imóvel pode ocupar posições diferentes dentro do patrimônio. Pode servir à moradia e à valorização de longo prazo, produzir renda por locação ou funcionar como garantia para acessar liquidez por meio de Home Equity.\n\nA mesma propriedade pode mudar de função ao longo da vida financeira. Por isso, analisar apenas o valor de mercado é insuficiente: uso, renda, custo, liquidez e objetivo também precisam entrar na conversa.\n\nPatrimônio não é apenas o que você possui. É também o que cada ativo é capaz de viabilizar. Este conteúdo é educativo e não representa recomendação personalizada.\n\n#EstratégiaImobiliária #HomeEquity #RendaImobiliária #Patrimônio #BorelliCapital",
+      "slides": [
+        {"kicker": "ESTRATÉGIA IMOBILIÁRIA", "title": "Um imóvel pode cumprir três funções", "body": "Patrimônio, renda ou fonte de liquidez."},
+        {"kicker": "FUNÇÃO 01", "title": "Moradia e valorização", "body": "O imóvel protege uma necessidade real e pode participar da construção patrimonial."},
+        {"kicker": "LEITURA", "title": "Valor não é apenas preço", "body": "Uso, localização, manutenção e horizonte influenciam o papel do ativo."},
+        {"kicker": "FUNÇÃO 02", "title": "Renda por locação", "body": "O imóvel passa a produzir fluxo, sujeito a vacância, custos e gestão."},
+        {"kicker": "FUNÇÃO 03", "title": "Liquidez via Home Equity", "body": "A propriedade pode garantir crédito sem precisar ser vendida."},
+        {"kicker": "ESTRATÉGIA", "title": "A função pode mudar com o tempo", "body": "O mesmo ativo pode servir a objetivos diferentes em momentos diferentes."},
+        {"kicker": "POSICIONAMENTO", "title": "Patrimônio precisa ter função", "body": "A Borelli Capital analisa o que cada ativo pode viabilizar."}
+      ]
+    },
+    {
+      "slug": "dolarizacao-gradual",
+      "theme": "Diversificação internacional gradual",
+      "category": "DIVERSIFICAÇÃO PATRIMONIAL",
+      "hook": "Dolarizar não é mandar tudo para fora",
+      "caption": "Dolarizar patrimônio não significa transferir todo o capital para o exterior. Diversificação internacional pode ser construída de forma gradual, respeitando objetivos, moeda dos compromissos, liquidez necessária e tolerância a oscilações.\n\nA exposição a outras moedas e mercados pode reduzir a dependência de um único ambiente econômico, mas também introduz riscos, custos e complexidade. Por isso, a decisão não deve nascer de medo ou euforia.\n\nDiversificar é distribuir funções e riscos com método. Procure profissionais habilitados para recomendações de investimento e organize a estratégia patrimonial de forma integrada.\n\n#Dolarização #Diversificação #PlanejamentoPatrimonial #GestãoDeRisco #BorelliCapital",
+      "slides": [
+        {"kicker": "DIVERSIFICAÇÃO PATRIMONIAL", "title": "Dolarizar não é mandar tudo para fora", "body": "É reduzir dependências de forma gradual e consciente."},
+        {"kicker": "PONTO DE PARTIDA", "title": "Comece pela função do capital", "body": "Reserva, renda, crescimento e proteção pedem exposições diferentes."},
+        {"kicker": "GRADUALIDADE", "title": "Diversificação pode ser construída", "body": "Aportes progressivos reduzem decisões concentradas em um único momento."},
+        {"kicker": "MOEDA", "title": "Compromissos locais continuam em reais", "body": "A exposição internacional precisa conversar com o fluxo financeiro real."},
+        {"kicker": "RISCO", "title": "Outra moeda não elimina incerteza", "body": "Câmbio, mercado, custos e tributação fazem parte da análise."},
+        {"kicker": "MÉTODO", "title": "Evite decisões por medo ou euforia", "body": "Diversificação patrimonial exige horizonte e critérios definidos."},
+        {"kicker": "POSICIONAMENTO", "title": "Diversifique sem perder coerência", "body": "Estratégia internacional começa pela arquitetura do patrimônio."}
+      ]
+    },
+    {
+      "slug": "financiar-ou-pagar-a-vista",
+      "theme": "Financiamento versus pagamento à vista",
+      "category": "LIQUIDEZ E AQUISIÇÃO",
+      "hook": "Quando financiar pode ser melhor?",
+      "caption": "Pagar à vista reduz compromissos futuros, mas também concentra capital em uma única aquisição. Em alguns contextos, o financiamento pode preservar liquidez, manter reservas e evitar a desmontagem de uma estratégia patrimonial.\n\nIsso não torna a dívida automaticamente vantajosa. O custo do financiamento precisa ser comparado ao valor da liquidez preservada, ao custo de oportunidade e à capacidade de sustentar o fluxo ao longo do prazo.\n\nA decisão mais eficiente não é universal. Ela depende do objetivo, das premissas e do que o capital precisa continuar produzindo.\n\n#Financiamento #Liquidez #CustoDeOportunidade #PlanejamentoPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E AQUISIÇÃO", "title": "Quando financiar pode ser melhor?", "body": "Quando preservar liquidez tem função estratégica."},
+        {"kicker": "À VISTA", "title": "Quitar reduz compromissos", "body": "Mas também imobiliza capital que poderia cumprir outras funções."},
+        {"kicker": "LIQUIDEZ", "title": "Reserva preservada mantém opções", "body": "Disponibilidade pode proteger o caixa e sustentar decisões futuras."},
+        {"kicker": "OPORTUNIDADE", "title": "Capital tem custo de oportunidade", "body": "A pergunta é o que deixa de ser possível quando todo recurso vai para a compra."},
+        {"kicker": "CUSTO", "title": "Juros precisam entrar na conta", "body": "Preservar liquidez não justifica qualquer taxa, prazo ou compromisso."},
+        {"kicker": "COMPARAÇÃO", "title": "Analise cenários completos", "body": "Fluxo, reserva, custo total e objetivo precisam estar na mesma mesa."},
+        {"kicker": "POSICIONAMENTO", "title": "Eficiência depende do contexto", "body": "A Borelli Capital compara estruturas, não respostas prontas."}
+      ]
+    },
+    {
+      "slug": "credito-empresarial-para-crescimento",
+      "theme": "Crédito empresarial como instrumento de crescimento",
+      "category": "ESTRUTURA EMPRESARIAL",
+      "hook": "Crédito empresarial não deve apenas cobrir problemas",
+      "caption": "Crédito empresarial usado apenas para apagar incêndios tende a chegar tarde e em condições desfavoráveis. Quando estruturado com antecedência, pode financiar capacidade produtiva, estoque, expansão comercial, equipamentos ou capital de giro associado a crescimento.\n\nA operação precisa ter destino claro, retorno esperado, prazo compatível e fluxo capaz de sustentar o compromisso. Crescer com crédito não significa ignorar risco; significa organizar capital e execução com critério.\n\nCrédito empresarial deve financiar uma tese de crescimento, não esconder um problema recorrente.\n\n#CréditoEmpresarial #CapitalDeGiro #CrescimentoEmpresarial #PlanejamentoFinanceiro #BorelliCapital",
+      "slides": [
+        {"kicker": "ESTRUTURA EMPRESARIAL", "title": "Crédito não deve apenas cobrir problemas", "body": "Ele pode financiar capacidade de crescimento."},
+        {"kicker": "ANTECIPAÇÃO", "title": "Crédito negociado cedo cria opções", "body": "Buscar capital antes da urgência melhora a qualidade da decisão."},
+        {"kicker": "DESTINO", "title": "O recurso precisa ter endereço", "body": "Estoque, equipamento, expansão ou capital de giro ligado à operação."},
+        {"kicker": "RETORNO", "title": "Crescimento precisa ser mensurável", "body": "A empresa deve saber qual capacidade adicional o crédito pretende criar."},
+        {"kicker": "FLUXO", "title": "Prazo precisa conversar com geração de caixa", "body": "O compromisso não pode vencer antes de o investimento produzir efeito."},
+        {"kicker": "RISCO", "title": "Crédito não corrige modelo frágil", "body": "Sem margem, gestão e destino claro, a dívida apenas adia a pressão."},
+        {"kicker": "POSICIONAMENTO", "title": "Financie uma tese de crescimento", "body": "A Borelli Capital estrutura crédito a partir da operação real."}
+      ]
+    },
+    {
+      "slug": "consorcio-e-ferramenta",
+      "theme": "Consórcio como ferramenta dentro da estratégia",
       "category": "CONSÓRCIO ESTRATÉGICO",
-      "hook": "Consórcio pede horizonte claro",
-      "caption": "Consórcio pode participar de uma estratégia patrimonial quando o objetivo e o horizonte estão claros. A análise precisa considerar capacidade de contribuição, regras do grupo, custos e o momento em que o recurso será necessário.\n\nNão é uma escolha baseada apenas em parcela ou expectativa de contemplação. É uma ferramenta que precisa ser examinada dentro do contexto de cada pessoa, família ou empresa.\n\nQuer entender se essa estrutura merece ser estudada? Agende uma reunião consultiva com a Borelli Capital.\n\n#Consórcio #PlanejamentoPatrimonial #CréditoConsciente #AquisiçãoPlanejada #EducaçãoFinanceira #BorelliCapital",
+      "hook": "O consórcio não é a estratégia",
+      "caption": "O consórcio não é a estratégia. É uma ferramenta que pode participar de uma arquitetura patrimonial quando existe objetivo, prazo, capacidade de contribuição e leitura das regras.\n\nComeçar pelo produto inverte a ordem da decisão. Primeiro vem o que precisa ser construído: aquisição, expansão, organização de capital ou formação patrimonial. Depois se avalia se o consórcio tem aderência ao cenário.\n\nParcela baixa não substitui diagnóstico. Contemplação não deve ser tratada como promessa. A ferramenta só ganha sentido quando serve a uma estratégia maior.\n\n#ConsórcioEstratégico #PlanejamentoPatrimonial #CréditoEstratégico #AquisiçãoPlanejada #BorelliCapital",
       "slides": [
-        {"kicker": "CONSÓRCIO ESTRATÉGICO", "title": "Consórcio pede horizonte claro", "body": "O objetivo define as perguntas que vêm antes do plano."},
-        {"kicker": "DESTINO", "title": "Qual aquisição está sendo organizada?", "body": "Imóvel, veículo ou expansão exigem contextos e prazos diferentes."},
-        {"kicker": "HORIZONTE", "title": "Quando o recurso será relevante?", "body": "O tempo esperado precisa conversar com o objetivo, sem garantias artificiais."},
-        {"kicker": "CAPACIDADE", "title": "A contribuição precisa ser sustentável", "body": "O fluxo de caixa real importa mais do que uma simulação isolada."},
-        {"kicker": "REGRAS", "title": "A administradora faz parte da escolha", "body": "Custos, condições e dinâmica do grupo devem ser lidos com atenção."},
-        {"kicker": "CRITÉRIO", "title": "Ferramenta boa depende do encaixe", "body": "O plano só ganha sentido quando respeita o conjunto patrimonial."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Avalie o horizonte com calma", "body": "Converse com a Borelli Capital antes de escolher uma estrutura."}
-      ]
-    },
-    {
-      "slug": "liquidez-como-opcao",
-      "theme": "Liquidez: preservar opções sem abandonar objetivos",
-      "category": "LIQUIDEZ E PLANEJAMENTO",
-      "hook": "Liquidez compra tempo de decisão",
-      "caption": "Liquidez não é falta de direção. É a disponibilidade que permite atravessar mudanças, responder a oportunidades e manter escolhas abertas enquanto o planejamento amadurece.\n\nAo organizar uma aquisição, vale perguntar quanto da sua margem será comprometida e quais alternativas continuarão disponíveis depois. Preservar opções pode ser parte do próprio objetivo patrimonial.\n\nPara olhar esse equilíbrio com mais clareza, agende uma reunião consultiva com a Borelli Capital.\n\n#Liquidez #PlanejamentoPatrimonial #GestãoFinanceira #DecisõesFinanceiras #CréditoEstratégico #BorelliCapital",
-      "slides": [
-        {"kicker": "LIQUIDEZ E PLANEJAMENTO", "title": "Liquidez compra tempo de decisão", "body": "Disponibilidade não é indecisão: é margem para escolher melhor."},
-        {"kicker": "MARGEM", "title": "Toda aquisição altera seu espaço", "body": "Capital imobilizado reduz algumas possibilidades e amplia outras."},
-        {"kicker": "CENÁRIO", "title": "O futuro raramente cabe no plano", "body": "Mudanças de renda, prazo e prioridade merecem espaço na leitura."},
-        {"kicker": "EQUILÍBRIO", "title": "Objetivo e flexibilidade podem coexistir", "body": "A estrutura precisa sustentar o caminho sem sufocar o caixa."},
-        {"kicker": "PERGUNTA", "title": "Quanto de autonomia permanece?", "body": "Essa resposta ajuda a dimensionar uma decisão possível hoje."},
-        {"kicker": "DISCIPLINA", "title": "Reserva também participa da estratégia", "body": "Manter recursos disponíveis pode ser uma escolha patrimonial consciente."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Preserve espaço para escolher", "body": "Agende uma conversa com a Borelli Capital sobre o equilíbrio do seu cenário."}
-      ]
-    },
-    {
-      "slug": "compra-e-estrutura",
-      "theme": "Decisões de compra: separar aquisição de estrutura financeira",
-      "category": "DECISÕES DE COMPRA",
-      "hook": "A compra termina no contrato?",
-      "caption": "Uma compra importante não termina quando o contrato é assinado. Ela passa a ocupar espaço no fluxo de caixa, na liquidez e nas decisões futuras. Por isso, aquisição e estrutura financeira merecem ser analisadas como partes relacionadas, mas não idênticas.\n\nSeparar essas camadas ajuda a evitar comparações rasas e escolhas baseadas apenas na emoção ou em uma condição inicial.\n\nSe você está planejando uma compra relevante, converse com a Borelli Capital em uma reunião consultiva.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #CréditoEstratégico #Liquidez #EducaçãoFinanceira #BorelliCapital",
-      "slides": [
-        {"kicker": "DECISÕES DE COMPRA", "title": "A compra termina no contrato?", "body": "O ativo entra; os compromissos continuam fazendo parte do cenário."},
-        {"kicker": "OBJETIVO", "title": "O que essa aquisição precisa viabilizar?", "body": "Uma resposta clara dá direção para comparar alternativas."},
-        {"kicker": "ESTRUTURA", "title": "Como o pagamento será organizado?", "body": "À vista, crédito ou consórcio são caminhos a examinar no contexto."},
-        {"kicker": "FLUXO", "title": "O depois também precisa caber", "body": "Custos recorrentes e imprevistos fazem parte da decisão patrimonial."},
-        {"kicker": "CRITÉRIO", "title": "Preço não é o único filtro", "body": "Flexibilidade, prazo e impacto sobre a liquidez também pesam."},
-        {"kicker": "CLAREZA", "title": "Decisão boa não precisa de pressão", "body": "Quando as premissas estão claras, o próximo passo fica mais racional."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Estruture antes de assinar", "body": "Converse com a Borelli Capital sobre o caminho mais coerente com seu contexto."}
-      ]
-    },
-    {
-      "slug": "duvidas-como-criterio",
-      "theme": "Objeções: usar dúvidas como critérios de decisão",
-      "category": "OBJEÇÕES E CLAREZA",
-      "hook": "Dúvida não é falta de decisão",
-      "caption": "Dúvidas financeiras podem funcionar como critérios. “O que acontece com minha liquidez?” “Qual é o compromisso total?” “O prazo é compatível?” Essas perguntas ajudam a separar uma escolha consciente de uma resposta automática.\n\nUma conversa responsável não tenta eliminar a incerteza com promessas. Ela organiza as perguntas, explicita limites e compara alternativas que realmente pertencem ao mesmo contexto.\n\nTraga suas dúvidas para uma reunião consultiva com a Borelli Capital.\n\n#EducaçãoFinanceira #PlanejamentoPatrimonial #CréditoConsciente #Consórcio #DecisõesFinanceiras #BorelliCapital",
-      "slides": [
-        {"kicker": "OBJEÇÕES E CLAREZA", "title": "Dúvida não é falta de decisão", "body": "É um convite para melhorar o critério antes de escolher."},
-        {"kicker": "LIQUIDEZ", "title": "O que permanece disponível?", "body": "A pergunta mostra se a estrutura preserva margem para mudanças."},
-        {"kicker": "CUSTO", "title": "Qual é o compromisso total?", "body": "A leitura precisa ir além do número que aparece primeiro."},
-        {"kicker": "PRAZO", "title": "O tempo combina com o objetivo?", "body": "Horizonte e necessidade precisam estar na mesma conversa."},
-        {"kicker": "INCERTEZA", "title": "O que não pode ser garantido?", "body": "Reconhecer limites é parte de uma decisão financeiramente responsável."},
-        {"kicker": "MÉTODO", "title": "Transforme dúvida em filtro", "body": "Anote as perguntas e use-as para comparar caminhos com coerência."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Coloque suas perguntas na mesa", "body": "Agende uma reunião com a Borelli Capital para organizar a análise."}
-      ]
-    },
-    {
-      "slug": "reuniao-que-organiza",
-      "theme": "Convite consultivo: uma reunião para organizar o cenário",
-      "category": "CONSULTORIA PATRIMONIAL",
-      "hook": "Antes da solução, organize o cenário",
-      "caption": "Uma reunião consultiva começa antes da solução. Começa entendendo o objetivo, o prazo, os compromissos existentes, a liquidez que precisa ser preservada e os critérios que realmente importam.\n\nEsse processo não promete uma resposta universal. Ele cria uma conversa mais organizada para que possibilidades sejam avaliadas dentro da realidade de cada pessoa, família ou empresa.\n\nSe você está diante de uma decisão patrimonial relevante, agende uma reunião com a Borelli Capital e traga o seu contexto.\n\n#ConsultoriaPatrimonial #PlanejamentoPatrimonial #CréditoEstratégico #GestãoPatrimonial #EducaçãoFinanceira #BorelliCapital",
-      "slides": [
-        {"kicker": "CONSULTORIA PATRIMONIAL", "title": "Antes da solução, organize o cenário", "body": "Clareza sobre o ponto de partida melhora qualquer conversa."},
-        {"kicker": "OBJETIVO", "title": "O que você quer tornar possível?", "body": "A decisão começa quando o desejo ganha uma definição concreta."},
-        {"kicker": "CONTEXTO", "title": "Quais compromissos já existem?", "body": "O cenário atual delimita o espaço para novas escolhas."},
-        {"kicker": "LIQUIDEZ", "title": "O que precisa continuar disponível?", "body": "Preservar margem pode ser tão relevante quanto alcançar o objetivo."},
-        {"kicker": "CRITÉRIOS", "title": "Como você vai reconhecer um bom caminho?", "body": "Custo, prazo, flexibilidade e aderência precisam ser nomeados."},
-        {"kicker": "PROCESSO", "title": "Diagnóstico não é venda pronta", "body": "É uma etapa de análise para reduzir ruído e respeitar limites."},
-        {"kicker": "CONVITE CONSULTIVO", "title": "Vamos organizar seu cenário?", "body": "Agende uma reunião consultiva com a Borelli Capital."}
+        {"kicker": "CONSÓRCIO ESTRATÉGICO", "title": "O consórcio não é a estratégia", "body": "É a ferramenta."},
+        {"kicker": "ORDEM DA DECISÃO", "title": "Começar pelo produto é começar pelo fim", "body": "A estratégia nasce do objetivo, do prazo e da capacidade financeira."},
+        {"kicker": "OBJETIVO", "title": "O que precisa ser construído?", "body": "Aquisição, expansão ou formação patrimonial exigem arquiteturas distintas."},
+        {"kicker": "HORIZONTE", "title": "Quando o recurso será necessário?", "body": "Tempo e urgência definem se a ferramenta tem aderência ao cenário."},
+        {"kicker": "CAPACIDADE", "title": "A contribuição precisa caber no plano", "body": "Parcela isolada não representa o impacto completo da decisão."},
+        {"kicker": "CRITÉRIO", "title": "Contemplação não é promessa", "body": "Regras, custos e incertezas precisam permanecer visíveis."},
+        {"kicker": "POSICIONAMENTO", "title": "Ferramenta serve à estratégia", "body": "A Borelli Capital começa pelo diagnóstico, não pelo consórcio."}
       ]
     }
   ]

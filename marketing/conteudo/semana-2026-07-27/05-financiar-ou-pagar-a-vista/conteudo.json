@@ -1,0 +1,44 @@
+{
+  "slug": "financiar-ou-pagar-a-vista",
+  "theme": "Financiamento versus pagamento à vista",
+  "category": "LIQUIDEZ E AQUISIÇÃO",
+  "hook": "Quando financiar pode ser melhor?",
+  "caption": "Pagar à vista reduz compromissos futuros, mas também concentra capital em uma única aquisição. Em alguns contextos, o financiamento pode preservar liquidez, manter reservas e evitar a desmontagem de uma estratégia patrimonial.\n\nIsso não torna a dívida automaticamente vantajosa. O custo do financiamento precisa ser comparado ao valor da liquidez preservada, ao custo de oportunidade e à capacidade de sustentar o fluxo ao longo do prazo.\n\nA decisão mais eficiente não é universal. Ela depende do objetivo, das premissas e do que o capital precisa continuar produzindo.\n\n#Financiamento #Liquidez #CustoDeOportunidade #PlanejamentoPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E AQUISIÇÃO",
+      "title": "Quando financiar pode ser melhor?",
+      "body": "Quando preservar liquidez tem função estratégica."
+    },
+    {
+      "kicker": "À VISTA",
+      "title": "Quitar reduz compromissos",
+      "body": "Mas também imobiliza capital que poderia cumprir outras funções."
+    },
+    {
+      "kicker": "LIQUIDEZ",
+      "title": "Reserva preservada mantém opções",
+      "body": "Disponibilidade pode proteger o caixa e sustentar decisões futuras."
+    },
+    {
+      "kicker": "OPORTUNIDADE",
+      "title": "Capital tem custo de oportunidade",
+      "body": "A pergunta é o que deixa de ser possível quando todo recurso vai para a compra."
+    },
+    {
+      "kicker": "CUSTO",
+      "title": "Juros precisam entrar na conta",
+      "body": "Preservar liquidez não justifica qualquer taxa, prazo ou compromisso."
+    },
+    {
+      "kicker": "COMPARAÇÃO",
+      "title": "Analise cenários completos",
+      "body": "Fluxo, reserva, custo total e objetivo precisam estar na mesma mesa."
+    },
+    {
+      "kicker": "POSICIONAMENTO",
+      "title": "Eficiência depende do contexto",
+      "body": "A Borelli Capital compara estruturas, não respostas prontas."
+    }
+  ]
+}

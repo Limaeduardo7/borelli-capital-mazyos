@@ -1,0 +1,44 @@
+{
+  "slug": "tres-funcoes-do-imovel",
+  "theme": "Imóvel como patrimônio, renda ou fonte de liquidez",
+  "category": "ESTRATÉGIA IMOBILIÁRIA",
+  "hook": "Um imóvel pode cumprir três funções",
+  "caption": "Um imóvel pode ocupar posições diferentes dentro do patrimônio. Pode servir à moradia e à valorização de longo prazo, produzir renda por locação ou funcionar como garantia para acessar liquidez por meio de Home Equity.\n\nA mesma propriedade pode mudar de função ao longo da vida financeira. Por isso, analisar apenas o valor de mercado é insuficiente: uso, renda, custo, liquidez e objetivo também precisam entrar na conversa.\n\nPatrimônio não é apenas o que você possui. É também o que cada ativo é capaz de viabilizar. Este conteúdo é educativo e não representa recomendação personalizada.\n\n#EstratégiaImobiliária #HomeEquity #RendaImobiliária #Patrimônio #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "ESTRATÉGIA IMOBILIÁRIA",
+      "title": "Um imóvel pode cumprir três funções",
+      "body": "Patrimônio, renda ou fonte de liquidez."
+    },
+    {
+      "kicker": "FUNÇÃO 01",
+      "title": "Moradia e valorização",
+      "body": "O imóvel protege uma necessidade real e pode participar da construção patrimonial."
+    },
+    {
+      "kicker": "LEITURA",
+      "title": "Valor não é apenas preço",
+      "body": "Uso, localização, manutenção e horizonte influenciam o papel do ativo."
+    },
+    {
+      "kicker": "FUNÇÃO 02",
+      "title": "Renda por locação",
+      "body": "O imóvel passa a produzir fluxo, sujeito a vacância, custos e gestão."
+    },
+    {
+      "kicker": "FUNÇÃO 03",
+      "title": "Liquidez via Home Equity",
+      "body": "A propriedade pode garantir crédito sem precisar ser vendida."
+    },
+    {
+      "kicker": "ESTRATÉGIA",
+      "title": "A função pode mudar com o tempo",
+      "body": "O mesmo ativo pode servir a objetivos diferentes em momentos diferentes."
+    },
+    {
+      "kicker": "POSICIONAMENTO",
+      "title": "Patrimônio precisa ter função",
+      "body": "A Borelli Capital analisa o que cada ativo pode viabilizar."
+    }
+  ]
+}
