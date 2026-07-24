@@ -280,7 +280,8 @@ async function assertPublic(url) {
   if (!type.startsWith('image/')) fail(`URL não retornou imagem (${type || 'sem content-type'}): ${url}`);
 }
 
-async function schedulePlan(plan) {
+async function schedulePlan(plan, startDate = plan.weekStart) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(startDate)) fail('--start-date deve usar AAAA-MM-DD.');
   const { channel } = await discoverBuffer();
   const weekDirName = `semana-${plan.weekStart}`;
   const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
@@ -299,7 +300,7 @@ async function schedulePlan(plan) {
     if (!imageFiles.length) fail(`nenhum slide público para ${slug}.`);
     const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${slug}/${name}`);
     for (const url of urls) await assertPublic(url);
-    const dueAt = dueAtFor(plan.weekStart, index);
+    const dueAt = dueAtFor(startDate, index);
     const input = {
       text: item.caption,
       channelId: channel.id,
@@ -364,5 +365,5 @@ const inputFile = path.resolve(ROOT, args.input || defaultInputPath());
 const plan = validatePlan(readJson(inputFile));
 if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`);
 if (command === 'render') await renderPlan(inputFile, plan);
-if (command === 'schedule') await schedulePlan(plan);
+if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
 if (command === 'archive') archivePlan(inputFile, plan);
