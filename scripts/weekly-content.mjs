@@ -298,7 +298,8 @@ async function schedulePlan(plan, startDate = plan.weekStart) {
     }
     const imageFiles = fs.readdirSync(path.join(publicRoot, slug)).filter((name) => /^slide-\d+\.png$/.test(name)).sort();
     if (!imageFiles.length) fail(`nenhum slide público para ${slug}.`);
-    const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${slug}/${name}`);
+    const mediaVersion = plan.weekStart.replaceAll('-', '');
+    const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${slug}/${name}?v=${mediaVersion}`);
     for (const url of urls) await assertPublic(url);
     const dueAt = dueAtFor(startDate, index);
     const input = {
