@@ -90,10 +90,15 @@
   "posts": [
     {
       "slug": "01-credito-precisa-produzir",
-      "bufferPostId": "6a62cb8e59cf1d7b38985709",
-      "dueAt": "2026-07-24T16:00:00.000Z",
+      "bufferPostId": "6a638d2f12fafbaf49c7604a",
+      "dueAt": "2026-07-24T16:05:04.101Z",
       "assets": 7,
-      "scheduledAt": "2026-07-24T02:18:54.707Z"
+      "scheduledAt": "2026-07-24T02:18:54.707Z",
+      "status": "sent",
+      "sentAt": "2026-07-24T16:07:24.395Z",
+      "externalLink": "https://www.instagram.com/p/DbLobrXFCKM/",
+      "sharedNow": true,
+      "shareMode": "shareNow"
     },
     {
       "slug": "02-consorcio-financiamento-home-equity",
