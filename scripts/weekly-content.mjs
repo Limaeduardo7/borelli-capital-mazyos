@@ -201,6 +201,10 @@ async function renderPlan(inputFile, plan) {
         const filename = `slide-${String(slideIndex + 1).padStart(2, '0')}.png`;
         const localFile = path.join(imageDir, filename);
         await locators.nth(slideIndex).screenshot({ path: localFile });
+        const normalizedFile = `${localFile}.normalized.png`;
+        const normalized = spawnSync('convert', [localFile, '-depth', '8', '-colorspace', 'sRGB', normalizedFile], { encoding: 'utf8' });
+        if (normalized.status !== 0) fail(`não foi possível normalizar ${localFile}: ${(normalized.stderr || '').trim()}`);
+        fs.renameSync(normalizedFile, localFile);
         fs.copyFileSync(localFile, path.join(publicPostDir, filename));
       }
       await page.close();
