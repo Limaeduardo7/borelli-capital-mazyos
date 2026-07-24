@@ -1,17 +1,18 @@
 {
   "weekStart": "2026-07-27",
   "channelId": "6a5687f980cc80cdcab418cf",
-  "posts": [
+  "cancelledPosts": [
     {
       "slug": "01-mapa-de-decisoes-patrimoniais",
       "bufferPostId": "6a6283625fa1307f2ba6d2d2",
       "dueAt": "2026-07-27T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:10:58.525Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.741Z"
     },
     {
       "slug": "02-credito-e-custo-de-oportunidade",
@@ -19,10 +20,11 @@
       "dueAt": "2026-07-28T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:00.365Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
     },
     {
       "slug": "03-consorcio-e-horizonte",
@@ -30,10 +32,11 @@
       "dueAt": "2026-07-29T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:02.248Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
     },
     {
       "slug": "04-liquidez-como-opcao",
@@ -41,10 +44,11 @@
       "dueAt": "2026-07-30T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:04.164Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
     },
     {
       "slug": "05-compra-e-estrutura",
@@ -52,10 +56,11 @@
       "dueAt": "2026-07-31T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:05.939Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
     },
     {
       "slug": "06-duvidas-como-criterio",
@@ -63,10 +68,11 @@
       "dueAt": "2026-08-01T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:07.589Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
     },
     {
       "slug": "07-reuniao-que-organiza",
@@ -74,10 +80,62 @@
       "dueAt": "2026-08-02T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-23T21:11:09.380Z",
-      "status": "scheduled",
+      "status": "cancelled",
       "sentAt": null,
       "externalLink": null,
-      "error": null
+      "error": null,
+      "cancelledAt": "2026-07-24T02:18:19.742Z"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "01-credito-precisa-produzir",
+      "bufferPostId": "6a62cb8e59cf1d7b38985709",
+      "dueAt": "2026-07-24T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:18:54.707Z"
+    },
+    {
+      "slug": "02-consorcio-financiamento-home-equity",
+      "bufferPostId": "6a62cb9059cf1d7b38985735",
+      "dueAt": "2026-07-25T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:18:56.453Z"
+    },
+    {
+      "slug": "03-tres-funcoes-do-imovel",
+      "bufferPostId": "6a62cb92c31012b1ae0e75c1",
+      "dueAt": "2026-07-26T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:18:58.258Z"
+    },
+    {
+      "slug": "04-dolarizacao-gradual",
+      "bufferPostId": "6a62cb936f9e9fb040cba175",
+      "dueAt": "2026-07-27T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:18:59.964Z"
+    },
+    {
+      "slug": "05-financiar-ou-pagar-a-vista",
+      "bufferPostId": "6a62cb9500eb658eba7a30ad",
+      "dueAt": "2026-07-28T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:19:01.749Z"
+    },
+    {
+      "slug": "06-credito-empresarial-para-crescimento",
+      "bufferPostId": "6a62cb97b7a65f989c92bb84",
+      "dueAt": "2026-07-29T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:19:03.494Z"
+    },
+    {
+      "slug": "07-consorcio-e-ferramenta",
+      "bufferPostId": "6a62cb99c31012b1ae0e75ed",
+      "dueAt": "2026-07-30T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-07-24T02:19:05.354Z"
     }
   ]
 }
