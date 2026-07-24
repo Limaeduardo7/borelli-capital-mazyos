@@ -40,11 +40,16 @@
     },
     {
       "slug": "04-liquidez-e-margem-de-manobra",
-      "bufferPostId": "6a58fd6744151f60bbf7d4d9",
-      "dueAt": "2026-07-23T16:00:00.000Z",
+      "bufferPostId": "6a62b9ed85f7fddaf7b44edd",
+      "dueAt": "2026-07-24T01:03:41.182Z",
       "assets": 7,
       "scheduledAt": "2026-07-16T15:48:55.785Z",
-      "updatedAt": "2026-07-22T01:49:37.873Z"
+      "updatedAt": "2026-07-22T01:49:37.873Z",
+      "status": "sent",
+      "sentAt": "2026-07-24T01:04:28.772Z",
+      "externalLink": "https://www.instagram.com/p/DbKBGLVjnpK/",
+      "sharedNow": true,
+      "shareMode": "shareNow"
     },
     {
       "slug": "05-decisao-de-compra-em-camadas",
