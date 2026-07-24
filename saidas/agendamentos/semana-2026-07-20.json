@@ -57,7 +57,8 @@
       "dueAt": "2026-07-24T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-16T15:48:58.105Z",
-      "updatedAt": "2026-07-22T01:49:37.873Z"
+      "updatedAt": "2026-07-22T01:49:37.873Z",
+      "status": "cancelled"
     },
     {
       "slug": "06-objecoes-que-merecem-analise",
@@ -65,7 +66,8 @@
       "dueAt": "2026-07-25T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-16T15:49:00.318Z",
-      "updatedAt": "2026-07-22T01:49:37.873Z"
+      "updatedAt": "2026-07-22T01:49:37.873Z",
+      "status": "cancelled"
     },
     {
       "slug": "07-diagnostico-antes-da-solucao",
@@ -73,7 +75,8 @@
       "dueAt": "2026-07-26T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-07-16T15:49:02.613Z",
-      "updatedAt": "2026-07-22T01:49:37.873Z"
+      "updatedAt": "2026-07-22T01:49:37.873Z",
+      "status": "cancelled"
     }
   ]
 }
