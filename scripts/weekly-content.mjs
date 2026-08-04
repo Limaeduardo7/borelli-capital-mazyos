@@ -321,6 +321,43 @@ async function schedulePlan(plan, startDate = plan.weekStart) {
   console.log(`concluído: ${ledger.posts.length}/7 carrosséis registrados em ${ledgerFile}`);
 }
 
+async function reschedulePlan(plan, startDate) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(startDate || '')) fail('reschedule exige --start-date AAAA-MM-DD.');
+  const { channel } = await discoverBuffer();
+  const weekDirName = `semana-${plan.weekStart}`;
+  const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
+  const mediaBase = (process.env.MEDIA_BASE_URL || DEFAULT_MEDIA_BASE_URL).replace(/\/$/, '');
+  const ledgerFile = path.join(ROOT, 'saidas', 'agendamentos', `${weekDirName}.json`);
+  if (!fs.existsSync(publicRoot) || !fs.existsSync(ledgerFile)) fail('render ou ledger da semana não encontrado.');
+  const ledger = readJson(ledgerFile);
+
+  for (const [index, item] of plan.carousels.entries()) {
+    const slug = `${String(index + 1).padStart(2, '0')}-${slugify(item.slug || item.theme)}`;
+    const record = ledger.posts.find((post) => post.slug === slug && post.bufferPostId);
+    if (!record) fail(`post existente não encontrado no ledger: ${slug}`);
+    const imageFiles = fs.readdirSync(path.join(publicRoot, slug)).filter((name) => /^slide-\d+\.png$/.test(name)).sort();
+    const mediaVersion = `${plan.weekStart.replaceAll('-', '')}-${startDate.replaceAll('-', '')}`;
+    const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${slug}/${name}?v=${mediaVersion}`);
+    for (const url of urls) await assertPublic(url);
+    const dueAt = dueAtFor(startDate, index);
+    const input = {
+      id: record.bufferPostId,
+      text: item.caption,
+      schedulingType: 'automatic',
+      mode: 'customScheduled',
+      metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
+      dueAt,
+      assets: urls.map((url) => ({ image: { url } })),
+    };
+    const data = await bufferRequest(`mutation RescheduleCarousel($input: EditPostInput!) { editPost(input: $input) { ... on PostActionSuccess { post { id status dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
+    const result = data?.editPost;
+    if (!result?.post?.id) fail(result?.message || `Buffer não confirmou o reagendamento de ${slug}.`);
+    Object.assign(record, { dueAt: result.post.dueAt, assets: result.post.assets.length, status: result.post.status, rescheduledAt: new Date().toISOString() });
+    writeJsonAtomic(ledgerFile, ledger);
+    console.log(`reagendado: ${slug} -> ${result.post.dueAt} (${result.post.id})`);
+  }
+}
+
 function runGit(args, options = {}) {
   const result = spawnSync('git', args, { cwd: ROOT, encoding: 'utf8', ...options });
   if (result.status !== 0 && !options.allowFailure) {
@@ -358,8 +395,8 @@ if (command === 'discover') {
   console.log(JSON.stringify(result, null, 2));
   process.exit(0);
 }
-if (!['validate', 'render', 'schedule', 'archive'].includes(command)) {
-  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|archive> [--input planejamento/semana-AAAA-MM-DD.json]');
+if (!['validate', 'render', 'schedule', 'reschedule', 'archive'].includes(command)) {
+  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD]');
   process.exit(command === 'help' ? 0 : 2);
 }
 const inputFile = path.resolve(ROOT, args.input || defaultInputPath());
@@ -367,4 +404,5 @@ const plan = validatePlan(readJson(inputFile));
 if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`);
 if (command === 'render') await renderPlan(inputFile, plan);
 if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
+if (command === 'reschedule') await reschedulePlan(plan, args['start-date']);
 if (command === 'archive') archivePlan(inputFile, plan);
