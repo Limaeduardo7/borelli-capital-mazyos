@@ -1,0 +1,44 @@
+{
+  "slug": "credito-passa-por-teste-de-estresse",
+  "theme": "Crédito estratégico: teste de estresse antes da contratação",
+  "category": "CRÉDITO ESTRATÉGICO",
+  "hook": "Antes do crédito, teste o caixa",
+  "caption": "Uma operação de crédito pode parecer confortável no cenário-base e se tornar inadequada quando receita, prazo ou custos mudam. Por isso, a análise não termina na parcela que cabe hoje.\n\nUm teste de estresse pergunta como o caixa responderia a atrasos, despesas extraordinárias ou períodos de menor geração. Não é previsão de desastre: é uma forma responsável de dimensionar margem, prazo e reserva antes do compromisso.\n\nSe você avalia uma estrutura de crédito, agende uma reunião consultiva com a Borelli Capital para organizar premissas e cenários. Aprovação e resultado não são garantidos.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #FluxoDeCaixa #GestãoDeRisco #PlanejamentoPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "CRÉDITO ESTRATÉGICO",
+      "title": "Antes do crédito, teste o caixa",
+      "body": "A parcela de hoje não mostra como a estrutura reage à mudança."
+    },
+    {
+      "kicker": "CENÁRIO-BASE",
+      "title": "Cabem as condições atuais",
+      "body": "Mas renda, despesas e prazos podem se mover durante a operação."
+    },
+    {
+      "kicker": "ESTRESSE 01",
+      "title": "E se a receita atrasar?",
+      "body": "Observe por quanto tempo a reserva sustenta o compromisso sem improviso."
+    },
+    {
+      "kicker": "ESTRESSE 02",
+      "title": "E se o custo aumentar?",
+      "body": "Despesas extraordinárias testam a margem real disponível no orçamento."
+    },
+    {
+      "kicker": "ESTRESSE 03",
+      "title": "E se o plano mudar?",
+      "body": "Flexibilidade contratual importa quando o objetivo muda antes do prazo."
+    },
+    {
+      "kicker": "DIMENSIONAMENTO",
+      "title": "Margem protege a estratégia",
+      "body": "Uma operação responsável considera folga, não apenas capacidade máxima."
+    },
+    {
+      "kicker": "CONVITE CONSULTIVO",
+      "title": "Teste antes de comprometer",
+      "body": "Agende uma reunião com a Borelli Capital para avaliar cenários com clareza."
+    }
+  ]
+}
