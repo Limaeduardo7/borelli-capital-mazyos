@@ -358,6 +358,80 @@ async function reschedulePlan(plan, startDate) {
   }
 }
 
+async function repairPendingPlan(plan) {
+  const { channel } = await discoverBuffer();
+  const weekDirName = `semana-${plan.weekStart}`;
+  const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
+  const mediaBase = (process.env.MEDIA_BASE_URL || DEFAULT_MEDIA_BASE_URL).replace(/\/$/, '');
+  const ledgerFile = path.join(ROOT, 'saidas', 'agendamentos', `${weekDirName}.json`);
+  if (!fs.existsSync(publicRoot) || !fs.existsSync(ledgerFile)) fail('render ou ledger da semana não encontrado.');
+  const ledger = readJson(ledgerFile);
+  ledger.replacedPosts ||= [];
+
+  for (const [index, item] of plan.carousels.entries()) {
+    const slug = `${String(index + 1).padStart(2, '0')}-${slugify(item.slug || item.theme)}`;
+    const record = ledger.posts.find((post) => post.slug === slug && post.bufferPostId);
+    if (!record) continue;
+    let current = null;
+    if (record.status !== 'deleted') {
+      const currentData = await bufferRequest(`query RepairStatus($input: PostInput!) { post(input: $input) { id status dueAt } }`, { input: { id: record.bufferPostId } });
+      current = currentData?.post;
+    }
+    if (current?.status === 'sent' || current?.status === 'sending') {
+      console.log(`inalterado: ${slug} (${current?.status || 'ausente'})`);
+      continue;
+    }
+    const availableImages = fs.readdirSync(path.join(publicRoot, slug)).filter((name) => /^slide-\d+\.(png|jpg)$/.test(name)).sort();
+    const imageFiles = availableImages.some((name) => name.endsWith('.jpg'))
+      ? availableImages.filter((name) => name.endsWith('.jpg'))
+      : availableImages.filter((name) => name.endsWith('.png'));
+    const mediaVersion = `${plan.weekStart.replaceAll('-', '')}-repair-${Date.now()}`;
+    const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${slug}/${name}?v=${mediaVersion}`);
+    for (const url of urls) await assertPublic(url);
+
+    if (!current || current.status === 'error') {
+      if (current?.status === 'error') {
+        const deleted = await bufferRequest(`mutation DeleteBrokenPost($input: DeletePostInput!) { deletePost(input: $input) { ... on DeletePostSuccess { id } ... on VoidMutationError { message } } }`, { input: { id: record.bufferPostId } });
+        if (!deleted?.deletePost?.id) fail(deleted?.deletePost?.message || `não foi possível remover ${slug}.`);
+      }
+      const input = {
+        text: item.caption,
+        channelId: channel.id,
+        schedulingType: 'automatic',
+        mode: 'shareNow',
+        metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
+        assets: urls.map((url) => ({ image: { url } })),
+      };
+      const created = await bufferRequest(`mutation RetryCarousel($input: CreatePostInput!) { createPost(input: $input) { ... on PostActionSuccess { post { id status dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
+      const post = created?.createPost?.post;
+      if (!post?.id) fail(created?.createPost?.message || `Buffer não retornou novo ID para ${slug}.`);
+      ledger.replacedPosts.push({ ...record, replacedAt: new Date().toISOString(), reason: 'media-repair' });
+      Object.assign(record, { bufferPostId: post.id, dueAt: post.dueAt, assets: post.assets.length, status: post.status, repairedAt: new Date().toISOString(), shareMode: 'shareNow' });
+      writeJsonAtomic(ledgerFile, ledger);
+      console.log(`reenviado agora: ${slug} (${post.id})`);
+      continue;
+    }
+
+    if (current.status === 'scheduled') {
+      const input = {
+        id: record.bufferPostId,
+        text: item.caption,
+        schedulingType: 'automatic',
+        mode: 'customScheduled',
+        metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
+        dueAt: current.dueAt,
+        assets: urls.map((url) => ({ image: { url } })),
+      };
+      const edited = await bufferRequest(`mutation RepairScheduledCarousel($input: EditPostInput!) { editPost(input: $input) { ... on PostActionSuccess { post { id status dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
+      const post = edited?.editPost?.post;
+      if (!post?.id) fail(edited?.editPost?.message || `Buffer não confirmou a edição de ${slug}.`);
+      Object.assign(record, { dueAt: post.dueAt, assets: post.assets.length, status: post.status, repairedAt: new Date().toISOString() });
+      writeJsonAtomic(ledgerFile, ledger);
+      console.log(`assets atualizados: ${slug} (${post.id})`);
+    }
+  }
+}
+
 function runGit(args, options = {}) {
   const result = spawnSync('git', args, { cwd: ROOT, encoding: 'utf8', ...options });
   if (result.status !== 0 && !options.allowFailure) {
@@ -395,8 +469,8 @@ if (command === 'discover') {
   console.log(JSON.stringify(result, null, 2));
   process.exit(0);
 }
-if (!['validate', 'render', 'schedule', 'reschedule', 'archive'].includes(command)) {
-  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD]');
+if (!['validate', 'render', 'schedule', 'reschedule', 'repair', 'archive'].includes(command)) {
+  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|repair|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD]');
   process.exit(command === 'help' ? 0 : 2);
 }
 const inputFile = path.resolve(ROOT, args.input || defaultInputPath());
@@ -405,4 +479,5 @@ if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`)
 if (command === 'render') await renderPlan(inputFile, plan);
 if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
 if (command === 'reschedule') await reschedulePlan(plan, args['start-date']);
+if (command === 'repair') await repairPendingPlan(plan);
 if (command === 'archive') archivePlan(inputFile, plan);
