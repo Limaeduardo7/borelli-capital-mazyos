@@ -8,12 +8,12 @@
       "dueAt": "2026-08-04T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:07.167Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-04T16:00:52.157Z",
+      "externalLink": "https://www.instagram.com/p/Dbn8biElh5l/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
-      "checkedAt": "2026-08-04T14:48:37.361Z",
+      "checkedAt": "2026-08-04T16:02:05.383Z",
       "rescheduledAt": "2026-08-04T14:55:46.654Z"
     },
     {
@@ -22,12 +22,12 @@
       "dueAt": "2026-08-05T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:08.135Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-05T16:05:37.225Z",
+      "externalLink": "https://www.instagram.com/p/DbqhlrlIKpv/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
-      "checkedAt": "2026-08-04T14:48:37.568Z",
+      "checkedAt": "2026-08-05T16:06:04.783Z",
       "rescheduledAt": "2026-08-04T14:55:47.497Z"
     },
     {
@@ -36,12 +36,12 @@
       "dueAt": "2026-08-06T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:09.082Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-06T16:06:09.509Z",
+      "externalLink": "https://www.instagram.com/p/DbtGW9mloqB/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
-      "checkedAt": "2026-08-04T14:48:37.764Z",
+      "checkedAt": "2026-08-06T16:08:17.050Z",
       "rescheduledAt": "2026-08-04T14:55:48.359Z"
     },
     {
@@ -74,17 +74,20 @@
     },
     {
       "slug": "06-esperar-tambem-e-uma-decisao",
-      "bufferPostId": "6a71fbab6807ba0bcdfe8a75",
-      "dueAt": "2026-08-09T16:00:00.000Z",
+      "bufferPostId": "6a78fa2b6cf9016eeb046ed2",
+      "dueAt": "2026-08-09T22:07:39.929Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:12.028Z",
-      "status": "scheduled",
+      "status": "sending",
       "sentAt": null,
       "externalLink": null,
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
-      "checkedAt": "2026-08-04T14:48:38.335Z",
-      "rescheduledAt": "2026-08-04T14:55:51.315Z"
+      "checkedAt": "2026-08-09T16:21:20.791Z",
+      "rescheduledAt": "2026-08-04T14:55:51.315Z",
+      "deletedAt": "2026-08-09T22:06:00.982Z",
+      "repairedAt": "2026-08-09T22:07:50.259Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "07-reuniao-termina-com-criterios",
@@ -98,7 +101,27 @@
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-04T14:48:38.519Z",
-      "rescheduledAt": "2026-08-04T14:55:52.247Z"
+      "rescheduledAt": "2026-08-04T14:55:52.247Z",
+      "repairedAt": "2026-08-09T22:07:52.973Z"
+    }
+  ],
+  "replacedPosts": [
+    {
+      "slug": "06-esperar-tambem-e-uma-decisao",
+      "bufferPostId": "6a71fbab6807ba0bcdfe8a75",
+      "dueAt": "2026-08-09T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-04T14:48:12.028Z",
+      "status": "deleted",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "channelId": "6a5687f980cc80cdcab418cf",
+      "checkedAt": "2026-08-09T16:21:20.791Z",
+      "rescheduledAt": "2026-08-04T14:55:51.315Z",
+      "deletedAt": "2026-08-09T22:06:00.982Z",
+      "replacedAt": "2026-08-09T22:07:50.259Z",
+      "reason": "media-repair"
     }
   ]
 }
