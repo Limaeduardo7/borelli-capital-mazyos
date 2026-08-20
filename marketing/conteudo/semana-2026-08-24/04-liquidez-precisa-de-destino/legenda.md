@@ -1,0 +1,3 @@
+Manter liquidez sem definir sua função pode gerar duas distorções: recursos ociosos por medo de decidir ou caixa comprometido com objetivos que não deveriam competir. Separar reservas por finalidade — proteção, execução e oportunidade — melhora a leitura do que realmente está disponível. Essa organização não é uma fórmula universal; depende de renda, compromissos, horizonte e tolerância a imprevistos. A Borelli Capital estrutura a conversa a partir dessas premissas, sem soluções genéricas. Agende uma reunião para organizar sua arquitetura de liquidez. Conteúdo educativo, não recomendação individual.
+
+#Liquidez #ReservaFinanceira #PlanejamentoPatrimonial #GestãoDeCaixa #DecisõesFinanceiras #BorelliCapital

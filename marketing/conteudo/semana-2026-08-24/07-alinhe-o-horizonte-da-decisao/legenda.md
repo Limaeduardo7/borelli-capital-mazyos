@@ -1,0 +1,3 @@
+Soluções financeiras só fazem sentido dentro de um horizonte: o que precisa acontecer, em quanto tempo, com quais recursos e quais limites não podem ser ultrapassados. Sem esse alinhamento, produtos diferentes parecem comparáveis quando, na prática, respondem a problemas distintos. Uma conversa consultiva começa pelas premissas e termina com critérios para decidir — não com urgência para contratar. A Borelli Capital conduz esse diagnóstico para integrar patrimônio, liquidez, crédito e objetivos. Agende uma reunião e leve sua próxima decisão para uma análise estruturada. Conteúdo educativo; não constitui recomendação individual.
+
+#ConsultoriaPatrimonial #PlanejamentoEstratégico #DecisõesFinanceiras #CréditoEstratégico #GestãoPatrimonial #BorelliCapital

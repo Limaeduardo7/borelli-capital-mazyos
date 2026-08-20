@@ -1,0 +1,3 @@
+Patrimônio não é apenas a soma dos ativos. É também a ordem das decisões que disputam o mesmo caixa, o mesmo prazo e a mesma capacidade de assumir compromissos. Quando todas as metas parecem igualmente urgentes, a estrutura perde clareza. Organizar prioridades não significa abandonar objetivos; significa definir sequência, limites e critérios de revisão. Em uma reunião consultiva, a Borelli Capital ajuda a transformar intenções patrimoniais em uma agenda coerente de decisões. Agende uma conversa para avaliar seu contexto. Conteúdo educativo; não constitui recomendação individual.
+
+#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #Patrimônio #BorelliCapital

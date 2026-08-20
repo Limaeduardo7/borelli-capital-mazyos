@@ -1,0 +1,3 @@
+A entrada costuma concentrar a atenção de quem planeja uma compra relevante. Mas a decisão continua depois dela: há efeito sobre reservas, capacidade de crédito, custos recorrentes, flexibilidade e próximos objetivos. O valor desembolsado hoje precisa ser lido junto com o que deixa de estar disponível amanhã. Isso não torna o pagamento à vista ou o financiamento automaticamente melhor; apenas exige comparação estruturada. A Borelli Capital ajuda a mapear esses impactos antes do compromisso. Agende uma reunião consultiva para analisar o contexto da sua decisão. Conteúdo educativo.
+
+#DecisãoDeCompra #PlanejamentoPatrimonial #CréditoImobiliário #Liquidez #AquisiçãoDeAtivos #BorelliCapital

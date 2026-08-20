@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-08-24",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-patrimonio-pede-prioridades-explicitas",
+      "bufferPostId": "6a876d78d7cccc8a7bf6968f",
+      "dueAt": "2026-08-21T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:21.161Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:42.821Z"
+    },
+    {
+      "slug": "02-taxa-nao-decide-sozinha",
+      "bufferPostId": "6a876d794d7448d186a47d96",
+      "dueAt": "2026-08-22T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:22.165Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:43.026Z"
+    },
+    {
+      "slug": "03-contemplacao-nao-substitui-planejamento",
+      "bufferPostId": "6a876d7a215134e1d70bb278",
+      "dueAt": "2026-08-23T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:23.114Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:43.218Z"
+    },
+    {
+      "slug": "04-liquidez-precisa-de-destino",
+      "bufferPostId": "6a876d7b5b4a6e681b1a0bce",
+      "dueAt": "2026-08-24T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:24.127Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:43.425Z"
+    },
+    {
+      "slug": "05-entrada-nao-conta-tudo",
+      "bufferPostId": "6a876d7cd7cccc8a7bf696c6",
+      "dueAt": "2026-08-25T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:25.104Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:43.642Z"
+    },
+    {
+      "slug": "06-divida-sempre-reduz-liberdade",
+      "bufferPostId": "6a876d7dd7cccc8a7bf696fb",
+      "dueAt": "2026-08-26T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:26.086Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:43.850Z"
+    },
+    {
+      "slug": "07-alinhe-o-horizonte-da-decisao",
+      "bufferPostId": "6a876d7e2349d54dc9c107b2",
+      "dueAt": "2026-08-27T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-20T21:11:27.063Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:11:44.062Z"
+    }
+  ]
+}

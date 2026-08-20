@@ -1,0 +1,45 @@
+{
+  "slug": "taxa-nao-decide-sozinha",
+  "theme": "Crédito estratégico: avaliar a arquitetura além da taxa",
+  "category": "CRÉDITO ESTRATÉGICO",
+  "hook": "A taxa não decide sozinha",
+  "footer": "Crédito como ferramenta. Critério como proteção.",
+  "caption": "Comparar crédito apenas pela taxa pode esconder o que realmente muda a decisão: prazo, sistema de amortização, garantias, flexibilidade, custo total e efeito sobre a liquidez. Uma condição aparentemente barata pode ser inadequada ao horizonte do patrimônio; outra, mais flexível, pode preservar opções importantes. A análise precisa considerar a arquitetura completa e a capacidade de saída, não um número isolado. A Borelli Capital conduz essa leitura de forma consultiva e alinhada ao contexto. Agende uma reunião para avaliar premissas e alternativas. Conteúdo educativo; aprovação e condições dependem de análise.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #EstruturaDeCrédito #Liquidez #GestãoPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "CRÉDITO ESTRATÉGICO",
+      "title": "A taxa não decide sozinha",
+      "body": "Crédito é uma estrutura, não apenas um percentual."
+    },
+    {
+      "kicker": "PRAZO",
+      "title": "Tempo muda o custo real",
+      "body": "Parcelas menores podem ampliar a duração do compromisso."
+    },
+    {
+      "kicker": "AMORTIZAÇÃO",
+      "title": "O saldo tem comportamento próprio",
+      "body": "Entender a evolução da dívida evita comparações incompletas."
+    },
+    {
+      "kicker": "GARANTIAS",
+      "title": "Toda garantia tem consequência",
+      "body": "O ativo vinculado altera risco, liberdade e capacidade futura."
+    },
+    {
+      "kicker": "FLEXIBILIDADE",
+      "title": "Saídas também têm valor",
+      "body": "Antecipação, portabilidade e quitação merecem leitura prévia."
+    },
+    {
+      "kicker": "CAIXA",
+      "title": "A parcela precisa caber depois",
+      "body": "A decisão deve sobreviver a cenários menos confortáveis."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Compare a arquitetura completa",
+      "body": "Converse com a Borelli Capital antes de escolher a estrutura."
+    }
+  ]
+}

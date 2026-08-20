@@ -1,0 +1,3 @@
+Comparar crédito apenas pela taxa pode esconder o que realmente muda a decisão: prazo, sistema de amortização, garantias, flexibilidade, custo total e efeito sobre a liquidez. Uma condição aparentemente barata pode ser inadequada ao horizonte do patrimônio; outra, mais flexível, pode preservar opções importantes. A análise precisa considerar a arquitetura completa e a capacidade de saída, não um número isolado. A Borelli Capital conduz essa leitura de forma consultiva e alinhada ao contexto. Agende uma reunião para avaliar premissas e alternativas. Conteúdo educativo; aprovação e condições dependem de análise.
+
+#CréditoEstratégico #PlanejamentoFinanceiro #EstruturaDeCrédito #Liquidez #GestãoPatrimonial #BorelliCapital

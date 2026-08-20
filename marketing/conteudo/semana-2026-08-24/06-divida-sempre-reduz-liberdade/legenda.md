@@ -1,0 +1,3 @@
+A objeção à dívida é legítima: compromissos mal dimensionados reduzem margem de manobra e aumentam vulnerabilidade. Mas a análise patrimonial precisa distinguir consumo sem estrutura de crédito associado a um objetivo, com limites, garantias compreendidas e plano de saída. A palavra dívida não resolve a decisão; as condições é que revelam seu efeito sobre a liberdade. Em alguns contextos, não usar crédito também concentra recursos e restringe opções. A Borelli Capital ajuda a comparar essas consequências com método. Agende uma conversa consultiva. Conteúdo educativo; cada caso exige análise própria.
+
+#CréditoConsciente #PlanejamentoFinanceiro #GestãoDeRisco #LiberdadeFinanceira #Patrimônio #BorelliCapital

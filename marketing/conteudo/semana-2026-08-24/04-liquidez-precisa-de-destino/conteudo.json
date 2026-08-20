@@ -1,0 +1,45 @@
+{
+  "slug": "liquidez-precisa-de-destino",
+  "theme": "Liquidez: reservas organizadas por função",
+  "category": "LIQUIDEZ E ESTRUTURA",
+  "hook": "Liquidez precisa de destino",
+  "footer": "Liquidez preserva escolhas e qualidade de decisão.",
+  "caption": "Manter liquidez sem definir sua função pode gerar duas distorções: recursos ociosos por medo de decidir ou caixa comprometido com objetivos que não deveriam competir. Separar reservas por finalidade — proteção, execução e oportunidade — melhora a leitura do que realmente está disponível. Essa organização não é uma fórmula universal; depende de renda, compromissos, horizonte e tolerância a imprevistos. A Borelli Capital estrutura a conversa a partir dessas premissas, sem soluções genéricas. Agende uma reunião para organizar sua arquitetura de liquidez. Conteúdo educativo, não recomendação individual.\n\n#Liquidez #ReservaFinanceira #PlanejamentoPatrimonial #GestãoDeCaixa #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E ESTRUTURA",
+      "title": "Liquidez precisa de destino",
+      "body": "Caixa sem função pode confundir disponibilidade com sobra."
+    },
+    {
+      "kicker": "PROTEÇÃO",
+      "title": "Uma parte sustenta estabilidade",
+      "body": "Reserva protege compromissos e reduz decisões sob pressão."
+    },
+    {
+      "kicker": "EXECUÇÃO",
+      "title": "Outra parte viabiliza planos",
+      "body": "Aquisições previstas pedem recursos separados e horizonte claro."
+    },
+    {
+      "kicker": "OPORTUNIDADE",
+      "title": "Flexibilidade também merece espaço",
+      "body": "Nem todo recurso precisa nascer comprometido com um ativo."
+    },
+    {
+      "kicker": "FRONTEIRA",
+      "title": "Disponível não significa utilizável",
+      "body": "O destino definido evita consumir a reserva errada."
+    },
+    {
+      "kicker": "REVISÃO",
+      "title": "Funções mudam com o contexto",
+      "body": "Novos compromissos exigem recalibrar valores e prazos."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Dê função à sua liquidez",
+      "body": "Converse com a Borelli Capital para organizar suas reservas."
+    }
+  ]
+}

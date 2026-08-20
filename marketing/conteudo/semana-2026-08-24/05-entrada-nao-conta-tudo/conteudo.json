@@ -1,0 +1,45 @@
+{
+  "slug": "entrada-nao-conta-tudo",
+  "theme": "Decisão de compra: impacto patrimonial além da entrada",
+  "category": "DECISÕES DE COMPRA",
+  "hook": "A entrada não conta tudo",
+  "footer": "Comprar bem começa pela estrutura da decisão.",
+  "caption": "A entrada costuma concentrar a atenção de quem planeja uma compra relevante. Mas a decisão continua depois dela: há efeito sobre reservas, capacidade de crédito, custos recorrentes, flexibilidade e próximos objetivos. O valor desembolsado hoje precisa ser lido junto com o que deixa de estar disponível amanhã. Isso não torna o pagamento à vista ou o financiamento automaticamente melhor; apenas exige comparação estruturada. A Borelli Capital ajuda a mapear esses impactos antes do compromisso. Agende uma reunião consultiva para analisar o contexto da sua decisão. Conteúdo educativo.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #CréditoImobiliário #Liquidez #AquisiçãoDeAtivos #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "DECISÕES DE COMPRA",
+      "title": "A entrada não conta tudo",
+      "body": "O desembolso inicial altera mais do que a parcela."
+    },
+    {
+      "kicker": "RESERVAS",
+      "title": "Quanto caixa permanece disponível?",
+      "body": "A compra não deve apagar a margem para imprevistos."
+    },
+    {
+      "kicker": "RECORRÊNCIA",
+      "title": "O ativo cria novos custos",
+      "body": "Manutenção, tributos e operação entram no orçamento futuro."
+    },
+    {
+      "kicker": "CRÉDITO",
+      "title": "Sua capacidade também muda",
+      "body": "Um compromisso pode limitar estruturas para objetivos seguintes."
+    },
+    {
+      "kicker": "ALTERNATIVAS",
+      "title": "Compare o que fica de fora",
+      "body": "Toda alocação exclui outras possibilidades por algum tempo."
+    },
+    {
+      "kicker": "HORIZONTE",
+      "title": "A decisão precisa envelhecer bem",
+      "body": "Considere mudanças de renda, uso e prioridades."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Leia o impacto completo",
+      "body": "Converse com a Borelli Capital antes de assumir o compromisso."
+    }
+  ]
+}

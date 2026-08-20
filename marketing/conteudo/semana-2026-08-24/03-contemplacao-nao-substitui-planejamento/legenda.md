@@ -1,0 +1,3 @@
+A contemplação é um evento importante, mas não encerra a estratégia. Depois dela ainda existem decisões sobre o ativo, documentação, uso do crédito, manutenção da liquidez e compatibilidade da parcela com o restante do plano. Quando o consórcio é tratado como instrumento patrimonial, a preparação começa antes e continua depois da disponibilidade do crédito. O objetivo não é adivinhar datas, e sim construir prontidão para diferentes cenários. A Borelli Capital ajuda a integrar o consórcio à estratégia patrimonial. Agende uma conversa consultiva. Não há garantia de contemplação ou resultado.
+
+#Consórcio #PlanejamentoPatrimonial #CréditoPlanejado #AquisiçãoDeImóveis #EstratégiaFinanceira #BorelliCapital
