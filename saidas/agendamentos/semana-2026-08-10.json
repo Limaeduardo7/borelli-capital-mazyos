@@ -14,7 +14,8 @@
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-04T16:02:05.383Z",
-      "rescheduledAt": "2026-08-04T14:55:46.654Z"
+      "rescheduledAt": "2026-08-04T14:55:46.654Z",
+      "statusCheckedAt": "2026-08-20T21:02:28.315Z"
     },
     {
       "slug": "02-credito-passa-por-teste-de-estresse",
@@ -28,7 +29,8 @@
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-05T16:06:04.783Z",
-      "rescheduledAt": "2026-08-04T14:55:47.497Z"
+      "rescheduledAt": "2026-08-04T14:55:47.497Z",
+      "statusCheckedAt": "2026-08-20T21:02:28.528Z"
     },
     {
       "slug": "03-consorcio-exige-orcamento-de-longo-prazo",
@@ -42,7 +44,8 @@
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-06T16:08:17.050Z",
-      "rescheduledAt": "2026-08-04T14:55:48.359Z"
+      "rescheduledAt": "2026-08-04T14:55:48.359Z",
+      "statusCheckedAt": "2026-08-20T21:02:28.800Z"
     },
     {
       "slug": "04-liquidez-em-tres-camadas",
@@ -50,13 +53,14 @@
       "dueAt": "2026-08-07T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:10.108Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-07T16:06:23.406Z",
+      "externalLink": "https://www.instagram.com/p/DbvrM_aFc74/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-04T14:48:37.957Z",
-      "rescheduledAt": "2026-08-04T14:55:49.324Z"
+      "rescheduledAt": "2026-08-04T14:55:49.324Z",
+      "statusCheckedAt": "2026-08-20T21:02:29.003Z"
     },
     {
       "slug": "05-ativo-certo-estrutura-errada",
@@ -64,13 +68,14 @@
       "dueAt": "2026-08-08T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:11.093Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-08T16:04:00.138Z",
+      "externalLink": "https://www.instagram.com/p/DbyPz4nm9Gi/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-04T14:48:38.142Z",
-      "rescheduledAt": "2026-08-04T14:55:50.370Z"
+      "rescheduledAt": "2026-08-04T14:55:50.370Z",
+      "statusCheckedAt": "2026-08-20T21:02:29.223Z"
     },
     {
       "slug": "06-esperar-tambem-e-uma-decisao",
@@ -78,16 +83,17 @@
       "dueAt": "2026-08-09T22:07:39.929Z",
       "assets": 7,
       "scheduledAt": "2026-08-04T14:48:12.028Z",
-      "status": "sending",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-09T22:13:27.259Z",
+      "externalLink": "https://www.instagram.com/p/Db1fCaGIGZE/",
       "error": null,
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-09T16:21:20.791Z",
       "rescheduledAt": "2026-08-04T14:55:51.315Z",
       "deletedAt": "2026-08-09T22:06:00.982Z",
       "repairedAt": "2026-08-09T22:07:50.259Z",
-      "shareMode": "shareNow"
+      "shareMode": "shareNow",
+      "statusCheckedAt": "2026-08-20T21:02:29.443Z"
     },
     {
       "slug": "07-reuniao-termina-com-criterios",
@@ -102,7 +108,8 @@
       "channelId": "6a5687f980cc80cdcab418cf",
       "checkedAt": "2026-08-10T16:05:51.928Z",
       "rescheduledAt": "2026-08-04T14:55:52.247Z",
-      "repairedAt": "2026-08-09T22:07:52.973Z"
+      "repairedAt": "2026-08-09T22:07:52.973Z",
+      "statusCheckedAt": "2026-08-20T21:02:29.650Z"
     }
   ],
   "replacedPosts": [
