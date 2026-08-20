@@ -1,0 +1,44 @@
+{
+  "slug": "compra-muda-seu-balanco",
+  "theme": "Decisão de compra: impacto no balanço patrimonial pessoal",
+  "category": "DECISÕES DE COMPRA",
+  "hook": "A compra muda seu balanço",
+  "caption": "Uma aquisição relevante transforma a composição do patrimônio. Dinheiro disponível pode virar um ativo menos líquido; uma obrigação futura pode entrar no passivo; custos recorrentes passam a disputar espaço no fluxo mensal.\n\nObservar o balanço antes e depois da compra ajuda a separar sensação de riqueza de estrutura patrimonial. O ativo pode ser adequado e, ainda assim, deixar concentração, baixa liquidez ou compromissos incompatíveis com os demais objetivos.\n\nPlaneja uma aquisição? Agende uma reunião consultiva com a Borelli Capital para comparar o antes e o depois com critérios claros.\n\n#DecisãoDeCompra #BalançoPatrimonial #PlanejamentoFinanceiro #AquisiçãoPatrimonial #Liquidez #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "DECISÕES DE COMPRA",
+      "title": "A compra muda seu balanço",
+      "body": "Não muda apenas o que você possui, mas como o patrimônio funciona."
+    },
+    {
+      "kicker": "ANTES",
+      "title": "Existe uma composição atual",
+      "body": "Ativos, liquidez e obrigações já cumprem funções no seu contexto."
+    },
+    {
+      "kicker": "ATIVO",
+      "title": "O recurso ganha outra forma",
+      "body": "Capital disponível pode se transformar em patrimônio menos líquido."
+    },
+    {
+      "kicker": "PASSIVO",
+      "title": "O futuro recebe compromissos",
+      "body": "Parcelas e custos recorrentes passam a ocupar capacidade financeira."
+    },
+    {
+      "kicker": "CONCENTRAÇÃO",
+      "title": "Um ativo pode dominar demais",
+      "body": "A compra pode aumentar dependência de uma única classe ou finalidade."
+    },
+    {
+      "kicker": "DEPOIS",
+      "title": "Compare a nova arquitetura",
+      "body": "Observe liquidez, obrigações, flexibilidade e aderência aos objetivos."
+    },
+    {
+      "kicker": "CONVITE CONSULTIVO",
+      "title": "Projete o balanço futuro",
+      "body": "Agende uma reunião com a Borelli Capital antes de transformar a estrutura."
+    }
+  ]
+}

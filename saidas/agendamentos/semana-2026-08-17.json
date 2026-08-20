@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-08-17",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-patrimonio-tem-mapa-de-dependencias",
+      "bufferPostId": "6a7e331f8800ed82745e1b06",
+      "dueAt": "2026-08-14T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:11:59.253Z",
+      "status": "sent",
+      "sentAt": "2026-08-14T16:04:51.638Z",
+      "externalLink": "https://www.instagram.com/p/DcBsk3bIH1m/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:29.873Z"
+    },
+    {
+      "slug": "02-credito-tem-ponto-de-saida",
+      "bufferPostId": "6a7e331f6bf062f95aa4bd30",
+      "dueAt": "2026-08-15T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:00.179Z",
+      "status": "sent",
+      "sentAt": "2026-08-15T16:03:05.556Z",
+      "externalLink": "https://www.instagram.com/p/DcERVLxFv5s/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:30.071Z"
+    },
+    {
+      "slug": "03-consorcio-sem-data-rigida",
+      "bufferPostId": "6a7e33206c3e52b0186315bd",
+      "dueAt": "2026-08-16T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:01.152Z",
+      "status": "sent",
+      "sentAt": "2026-08-16T16:03:34.897Z",
+      "externalLink": "https://www.instagram.com/p/DcG2IqqILp8/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:30.271Z"
+    },
+    {
+      "slug": "04-liquidez-tem-custo-de-reposicao",
+      "bufferPostId": "6a7e33216bf062f95aa4bd53",
+      "dueAt": "2026-08-17T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:02.099Z",
+      "status": "sent",
+      "sentAt": "2026-08-17T16:05:05.481Z",
+      "externalLink": "https://www.instagram.com/p/DcJbHitnPAA/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:30.496Z"
+    },
+    {
+      "slug": "05-compra-muda-seu-balanco",
+      "bufferPostId": "6a7e332281e1bf900d4866b6",
+      "dueAt": "2026-08-18T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:03.107Z",
+      "status": "sent",
+      "sentAt": "2026-08-18T16:06:28.639Z",
+      "externalLink": "https://www.instagram.com/p/DcL_7-llH5C/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:30.702Z"
+    },
+    {
+      "slug": "06-nao-quero-comprometer-meu-patrimonio",
+      "bufferPostId": "6a7e33236d35b7a2e0ff4e97",
+      "dueAt": "2026-08-19T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:04.071Z",
+      "status": "sent",
+      "sentAt": "2026-08-19T16:07:54.118Z",
+      "externalLink": "https://www.instagram.com/p/DcOkvjfluS8/",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:30.934Z"
+    },
+    {
+      "slug": "07-segunda-opiniao-patrimonial",
+      "bufferPostId": "6a7e33246bf062f95aa4bd86",
+      "dueAt": "2026-08-20T16:01:39.997Z",
+      "assets": 7,
+      "scheduledAt": "2026-08-13T21:12:05.099Z",
+      "status": "sent",
+      "externalLink": "https://www.instagram.com/p/DcRJeVKHFjT/",
+      "sentAt": "2026-08-20T16:03:44.609Z",
+      "error": null,
+      "statusCheckedAt": "2026-08-20T21:02:31.217Z"
+    }
+  ]
+}

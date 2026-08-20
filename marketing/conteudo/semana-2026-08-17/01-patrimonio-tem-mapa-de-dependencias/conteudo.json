@@ -1,0 +1,44 @@
+{
+  "slug": "patrimonio-tem-mapa-de-dependencias",
+  "theme": "Educação patrimonial: mapa de dependências entre decisões",
+  "category": "EDUCAÇÃO PATRIMONIAL",
+  "hook": "Seu patrimônio tem dependências invisíveis",
+  "caption": "Uma decisão patrimonial raramente termina onde começou. Usar a reserva como entrada altera a liquidez; assumir um prazo reduz a margem mensal; vender um ativo muda renda, proteção e capacidade de garantia.\n\nMapear dependências antes de decidir ajuda a enxergar efeitos de segunda ordem. O objetivo não é prever tudo, mas saber quais partes do patrimônio serão afetadas e quais limites precisam ser preservados.\n\nQuer organizar esse mapa antes da próxima decisão? Agende uma reunião consultiva com a Borelli Capital. Conteúdo educativo; cada estratégia exige análise individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "EDUCAÇÃO PATRIMONIAL",
+      "title": "Seu patrimônio tem dependências invisíveis",
+      "body": "Uma escolha pode alterar caixa, prazo e capacidade em outros pontos."
+    },
+    {
+      "kicker": "CONEXÕES",
+      "title": "Nenhuma decisão vive isolada",
+      "body": "Aquisição, reserva, renda e crédito participam do mesmo sistema."
+    },
+    {
+      "kicker": "EFEITO 01",
+      "title": "A entrada reduz a liquidez",
+      "body": "O valor imobilizado deixa de atender compromissos e movimentos futuros."
+    },
+    {
+      "kicker": "EFEITO 02",
+      "title": "O prazo ocupa capacidade",
+      "body": "Compromissos recorrentes mudam o espaço disponível nos próximos anos."
+    },
+    {
+      "kicker": "EFEITO 03",
+      "title": "A garantia conecta riscos",
+      "body": "Um ativo oferecido em garantia passa a responder por outra decisão."
+    },
+    {
+      "kicker": "MAPA",
+      "title": "Visualize antes de escolher",
+      "body": "Registre o que muda, o que permanece e o que não pode ser comprometido."
+    },
+    {
+      "kicker": "CONVITE CONSULTIVO",
+      "title": "Mapeie sua próxima decisão",
+      "body": "Agende uma reunião com a Borelli Capital para organizar as dependências do seu contexto."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "weekStart": "2026-08-17",
+  "carousels": [
+    {
+      "slug": "patrimonio-tem-mapa-de-dependencias",
+      "theme": "Educação patrimonial: mapa de dependências entre decisões",
+      "category": "EDUCAÇÃO PATRIMONIAL",
+      "hook": "Seu patrimônio tem dependências invisíveis",
+      "caption": "Uma decisão patrimonial raramente termina onde começou. Usar a reserva como entrada altera a liquidez; assumir um prazo reduz a margem mensal; vender um ativo muda renda, proteção e capacidade de garantia.\n\nMapear dependências antes de decidir ajuda a enxergar efeitos de segunda ordem. O objetivo não é prever tudo, mas saber quais partes do patrimônio serão afetadas e quais limites precisam ser preservados.\n\nQuer organizar esse mapa antes da próxima decisão? Agende uma reunião consultiva com a Borelli Capital. Conteúdo educativo; cada estratégia exige análise individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Seu patrimônio tem dependências invisíveis", "body": "Uma escolha pode alterar caixa, prazo e capacidade em outros pontos."},
+        {"kicker": "CONEXÕES", "title": "Nenhuma decisão vive isolada", "body": "Aquisição, reserva, renda e crédito participam do mesmo sistema."},
+        {"kicker": "EFEITO 01", "title": "A entrada reduz a liquidez", "body": "O valor imobilizado deixa de atender compromissos e movimentos futuros."},
+        {"kicker": "EFEITO 02", "title": "O prazo ocupa capacidade", "body": "Compromissos recorrentes mudam o espaço disponível nos próximos anos."},
+        {"kicker": "EFEITO 03", "title": "A garantia conecta riscos", "body": "Um ativo oferecido em garantia passa a responder por outra decisão."},
+        {"kicker": "MAPA", "title": "Visualize antes de escolher", "body": "Registre o que muda, o que permanece e o que não pode ser comprometido."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Mapeie sua próxima decisão", "body": "Agende uma reunião com a Borelli Capital para organizar as dependências do seu contexto."}
+      ]
+    },
+    {
+      "slug": "credito-tem-ponto-de-saida",
+      "theme": "Crédito estratégico: condições de saída antes da entrada",
+      "category": "CRÉDITO ESTRATÉGICO",
+      "hook": "Todo crédito precisa de saída",
+      "caption": "A análise de crédito costuma concentrar atenção na entrada: valor liberado, custo, parcela e prazo. Mas uma estrutura responsável também pergunta como o compromisso termina se o cenário mudar.\n\nAmortização, quitação, portabilidade, substituição de garantia e venda do ativo podem ter regras e custos próprios. Conhecer essas condições antes da contratação preserva flexibilidade e reduz decisões improvisadas no futuro.\n\nSe você está avaliando crédito, agende uma reunião consultiva com a Borelli Capital para comparar entrada, permanência e saída. Aprovação e resultado não são garantidos.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #GestãoDeRisco #Liquidez #PlanejamentoPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "Todo crédito precisa de saída", "body": "Entrar bem não basta quando o compromisso atravessa anos."},
+        {"kicker": "CONTRATO", "title": "Leia o final primeiro", "body": "Quitação, amortização e portabilidade merecem análise antes da assinatura."},
+        {"kicker": "FLEXIBILIDADE", "title": "O cenário pode mudar", "body": "Renda, objetivo e ativo podem seguir caminhos diferentes do previsto."},
+        {"kicker": "GARANTIA", "title": "Liberar o ativo tem regras", "body": "Prazos e condições influenciam uma venda ou reorganização futura."},
+        {"kicker": "CUSTO", "title": "Sair também pode custar", "body": "Taxas, registros e condições contratuais precisam entrar na comparação."},
+        {"kicker": "CRITÉRIO", "title": "Boa estrutura preserva opções", "body": "A saída adequada é aquela que continua possível sob cenários razoáveis."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Planeje entrada e saída", "body": "Agende uma reunião com a Borelli Capital para avaliar a operação completa."}
+      ]
+    },
+    {
+      "slug": "consorcio-sem-data-rigida",
+      "theme": "Consórcio: aderência a objetivos sem data rígida",
+      "category": "CONSÓRCIO ESTRATÉGICO",
+      "hook": "Seu objetivo aceita uma janela?",
+      "caption": "O consórcio pode ter aderência quando o objetivo trabalha com uma janela de realização, e não com uma data inegociável. Essa distinção muda a qualidade da análise.\n\nContemplação não tem data garantida. Por isso, é importante definir o intervalo aceitável, o plano caso a aquisição antecipe ou atrase, a capacidade de contribuição e as regras para lances. A ferramenta precisa conviver com a incerteza sem desorganizar o objetivo.\n\nQuer testar essa aderência no seu planejamento? Agende uma reunião consultiva com a Borelli Capital. A decisão depende das regras do grupo e do contexto individual.\n\n#Consórcio #ConsórcioEstratégico #AquisiçãoPlanejada #PlanejamentoPatrimonial #CréditoConsciente #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSÓRCIO ESTRATÉGICO", "title": "Seu objetivo aceita uma janela?", "body": "A ferramenta exige flexibilidade de tempo e clareza de propósito."},
+        {"kicker": "DATA", "title": "Prazo rígido muda a escolha", "body": "Uma necessidade inadiável pode pedir outra estrutura de aquisição."},
+        {"kicker": "JANELA", "title": "Defina o intervalo aceitável", "body": "Estabeleça quando a realização ainda atende ao objetivo patrimonial."},
+        {"kicker": "ANTECIPAÇÃO", "title": "E se acontecer antes?", "body": "Custos, recursos e capacidade de assumir o ativo precisam estar prontos."},
+        {"kicker": "ESPERA", "title": "E se acontecer depois?", "body": "O plano deve continuar viável sem depender de uma promessa de contemplação."},
+        {"kicker": "ADERÊNCIA", "title": "Flexibilidade não é indefinição", "body": "Objetivo, limites e alternativas devem permanecer claros durante o percurso."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Teste a janela do plano", "body": "Agende uma reunião com a Borelli Capital para avaliar o encaixe da ferramenta."}
+      ]
+    },
+    {
+      "slug": "liquidez-tem-custo-de-reposicao",
+      "theme": "Liquidez: custo e tempo para recompor reservas",
+      "category": "LIQUIDEZ E PLANEJAMENTO",
+      "hook": "Quanto custa recompor sua liquidez?",
+      "caption": "Usar recursos disponíveis em uma aquisição não reduz apenas o saldo de hoje. Também cria um novo objetivo: recompor a liquidez depois da decisão.\n\nO tempo necessário para reconstruir reservas depende do fluxo livre, dos compromissos assumidos e da disciplina de aportes. Quanto mais lenta a recomposição, maior pode ser a exposição a imprevistos e menor a capacidade de aproveitar decisões futuras.\n\nAntes de imobilizar capital, avalie o caminho de volta. Agende uma reunião consultiva com a Borelli Capital para estruturar essa leitura. Conteúdo educativo, não recomendação individual.\n\n#Liquidez #ReservaFinanceira #PlanejamentoPatrimonial #FluxoDeCaixa #GestãoFinanceira #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E PLANEJAMENTO", "title": "Quanto custa recompor sua liquidez?", "body": "Depois de usar a reserva, existe um caminho financeiro de volta."},
+        {"kicker": "PONTO DE PARTIDA", "title": "O saldo cai imediatamente", "body": "A capacidade de reconstrução, porém, depende dos meses seguintes."},
+        {"kicker": "FLUXO", "title": "Quanto sobra para recompor?", "body": "Novos compromissos podem reduzir o ritmo dos aportes futuros."},
+        {"kicker": "TEMPO", "title": "Reserva também tem prazo", "body": "Calcule quantos ciclos financeiros serão necessários para recuperar a margem."},
+        {"kicker": "EXPOSIÇÃO", "title": "O intervalo fica mais sensível", "body": "Durante a recomposição, imprevistos encontram menos recursos disponíveis."},
+        {"kicker": "DECISÃO", "title": "Planeje o caminho de volta", "body": "Imobilizar capital exige uma tese clara para reconstruir liquidez."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Dimensione sua recomposição", "body": "Agende uma reunião com a Borelli Capital para avaliar ritmo, margem e compromissos."}
+      ]
+    },
+    {
+      "slug": "compra-muda-seu-balanco",
+      "theme": "Decisão de compra: impacto no balanço patrimonial pessoal",
+      "category": "DECISÕES DE COMPRA",
+      "hook": "A compra muda seu balanço",
+      "caption": "Uma aquisição relevante transforma a composição do patrimônio. Dinheiro disponível pode virar um ativo menos líquido; uma obrigação futura pode entrar no passivo; custos recorrentes passam a disputar espaço no fluxo mensal.\n\nObservar o balanço antes e depois da compra ajuda a separar sensação de riqueza de estrutura patrimonial. O ativo pode ser adequado e, ainda assim, deixar concentração, baixa liquidez ou compromissos incompatíveis com os demais objetivos.\n\nPlaneja uma aquisição? Agende uma reunião consultiva com a Borelli Capital para comparar o antes e o depois com critérios claros.\n\n#DecisãoDeCompra #BalançoPatrimonial #PlanejamentoFinanceiro #AquisiçãoPatrimonial #Liquidez #BorelliCapital",
+      "slides": [
+        {"kicker": "DECISÕES DE COMPRA", "title": "A compra muda seu balanço", "body": "Não muda apenas o que você possui, mas como o patrimônio funciona."},
+        {"kicker": "ANTES", "title": "Existe uma composição atual", "body": "Ativos, liquidez e obrigações já cumprem funções no seu contexto."},
+        {"kicker": "ATIVO", "title": "O recurso ganha outra forma", "body": "Capital disponível pode se transformar em patrimônio menos líquido."},
+        {"kicker": "PASSIVO", "title": "O futuro recebe compromissos", "body": "Parcelas e custos recorrentes passam a ocupar capacidade financeira."},
+        {"kicker": "CONCENTRAÇÃO", "title": "Um ativo pode dominar demais", "body": "A compra pode aumentar dependência de uma única classe ou finalidade."},
+        {"kicker": "DEPOIS", "title": "Compare a nova arquitetura", "body": "Observe liquidez, obrigações, flexibilidade e aderência aos objetivos."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Projete o balanço futuro", "body": "Agende uma reunião com a Borelli Capital antes de transformar a estrutura."}
+      ]
+    },
+    {
+      "slug": "nao-quero-comprometer-meu-patrimonio",
+      "theme": "Objeção: receio de comprometer patrimônio ao usar crédito",
+      "category": "OBJEÇÕES E CLAREZA",
+      "hook": "Crédito compromete o patrimônio?",
+      "caption": "“Não quero comprometer meu patrimônio” é uma objeção legítima. Crédito cria obrigações e pode envolver garantias; ignorar isso seria imprudente. Mas a resposta não está em evitar qualquer compromisso — está em dimensionar qual risco é aceitável e qual função justifica a estrutura.\n\nGarantia, margem de caixa, prazo, plano de saída e cenário adverso precisam estar visíveis. Quando esses elementos não fecham, a decisão responsável pode ser não avançar.\n\nQuer transformar receio em critérios de análise? Agende uma reunião consultiva com a Borelli Capital. Nenhuma aprovação ou resultado é garantido.\n\n#CréditoConsciente #GestãoDeRisco #PlanejamentoPatrimonial #CréditoEstratégico #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "OBJEÇÕES E CLAREZA", "title": "Crédito compromete o patrimônio?", "body": "Ele cria obrigações. A questão é como elas são dimensionadas."},
+        {"kicker": "VALIDAÇÃO", "title": "O receio merece análise", "body": "Garantias e compromissos têm efeitos reais e não devem ser minimizados."},
+        {"kicker": "FUNÇÃO", "title": "Qual risco tem propósito?", "body": "A obrigação só faz sentido quando serve a um objetivo claramente definido."},
+        {"kicker": "MARGEM", "title": "Capacidade máxima não é meta", "body": "Preservar folga reduz a fragilidade diante de mudanças no cenário."},
+        {"kicker": "SAÍDA", "title": "Como o compromisso termina?", "body": "Quitação, venda e substituição de garantia precisam ser compreendidas."},
+        {"kicker": "LIMITE", "title": "Não avançar também é método", "body": "Se risco, prazo e margem não fecham, recusar pode ser a melhor decisão."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Converta receio em critérios", "body": "Agende uma reunião com a Borelli Capital para analisar limites com responsabilidade."}
+      ]
+    },
+    {
+      "slug": "segunda-opiniao-patrimonial",
+      "theme": "Convite consultivo: segunda opinião antes de decisão relevante",
+      "category": "CONSULTORIA PATRIMONIAL",
+      "hook": "Sua decisão merece segunda leitura",
+      "caption": "Decisões patrimoniais relevantes podem se beneficiar de uma segunda leitura antes da assinatura. Não para substituir sua autonomia, mas para testar premissas, identificar dependências e comparar caminhos que talvez tenham recebido pesos diferentes.\n\nUma análise consultiva pode revisar objetivo, prazo, liquidez, custo, garantias, flexibilidade e condições de saída. Em alguns casos, ela confirma a estrutura. Em outros, revela perguntas que ainda precisam de resposta.\n\nSe você já tem uma proposta ou decisão em estudo, agende uma reunião com a Borelli Capital para uma leitura estratégica e responsável.\n\n#ConsultoriaPatrimonial #PlanejamentoPatrimonial #SegundaOpinião #CréditoEstratégico #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSULTORIA PATRIMONIAL", "title": "Sua decisão merece segunda leitura", "body": "Antes da assinatura, teste as premissas que sustentam a escolha."},
+        {"kicker": "OBJETIVO", "title": "A proposta resolve o problema?", "body": "Uma ferramenta adequada precisa atender ao destino real da decisão."},
+        {"kicker": "PREMISSAS", "title": "O que foi considerado?", "body": "Prazo, fluxo, liquidez e garantias devem estar explícitos."},
+        {"kicker": "ALTERNATIVAS", "title": "Quais caminhos ficaram de fora?", "body": "Comparar estruturas ajuda a identificar custos e concessões invisíveis."},
+        {"kicker": "TENSÃO", "title": "Onde a decisão fica frágil?", "body": "Cenários adversos mostram quais premissas dependem de pouca margem."},
+        {"kicker": "CLAREZA", "title": "Confirmar também é resultado", "body": "Uma segunda leitura pode reforçar a escolha ou indicar o que revisar."},
+        {"kicker": "CONVITE CONSULTIVO", "title": "Traga sua decisão para análise", "body": "Agende uma reunião com a Borelli Capital e compare critérios antes de assinar."}
+      ]
+    }
+  ]
+}

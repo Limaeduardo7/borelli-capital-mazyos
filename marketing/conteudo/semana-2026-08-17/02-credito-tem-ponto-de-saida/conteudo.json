@@ -1,0 +1,44 @@
+{
+  "slug": "credito-tem-ponto-de-saida",
+  "theme": "Crédito estratégico: condições de saída antes da entrada",
+  "category": "CRÉDITO ESTRATÉGICO",
+  "hook": "Todo crédito precisa de saída",
+  "caption": "A análise de crédito costuma concentrar atenção na entrada: valor liberado, custo, parcela e prazo. Mas uma estrutura responsável também pergunta como o compromisso termina se o cenário mudar.\n\nAmortização, quitação, portabilidade, substituição de garantia e venda do ativo podem ter regras e custos próprios. Conhecer essas condições antes da contratação preserva flexibilidade e reduz decisões improvisadas no futuro.\n\nSe você está avaliando crédito, agende uma reunião consultiva com a Borelli Capital para comparar entrada, permanência e saída. Aprovação e resultado não são garantidos.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #GestãoDeRisco #Liquidez #PlanejamentoPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "CRÉDITO ESTRATÉGICO",
+      "title": "Todo crédito precisa de saída",
+      "body": "Entrar bem não basta quando o compromisso atravessa anos."
+    },
+    {
+      "kicker": "CONTRATO",
+      "title": "Leia o final primeiro",
+      "body": "Quitação, amortização e portabilidade merecem análise antes da assinatura."
+    },
+    {
+      "kicker": "FLEXIBILIDADE",
+      "title": "O cenário pode mudar",
+      "body": "Renda, objetivo e ativo podem seguir caminhos diferentes do previsto."
+    },
+    {
+      "kicker": "GARANTIA",
+      "title": "Liberar o ativo tem regras",
+      "body": "Prazos e condições influenciam uma venda ou reorganização futura."
+    },
+    {
+      "kicker": "CUSTO",
+      "title": "Sair também pode custar",
+      "body": "Taxas, registros e condições contratuais precisam entrar na comparação."
+    },
+    {
+      "kicker": "CRITÉRIO",
+      "title": "Boa estrutura preserva opções",
+      "body": "A saída adequada é aquela que continua possível sob cenários razoáveis."
+    },
+    {
+      "kicker": "CONVITE CONSULTIVO",
+      "title": "Planeje entrada e saída",
+      "body": "Agende uma reunião com a Borelli Capital para avaliar a operação completa."
+    }
+  ]
+}

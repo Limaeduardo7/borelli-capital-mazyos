@@ -1,0 +1,44 @@
+{
+  "slug": "liquidez-tem-custo-de-reposicao",
+  "theme": "Liquidez: custo e tempo para recompor reservas",
+  "category": "LIQUIDEZ E PLANEJAMENTO",
+  "hook": "Quanto custa recompor sua liquidez?",
+  "caption": "Usar recursos disponíveis em uma aquisição não reduz apenas o saldo de hoje. Também cria um novo objetivo: recompor a liquidez depois da decisão.\n\nO tempo necessário para reconstruir reservas depende do fluxo livre, dos compromissos assumidos e da disciplina de aportes. Quanto mais lenta a recomposição, maior pode ser a exposição a imprevistos e menor a capacidade de aproveitar decisões futuras.\n\nAntes de imobilizar capital, avalie o caminho de volta. Agende uma reunião consultiva com a Borelli Capital para estruturar essa leitura. Conteúdo educativo, não recomendação individual.\n\n#Liquidez #ReservaFinanceira #PlanejamentoPatrimonial #FluxoDeCaixa #GestãoFinanceira #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E PLANEJAMENTO",
+      "title": "Quanto custa recompor sua liquidez?",
+      "body": "Depois de usar a reserva, existe um caminho financeiro de volta."
+    },
+    {
+      "kicker": "PONTO DE PARTIDA",
+      "title": "O saldo cai imediatamente",
+      "body": "A capacidade de reconstrução, porém, depende dos meses seguintes."
+    },
+    {
+      "kicker": "FLUXO",
+      "title": "Quanto sobra para recompor?",
+      "body": "Novos compromissos podem reduzir o ritmo dos aportes futuros."
+    },
+    {
+      "kicker": "TEMPO",
+      "title": "Reserva também tem prazo",
+      "body": "Calcule quantos ciclos financeiros serão necessários para recuperar a margem."
+    },
+    {
+      "kicker": "EXPOSIÇÃO",
+      "title": "O intervalo fica mais sensível",
+      "body": "Durante a recomposição, imprevistos encontram menos recursos disponíveis."
+    },
+    {
+      "kicker": "DECISÃO",
+      "title": "Planeje o caminho de volta",
+      "body": "Imobilizar capital exige uma tese clara para reconstruir liquidez."
+    },
+    {
+      "kicker": "CONVITE CONSULTIVO",
+      "title": "Dimensione sua recomposição",
+      "body": "Agende uma reunião com a Borelli Capital para avaliar ritmo, margem e compromissos."
+    }
+  ]
+}
