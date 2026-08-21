@@ -8,11 +8,11 @@
       "dueAt": "2026-08-21T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:21.161Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-21T16:04:44.541Z",
+      "externalLink": "https://www.instagram.com/p/DcTuKV2m8XJ/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:42.821Z"
+      "statusCheckedAt": "2026-08-21T16:05:02.221Z"
     },
     {
       "slug": "02-taxa-nao-decide-sozinha",
