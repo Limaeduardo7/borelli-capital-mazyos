@@ -20,11 +20,11 @@
       "dueAt": "2026-08-22T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:22.165Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-22T16:02:25.967Z",
+      "externalLink": "https://www.instagram.com/p/DcWS4jjlPC5/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:43.026Z"
+      "statusCheckedAt": "2026-08-22T16:02:39.273Z"
     },
     {
       "slug": "03-contemplacao-nao-substitui-planejamento",
