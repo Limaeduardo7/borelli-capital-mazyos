@@ -198,7 +198,15 @@ async function renderPlan(inputFile, plan) {
       const page = await browser.newPage({ viewport: { width: 1080, height: 1350 }, deviceScaleFactor: 1 });
       await page.goto(pathToFileURL(path.join(postDir, 'carrossel.html')).href, { waitUntil: 'load' });
       const locators = page.locator('.slide');
-      for (let slideIndex = 0; slideIndex < await locators.count(); slideIndex += 1) {
+      const slideCount = await locators.count();
+      for (let slideIndex = 0; slideIndex < slideCount; slideIndex += 1) {
+        // Keep the target slide at y=0 while capturing it. Very tall pages can make
+        // Chromium rasterize the final card with an unpainted body-colour band.
+        await page.evaluate((activeIndex) => {
+          document.querySelectorAll('.slide').forEach((slide, index) => {
+            slide.style.display = index === activeIndex ? 'flex' : 'none';
+          });
+        }, slideIndex);
         const filename = `slide-${String(slideIndex + 1).padStart(2, '0')}.png`;
         const localFile = path.join(imageDir, filename);
         await locators.nth(slideIndex).screenshot({ path: localFile });
@@ -314,9 +322,26 @@ async function schedulePlan(plan, startDate = plan.weekStart) {
     const data = await bufferRequest(`mutation ScheduleCarousel($input: CreatePostInput!) { createPost(input: $input) { ... on PostActionSuccess { post { id text dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
     const result = data?.createPost;
     if (!result?.post?.id) fail(result?.message || `Buffer não retornou ID para ${slug}.`);
-    ledger.posts.push({ slug, bufferPostId: result.post.id, dueAt, assets: urls.length, scheduledAt: new Date().toISOString() });
+    const record = { slug, bufferPostId: result.post.id, dueAt, assets: urls.length, scheduledAt: new Date().toISOString() };
+    ledger.posts.push(record);
     writeJsonAtomic(ledgerFile, ledger);
-    console.log(`agendado: ${slug} -> ${dueAt} (${result.post.id})`);
+    const statusData = await bufferRequest(`query ScheduledPostStatus($input: PostInput!) { post(input: $input) { id status dueAt sentAt externalLink assets { id mimeType } error { ... on PostPublishingError { message } } } }`, { input: { id: result.post.id } });
+    const live = statusData?.post;
+    if (!live?.id) fail(`Buffer não retornou o estado vivo de ${slug}.`);
+    Object.assign(record, {
+      status: live.status,
+      dueAt: live.dueAt,
+      sentAt: live.sentAt || null,
+      externalLink: live.externalLink || null,
+      assets: live.assets?.length || 0,
+      error: live.error?.message || null,
+      statusCheckedAt: new Date().toISOString(),
+    });
+    writeJsonAtomic(ledgerFile, ledger);
+    if (record.status !== 'scheduled' || record.assets !== item.slides.length || record.error) {
+      fail(`estado vivo inválido para ${slug}: status=${record.status}, assets=${record.assets}, error=${record.error || 'null'}.`);
+    }
+    console.log(`agendado: ${slug} -> ${record.dueAt} (${record.bufferPostId}) [${record.status}, ${record.assets} assets]`);
   }
   console.log(`concluído: ${ledger.posts.length}/7 carrosséis registrados em ${ledgerFile}`);
 }
@@ -374,11 +399,21 @@ async function repairPendingPlan(plan) {
     if (!record) continue;
     let current = null;
     if (record.status !== 'deleted') {
-      const currentData = await bufferRequest(`query RepairStatus($input: PostInput!) { post(input: $input) { id status dueAt } }`, { input: { id: record.bufferPostId } });
+      const currentData = await bufferRequest(`query RepairStatus($input: PostInput!) { post(input: $input) { id status dueAt sentAt externalLink assets { id mimeType } error { ... on PostPublishingError { message } } } }`, { input: { id: record.bufferPostId } });
       current = currentData?.post;
     }
     if (current?.status === 'sent' || current?.status === 'sending') {
-      console.log(`inalterado: ${slug} (${current?.status || 'ausente'})`);
+      Object.assign(record, {
+        status: current.status,
+        dueAt: current.dueAt,
+        sentAt: current.sentAt || null,
+        externalLink: current.externalLink || null,
+        assets: current.assets?.length || record.assets,
+        error: current.error?.message || null,
+        statusCheckedAt: new Date().toISOString(),
+      });
+      writeJsonAtomic(ledgerFile, ledger);
+      console.log(`inalterado: ${slug} (${current.status})`);
       continue;
     }
     const availableImages = fs.readdirSync(path.join(publicRoot, slug)).filter((name) => /^slide-\d+\.(png|jpg)$/.test(name)).sort();
@@ -413,21 +448,22 @@ async function repairPendingPlan(plan) {
     }
 
     if (current.status === 'scheduled') {
+      const isPastDue = current.dueAt && new Date(current.dueAt).getTime() <= Date.now();
       const input = {
         id: record.bufferPostId,
         text: item.caption,
         schedulingType: 'automatic',
-        mode: 'customScheduled',
+        mode: isPastDue ? 'shareNow' : 'customScheduled',
         metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
-        dueAt: current.dueAt,
+        ...(isPastDue ? {} : { dueAt: current.dueAt }),
         assets: urls.map((url) => ({ image: { url } })),
       };
       const edited = await bufferRequest(`mutation RepairScheduledCarousel($input: EditPostInput!) { editPost(input: $input) { ... on PostActionSuccess { post { id status dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
       const post = edited?.editPost?.post;
       if (!post?.id) fail(edited?.editPost?.message || `Buffer não confirmou a edição de ${slug}.`);
-      Object.assign(record, { dueAt: post.dueAt, assets: post.assets.length, status: post.status, repairedAt: new Date().toISOString() });
+      Object.assign(record, { dueAt: post.dueAt, assets: post.assets.length, status: post.status, repairedAt: new Date().toISOString(), ...(isPastDue ? { shareMode: 'shareNow' } : {}) });
       writeJsonAtomic(ledgerFile, ledger);
-      console.log(`assets atualizados: ${slug} (${post.id})`);
+      console.log(`${isPastDue ? 'publicação imediata solicitada' : 'assets atualizados'}: ${slug} (${post.id})`);
     }
   }
 }
