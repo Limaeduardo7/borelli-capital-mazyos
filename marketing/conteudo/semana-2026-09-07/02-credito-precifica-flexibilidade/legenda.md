@@ -1,0 +1,3 @@
+Duas operações com valores semelhantes podem produzir graus muito diferentes de liberdade. Além da taxa e do prazo, importam as regras para amortizar, quitar, substituir garantias, portar a dívida ou reorganizar o fluxo. Flexibilidade não torna uma operação automaticamente melhor, mas tem valor quando o cenário pode mudar ao longo dos anos. A comparação responsável pergunta quanto custa entrar, permanecer e adaptar a estrutura sem comprometer o objetivo. A Borelli Capital ajuda a colocar essas condições na mesma análise. Agende uma reunião consultiva antes de contratar. Conteúdo educativo; aprovação, condições e resultados dependem de análise.
+
+#CréditoEstratégico #PlanejamentoFinanceiro #FlexibilidadeFinanceira #GestãoDeRisco #EstruturaDeCrédito #BorelliCapital

@@ -1,0 +1,3 @@
+Dois recursos podem aparecer como disponíveis e chegar em tempos muito diferentes. Carência, prazo de resgate, liquidação, documentação e condições de mercado influenciam quando o capital realmente pode ser usado. Para decisões patrimoniais, não basta saber quanto existe; é preciso saber quando cada valor estará acessível e qual perda ou fricção pode surgir no caminho. Organizar a liquidez por velocidade ajuda a alinhar reservas, aquisições e oportunidades ao calendário real. A Borelli Capital conduz essa leitura a partir dos compromissos e objetivos de cada contexto. Agende uma reunião consultiva. Conteúdo educativo, não recomendação de investimento.
+
+#Liquidez #PlanejamentoPatrimonial #GestãoDeCaixa #ReservaFinanceira #DecisõesFinanceiras #BorelliCapital

@@ -1,0 +1,3 @@
+Patrimônio não é apenas o que está investido, quitado ou registrado em seu nome. Também inclui a margem que permite atravessar imprevistos, negociar com calma e escolher sem desmontar toda a estrutura. Quando cada recurso já nasce comprometido, o patrimônio pode parecer robusto e ainda assim operar com pouca liberdade. Preservar margem exige leitura conjunta de liquidez, obrigações, concentração e próximos objetivos. A Borelli Capital organiza essa análise de forma consultiva, transformando capacidade financeira em critérios claros de decisão. Agende uma reunião para avaliar o seu contexto. Conteúdo educativo; não constitui recomendação individual.
+
+#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #MargemFinanceira #DecisõesFinanceiras #BorelliCapital

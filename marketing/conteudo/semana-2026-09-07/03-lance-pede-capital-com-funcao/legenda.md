@@ -1,0 +1,3 @@
+O lance não deveria ser decidido apenas pela expectativa de antecipar a contemplação. Ele usa capital que poderia proteger reservas, executar a aquisição ou atender outros objetivos. Por isso, a estratégia precisa definir de onde o recurso virá, quanto pode ser mobilizado e o que continua preservado depois da oferta. Mesmo um lance alto não garante contemplação; regras e dinâmica do grupo permanecem determinantes. Planejar cenários evita transformar uma tentativa em desequilíbrio patrimonial. A Borelli Capital ajuda a integrar lance, liquidez e objetivo em uma análise responsável. Agende uma conversa consultiva.
+
+#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #Lance #Liquidez #AquisiçãoPlanejada #BorelliCapital

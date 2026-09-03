@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-09-07",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-margem-e-parte-do-patrimonio",
+      "bufferPostId": "6a99e3e030d93c98c2cc423e",
+      "dueAt": "2026-09-04T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:20.336Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:20.551Z"
+    },
+    {
+      "slug": "02-credito-precifica-flexibilidade",
+      "bufferPostId": "6a99e3e16fb3aac20a29cf0a",
+      "dueAt": "2026-09-05T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:21.573Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:21.780Z"
+    },
+    {
+      "slug": "03-lance-pede-capital-com-funcao",
+      "bufferPostId": "6a99e3e230d93c98c2cc4261",
+      "dueAt": "2026-09-06T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:22.699Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:22.900Z"
+    },
+    {
+      "slug": "04-liquidez-tem-velocidade",
+      "bufferPostId": "6a99e3e3595d3d1a8241c36c",
+      "dueAt": "2026-09-07T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:23.876Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:24.085Z"
+    },
+    {
+      "slug": "05-compra-continua-depois-da-chave",
+      "bufferPostId": "6a99e3e4e7cce1aa46143186",
+      "dueAt": "2026-09-08T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:25.032Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:25.231Z"
+    },
+    {
+      "slug": "06-a-vista-nao-elimina-escolhas",
+      "bufferPostId": "6a99e3e5e7cce1aa461431aa",
+      "dueAt": "2026-09-09T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:26.166Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:26.365Z"
+    },
+    {
+      "slug": "07-toda-escolha-tem-concessao",
+      "bufferPostId": "6a99e3e7595d3d1a8241c3b2",
+      "dueAt": "2026-09-10T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:27.276Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:27.471Z"
+    }
+  ]
+}

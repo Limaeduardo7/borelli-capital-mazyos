@@ -1,0 +1,3 @@
+Pagar à vista pode reduzir custos financeiros e eliminar parcelas. Mas isso não transforma a decisão em automaticamente eficiente. O capital usado deixa de cumprir outras funções, a liquidez diminui e a concentração patrimonial pode aumentar. Em alguns contextos, essa simplicidade é coerente; em outros, preservá-la cobra uma margem importante. A comparação responsável considera custo total, reservas remanescentes, alternativas de estrutura e tranquilidade pessoal. A Borelli Capital não parte de uma resposta pronta: organiza as concessões de cada caminho. Agende uma reunião consultiva para avaliar seu contexto. Conteúdo educativo; não existe solução universal.
+
+#PagamentoÀVista #PlanejamentoFinanceiro #Liquidez #DecisõesDeCompra #CréditoConsciente #BorelliCapital

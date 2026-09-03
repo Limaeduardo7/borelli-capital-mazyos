@@ -1,0 +1,3 @@
+Receber a chave, o veículo ou o ativo não encerra a decisão. A partir dali começam despesas, manutenção, seguros, tributos, gestão e tempo de dedicação. Uma aquisição pode caber no preço e não caber na rotina financeira que vem depois. Avaliar a capacidade operacional significa projetar o uso, os custos recorrentes, a margem para imprevistos e a possibilidade de saída. Comprar bem não é apenas conseguir concluir a transação; é sustentar o ativo sem desorganizar os demais objetivos. A Borelli Capital ajuda a comparar o momento da compra com o dia seguinte. Agende uma reunião consultiva.
+
+#DecisãoDeCompra #PlanejamentoPatrimonial #AquisiçãoDeAtivos #GestãoFinanceira #CustosRecorrentes #BorelliCapital

@@ -1,0 +1,45 @@
+{
+  "slug": "a-vista-nao-elimina-escolhas",
+  "theme": "Objeção: pagamento à vista como resposta automática",
+  "category": "OBJEÇÕES E CRITÉRIOS",
+  "hook": "À vista elimina o problema?",
+  "footer": "Simplicidade também precisa de contexto.",
+  "caption": "Pagar à vista pode reduzir custos financeiros e eliminar parcelas. Mas isso não transforma a decisão em automaticamente eficiente. O capital usado deixa de cumprir outras funções, a liquidez diminui e a concentração patrimonial pode aumentar. Em alguns contextos, essa simplicidade é coerente; em outros, preservá-la cobra uma margem importante. A comparação responsável considera custo total, reservas remanescentes, alternativas de estrutura e tranquilidade pessoal. A Borelli Capital não parte de uma resposta pronta: organiza as concessões de cada caminho. Agende uma reunião consultiva para avaliar seu contexto. Conteúdo educativo; não existe solução universal.\n\n#PagamentoÀVista #PlanejamentoFinanceiro #Liquidez #DecisõesDeCompra #CréditoConsciente #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "OBJEÇÕES E CRITÉRIOS",
+      "title": "À vista elimina o problema?",
+      "body": "Elimina parcelas, mas não elimina as concessões da escolha."
+    },
+    {
+      "kicker": "VANTAGEM",
+      "title": "Simplicidade tem valor",
+      "body": "Menos compromissos pode trazer previsibilidade e reduzir custos financeiros."
+    },
+    {
+      "kicker": "CONTRAPARTIDA",
+      "title": "O caixa muda de lugar",
+      "body": "Capital disponível se transforma em um ativo menos líquido."
+    },
+    {
+      "kicker": "CONCENTRAÇÃO",
+      "title": "Uma compra pode pesar demais",
+      "body": "O patrimônio pode depender mais de um único ativo ou finalidade."
+    },
+    {
+      "kicker": "ALTERNATIVAS",
+      "title": "Estruturas também têm concessões",
+      "body": "Crédito preserva caixa, mas adiciona custo, prazo e obrigações."
+    },
+    {
+      "kicker": "DECISÃO",
+      "title": "Compare o que permanece",
+      "body": "A melhor leitura observa reservas, fluxo e liberdade depois da compra."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Teste a aparente simplicidade",
+      "body": "Converse com a Borelli Capital antes de escolher a forma de pagamento."
+    }
+  ]
+}

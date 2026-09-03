@@ -1,0 +1,124 @@
+{
+  "weekStart": "2026-09-07",
+  "carousels": [
+    {
+      "slug": "margem-e-parte-do-patrimonio",
+      "theme": "Educação patrimonial: margem de decisão como componente do patrimônio",
+      "category": "EDUCAÇÃO PATRIMONIAL",
+      "hook": "Margem também é patrimônio",
+      "footer": "Estrutura forte preserva espaço para decidir.",
+      "caption": "Patrimônio não é apenas o que está investido, quitado ou registrado em seu nome. Também inclui a margem que permite atravessar imprevistos, negociar com calma e escolher sem desmontar toda a estrutura. Quando cada recurso já nasce comprometido, o patrimônio pode parecer robusto e ainda assim operar com pouca liberdade. Preservar margem exige leitura conjunta de liquidez, obrigações, concentração e próximos objetivos. A Borelli Capital organiza essa análise de forma consultiva, transformando capacidade financeira em critérios claros de decisão. Agende uma reunião para avaliar o seu contexto. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #MargemFinanceira #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Margem também é patrimônio", "body": "Liberdade de decisão depende do espaço que a estrutura preserva."},
+        {"kicker": "LEITURA", "title": "Saldo não mostra liberdade", "body": "Ativos relevantes podem coexistir com caixa rígido e escolhas limitadas."},
+        {"kicker": "COMPROMISSOS", "title": "O futuro já ocupa espaço", "body": "Parcelas, custos e objetivos reduzem a capacidade disponível adiante."},
+        {"kicker": "CONCENTRAÇÃO", "title": "Valor pode ficar imobilizado", "body": "Patrimônio concentrado nem sempre responde com velocidade quando o contexto muda."},
+        {"kicker": "MARGEM", "title": "Folga transforma reação em escolha", "body": "Recursos livres permitem analisar alternativas sem decidir sob pressão."},
+        {"kicker": "CRITÉRIO", "title": "Preserve espaço entre decisões", "body": "Cada novo compromisso deve respeitar reservas e objetivos ainda abertos."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Dimensione sua margem patrimonial", "body": "Converse com a Borelli Capital para organizar capacidade e prioridades."}
+      ]
+    },
+    {
+      "slug": "credito-precifica-flexibilidade",
+      "theme": "Crédito estratégico: flexibilidade contratual como parte do custo",
+      "category": "CRÉDITO ESTRATÉGICO",
+      "hook": "Crédito também precifica flexibilidade",
+      "footer": "Custo visível. Flexibilidade preservada.",
+      "caption": "Duas operações com valores semelhantes podem produzir graus muito diferentes de liberdade. Além da taxa e do prazo, importam as regras para amortizar, quitar, substituir garantias, portar a dívida ou reorganizar o fluxo. Flexibilidade não torna uma operação automaticamente melhor, mas tem valor quando o cenário pode mudar ao longo dos anos. A comparação responsável pergunta quanto custa entrar, permanecer e adaptar a estrutura sem comprometer o objetivo. A Borelli Capital ajuda a colocar essas condições na mesma análise. Agende uma reunião consultiva antes de contratar. Conteúdo educativo; aprovação, condições e resultados dependem de análise.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #FlexibilidadeFinanceira #GestãoDeRisco #EstruturaDeCrédito #BorelliCapital",
+      "slides": [
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "Crédito também precifica flexibilidade", "body": "O contrato define quanto espaço existe para mudar de rota."},
+        {"kicker": "ALÉM DA TAXA", "title": "Custo não vive sozinho", "body": "Prazo, garantias e regras de adaptação completam a estrutura."},
+        {"kicker": "AMORTIZAÇÃO", "title": "Antecipar precisa ser possível", "body": "Condições claras ajudam a reduzir compromisso quando o caixa permite."},
+        {"kicker": "GARANTIAS", "title": "O ativo precisa respirar", "body": "Substituição e liberação influenciam vendas e reorganizações futuras."},
+        {"kicker": "PORTABILIDADE", "title": "Mudar pode ter fricção", "body": "Documentos, custos e critérios operacionais afetam a mobilidade da dívida."},
+        {"kicker": "COMPARAÇÃO", "title": "Meça o preço da rigidez", "body": "Uma condição menor pode custar opções importantes ao longo do prazo."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Compare contratos por inteiro", "body": "Converse com a Borelli Capital para avaliar custo e flexibilidade."}
+      ]
+    },
+    {
+      "slug": "lance-pede-capital-com-funcao",
+      "theme": "Consórcio: planejamento do lance e custo de oportunidade",
+      "category": "CONSÓRCIO COM ESTRATÉGIA",
+      "hook": "Lance não deve nascer no improviso",
+      "footer": "Consórcio exige capital, contexto e método.",
+      "caption": "O lance não deveria ser decidido apenas pela expectativa de antecipar a contemplação. Ele usa capital que poderia proteger reservas, executar a aquisição ou atender outros objetivos. Por isso, a estratégia precisa definir de onde o recurso virá, quanto pode ser mobilizado e o que continua preservado depois da oferta. Mesmo um lance alto não garante contemplação; regras e dinâmica do grupo permanecem determinantes. Planejar cenários evita transformar uma tentativa em desequilíbrio patrimonial. A Borelli Capital ajuda a integrar lance, liquidez e objetivo em uma análise responsável. Agende uma conversa consultiva.\n\n#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #Lance #Liquidez #AquisiçãoPlanejada #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSÓRCIO COM ESTRATÉGIA", "title": "Lance não deve nascer no improviso", "body": "Antecipar uma possibilidade exige preservar o restante do plano."},
+        {"kicker": "ORIGEM", "title": "De onde vem o recurso?", "body": "Reserva, venda de ativo e capital novo produzem impactos diferentes."},
+        {"kicker": "LIMITE", "title": "Defina o teto antes", "body": "A oferta não deve consumir recursos necessários para proteção e execução."},
+        {"kicker": "OPORTUNIDADE", "title": "Capital ofertado deixa outra função", "body": "O custo de oportunidade precisa permanecer visível na decisão."},
+        {"kicker": "CENÁRIOS", "title": "Planeje ganhar e não ganhar", "body": "A estratégia precisa funcionar com ou sem contemplação naquele momento."},
+        {"kicker": "DISCIPLINA", "title": "Regra substitui impulso", "body": "Critérios prévios reduzem ofertas guiadas apenas por expectativa."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Estruture o capital do lance", "body": "Converse com a Borelli Capital para avaliar cenários sem promessas."}
+      ]
+    },
+    {
+      "slug": "liquidez-tem-velocidade",
+      "theme": "Liquidez: diferença entre saldo disponível e tempo de acesso",
+      "category": "LIQUIDEZ E ESTRUTURA",
+      "hook": "Liquidez também tem velocidade",
+      "footer": "Disponibilidade real respeita prazo e função.",
+      "caption": "Dois recursos podem aparecer como disponíveis e chegar em tempos muito diferentes. Carência, prazo de resgate, liquidação, documentação e condições de mercado influenciam quando o capital realmente pode ser usado. Para decisões patrimoniais, não basta saber quanto existe; é preciso saber quando cada valor estará acessível e qual perda ou fricção pode surgir no caminho. Organizar a liquidez por velocidade ajuda a alinhar reservas, aquisições e oportunidades ao calendário real. A Borelli Capital conduz essa leitura a partir dos compromissos e objetivos de cada contexto. Agende uma reunião consultiva. Conteúdo educativo, não recomendação de investimento.\n\n#Liquidez #PlanejamentoPatrimonial #GestãoDeCaixa #ReservaFinanceira #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E ESTRUTURA", "title": "Liquidez também tem velocidade", "body": "Estar no extrato não significa estar pronto para uso imediato."},
+        {"kicker": "ACESSO", "title": "Cada recurso tem um relógio", "body": "Resgate, liquidação e documentação definem o tempo de chegada."},
+        {"kicker": "IMEDIATO", "title": "Proteção pede resposta rápida", "body": "Compromissos próximos exigem acesso simples e previsível."},
+        {"kicker": "PLANEJADO", "title": "Alguns objetivos aceitam espera", "body": "Quando a data é conhecida, o prazo pode ser organizado com antecedência."},
+        {"kicker": "FRICÇÃO", "title": "Velocidade pode ter custo", "body": "Deságio, tributação e condições operacionais alteram o valor disponível."},
+        {"kicker": "CALENDÁRIO", "title": "Alinhe dinheiro e decisão", "body": "O recurso precisa chegar antes que o compromisso vença."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Mapeie a velocidade do caixa", "body": "Converse com a Borelli Capital para organizar prazos e funções."}
+      ]
+    },
+    {
+      "slug": "compra-continua-depois-da-chave",
+      "theme": "Decisão de compra: capacidade operacional depois da aquisição",
+      "category": "DECISÕES DE COMPRA",
+      "hook": "A compra continua depois da chave",
+      "footer": "Aquisição sólida inclui o dia seguinte.",
+      "caption": "Receber a chave, o veículo ou o ativo não encerra a decisão. A partir dali começam despesas, manutenção, seguros, tributos, gestão e tempo de dedicação. Uma aquisição pode caber no preço e não caber na rotina financeira que vem depois. Avaliar a capacidade operacional significa projetar o uso, os custos recorrentes, a margem para imprevistos e a possibilidade de saída. Comprar bem não é apenas conseguir concluir a transação; é sustentar o ativo sem desorganizar os demais objetivos. A Borelli Capital ajuda a comparar o momento da compra com o dia seguinte. Agende uma reunião consultiva.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #AquisiçãoDeAtivos #GestãoFinanceira #CustosRecorrentes #BorelliCapital",
+      "slides": [
+        {"kicker": "DECISÕES DE COMPRA", "title": "A compra continua depois da chave", "body": "O ativo começa a exigir caixa, gestão e atenção."},
+        {"kicker": "OPERAÇÃO", "title": "Possuir também é administrar", "body": "Uso, documentos e rotina criam responsabilidades permanentes."},
+        {"kicker": "CUSTOS", "title": "O preço não paga o depois", "body": "Manutenção, seguros e tributos ocupam o orçamento futuro."},
+        {"kicker": "TEMPO", "title": "Gestão também consome capacidade", "body": "Um ativo pode exigir decisões, fornecedores e acompanhamento contínuo."},
+        {"kicker": "IMPREVISTOS", "title": "A margem precisa permanecer", "body": "Despesas extraordinárias não deveriam desmontar outros objetivos."},
+        {"kicker": "SUSTENTAÇÃO", "title": "Projete a rotina completa", "body": "A aquisição precisa caber no fluxo e na capacidade de gestão."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Avalie o dia seguinte", "body": "Converse com a Borelli Capital antes de concluir a compra."}
+      ]
+    },
+    {
+      "slug": "a-vista-nao-elimina-escolhas",
+      "theme": "Objeção: pagamento à vista como resposta automática",
+      "category": "OBJEÇÕES E CRITÉRIOS",
+      "hook": "À vista elimina o problema?",
+      "footer": "Simplicidade também precisa de contexto.",
+      "caption": "Pagar à vista pode reduzir custos financeiros e eliminar parcelas. Mas isso não transforma a decisão em automaticamente eficiente. O capital usado deixa de cumprir outras funções, a liquidez diminui e a concentração patrimonial pode aumentar. Em alguns contextos, essa simplicidade é coerente; em outros, preservá-la cobra uma margem importante. A comparação responsável considera custo total, reservas remanescentes, alternativas de estrutura e tranquilidade pessoal. A Borelli Capital não parte de uma resposta pronta: organiza as concessões de cada caminho. Agende uma reunião consultiva para avaliar seu contexto. Conteúdo educativo; não existe solução universal.\n\n#PagamentoÀVista #PlanejamentoFinanceiro #Liquidez #DecisõesDeCompra #CréditoConsciente #BorelliCapital",
+      "slides": [
+        {"kicker": "OBJEÇÕES E CRITÉRIOS", "title": "À vista elimina o problema?", "body": "Elimina parcelas, mas não elimina as concessões da escolha."},
+        {"kicker": "VANTAGEM", "title": "Simplicidade tem valor", "body": "Menos compromissos pode trazer previsibilidade e reduzir custos financeiros."},
+        {"kicker": "CONTRAPARTIDA", "title": "O caixa muda de lugar", "body": "Capital disponível se transforma em um ativo menos líquido."},
+        {"kicker": "CONCENTRAÇÃO", "title": "Uma compra pode pesar demais", "body": "O patrimônio pode depender mais de um único ativo ou finalidade."},
+        {"kicker": "ALTERNATIVAS", "title": "Estruturas também têm concessões", "body": "Crédito preserva caixa, mas adiciona custo, prazo e obrigações."},
+        {"kicker": "DECISÃO", "title": "Compare o que permanece", "body": "A melhor leitura observa reservas, fluxo e liberdade depois da compra."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Teste a aparente simplicidade", "body": "Converse com a Borelli Capital antes de escolher a forma de pagamento."}
+      ]
+    },
+    {
+      "slug": "toda-escolha-tem-concessao",
+      "theme": "Convite consultivo: explicitar trade-offs antes da decisão",
+      "category": "CONVERSA CONSULTIVA",
+      "hook": "Toda escolha cobra alguma concessão",
+      "footer": "Clareza nasce quando as concessões ficam visíveis.",
+      "caption": "Toda decisão patrimonial resolve algo e, ao mesmo tempo, limita outra possibilidade. Preservar liquidez pode aumentar custo; reduzir prazo pode pressionar o caixa; buscar flexibilidade pode exigir condições diferentes; esperar pode adiar o objetivo. Uma conversa consultiva de qualidade não esconde essas tensões. Ela torna as concessões comparáveis para que a escolha reflita prioridades reais, não apenas a variável mais visível. A Borelli Capital organiza objetivo, prazo, caixa, risco e alternativas em uma leitura integrada. Agende uma reunião para levar sua próxima decisão a um diagnóstico estruturado. Conteúdo educativo; cada contexto exige análise própria.\n\n#ConsultoriaPatrimonial #PlanejamentoEstratégico #DecisõesFinanceiras #GestãoPatrimonial #CréditoEstratégico #BorelliCapital",
+      "slides": [
+        {"kicker": "CONVERSA CONSULTIVA", "title": "Toda escolha cobra alguma concessão", "body": "Decidir bem começa por enxergar o que cada caminho exige."},
+        {"kicker": "LIQUIDEZ", "title": "Preservar caixa pode custar", "body": "Manter recursos disponíveis pode adicionar juros ou prolongar o compromisso."},
+        {"kicker": "PRAZO", "title": "Ganhar tempo muda a estrutura", "body": "Velocidade, parcela e flexibilidade raramente avançam juntas."},
+        {"kicker": "SEGURANÇA", "title": "Reduzir risco limita alternativas", "body": "Mais proteção pode diminuir retorno potencial ou ritmo de execução."},
+        {"kicker": "PRIORIDADE", "title": "Escolher é ordenar objetivos", "body": "Um avanço agora pode pedir que outra meta espere."},
+        {"kicker": "DIAGNÓSTICO", "title": "Concessões precisam ficar visíveis", "body": "Comparar efeitos transforma preferência em critério de decisão."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Traga sua decisão para análise", "body": "Agende uma conversa com a Borelli Capital e compare os caminhos."}
+      ]
+    }
+  ]
+}

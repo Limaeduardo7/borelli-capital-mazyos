@@ -1,0 +1,45 @@
+{
+  "slug": "liquidez-tem-velocidade",
+  "theme": "Liquidez: diferença entre saldo disponível e tempo de acesso",
+  "category": "LIQUIDEZ E ESTRUTURA",
+  "hook": "Liquidez também tem velocidade",
+  "footer": "Disponibilidade real respeita prazo e função.",
+  "caption": "Dois recursos podem aparecer como disponíveis e chegar em tempos muito diferentes. Carência, prazo de resgate, liquidação, documentação e condições de mercado influenciam quando o capital realmente pode ser usado. Para decisões patrimoniais, não basta saber quanto existe; é preciso saber quando cada valor estará acessível e qual perda ou fricção pode surgir no caminho. Organizar a liquidez por velocidade ajuda a alinhar reservas, aquisições e oportunidades ao calendário real. A Borelli Capital conduz essa leitura a partir dos compromissos e objetivos de cada contexto. Agende uma reunião consultiva. Conteúdo educativo, não recomendação de investimento.\n\n#Liquidez #PlanejamentoPatrimonial #GestãoDeCaixa #ReservaFinanceira #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E ESTRUTURA",
+      "title": "Liquidez também tem velocidade",
+      "body": "Estar no extrato não significa estar pronto para uso imediato."
+    },
+    {
+      "kicker": "ACESSO",
+      "title": "Cada recurso tem um relógio",
+      "body": "Resgate, liquidação e documentação definem o tempo de chegada."
+    },
+    {
+      "kicker": "IMEDIATO",
+      "title": "Proteção pede resposta rápida",
+      "body": "Compromissos próximos exigem acesso simples e previsível."
+    },
+    {
+      "kicker": "PLANEJADO",
+      "title": "Alguns objetivos aceitam espera",
+      "body": "Quando a data é conhecida, o prazo pode ser organizado com antecedência."
+    },
+    {
+      "kicker": "FRICÇÃO",
+      "title": "Velocidade pode ter custo",
+      "body": "Deságio, tributação e condições operacionais alteram o valor disponível."
+    },
+    {
+      "kicker": "CALENDÁRIO",
+      "title": "Alinhe dinheiro e decisão",
+      "body": "O recurso precisa chegar antes que o compromisso vença."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Mapeie a velocidade do caixa",
+      "body": "Converse com a Borelli Capital para organizar prazos e funções."
+    }
+  ]
+}
