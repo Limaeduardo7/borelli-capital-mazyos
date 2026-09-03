@@ -12,7 +12,7 @@
       "sentAt": "2026-08-21T16:04:44.541Z",
       "externalLink": "https://www.instagram.com/p/DcTuKV2m8XJ/",
       "error": null,
-      "statusCheckedAt": "2026-08-21T16:05:02.221Z"
+      "statusCheckedAt": "2026-09-03T21:16:49.349Z"
     },
     {
       "slug": "02-taxa-nao-decide-sozinha",
@@ -24,7 +24,7 @@
       "sentAt": "2026-08-22T16:02:25.967Z",
       "externalLink": "https://www.instagram.com/p/DcWS4jjlPC5/",
       "error": null,
-      "statusCheckedAt": "2026-08-22T16:02:39.273Z"
+      "statusCheckedAt": "2026-09-03T21:16:49.552Z"
     },
     {
       "slug": "03-contemplacao-nao-substitui-planejamento",
@@ -32,23 +32,25 @@
       "dueAt": "2026-08-23T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:23.114Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-23T16:03:45.145Z",
+      "externalLink": "https://www.instagram.com/p/DcY3wkHkU3E/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:43.218Z"
+      "statusCheckedAt": "2026-09-03T21:16:49.744Z"
     },
     {
       "slug": "04-liquidez-precisa-de-destino",
       "bufferPostId": "6a876d7b5b4a6e681b1a0bce",
-      "dueAt": "2026-08-24T16:00:00.000Z",
+      "dueAt": "2026-08-24T16:01:47.331Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:24.127Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-24T16:03:16.497Z",
+      "externalLink": "https://www.instagram.com/p/DcbcmfJIGbP/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:43.425Z"
+      "statusCheckedAt": "2026-09-03T21:16:49.943Z",
+      "repairedAt": "2026-08-24T16:01:47.331Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "05-entrada-nao-conta-tudo",
@@ -56,23 +58,25 @@
       "dueAt": "2026-08-25T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:25.104Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-25T16:06:53.725Z",
+      "externalLink": "https://www.instagram.com/p/DceBg-plhdG/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:43.642Z"
+      "statusCheckedAt": "2026-09-03T21:16:50.142Z"
     },
     {
       "slug": "06-divida-sempre-reduz-liberdade",
       "bufferPostId": "6a876d7dd7cccc8a7bf696fb",
-      "dueAt": "2026-08-26T16:00:00.000Z",
+      "dueAt": "2026-08-26T16:02:20.973Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:26.086Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-26T16:08:13.695Z",
+      "externalLink": "https://www.instagram.com/p/Dcgmau6HPKy/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:43.850Z"
+      "statusCheckedAt": "2026-09-03T21:16:50.340Z",
+      "repairedAt": "2026-08-26T16:02:31.327Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "07-alinhe-o-horizonte-da-decisao",
@@ -80,11 +84,13 @@
       "dueAt": "2026-08-27T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-08-20T21:11:27.063Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-08-27T16:07:24.654Z",
+      "externalLink": "https://www.instagram.com/p/DcjLNx2oLEG/",
       "error": null,
-      "statusCheckedAt": "2026-08-20T21:11:44.062Z"
+      "statusCheckedAt": "2026-09-03T21:16:50.535Z",
+      "repairedAt": "2026-08-26T16:02:33.132Z"
     }
-  ]
+  ],
+  "replacedPosts": []
 }
