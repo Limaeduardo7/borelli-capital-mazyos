@@ -383,7 +383,7 @@ async function reschedulePlan(plan, startDate) {
   }
 }
 
-async function repairPendingPlan(plan) {
+async function repairPendingPlan(plan, onlySlug = null) {
   const { channel } = await discoverBuffer();
   const weekDirName = `semana-${plan.weekStart}`;
   const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
@@ -395,6 +395,7 @@ async function repairPendingPlan(plan) {
 
   for (const [index, item] of plan.carousels.entries()) {
     const slug = `${String(index + 1).padStart(2, '0')}-${slugify(item.slug || item.theme)}`;
+    if (onlySlug && slug !== onlySlug) continue;
     const record = ledger.posts.find((post) => post.slug === slug && post.bufferPostId);
     if (!record) continue;
     let current = null;
@@ -515,5 +516,5 @@ if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`)
 if (command === 'render') await renderPlan(inputFile, plan);
 if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
 if (command === 'reschedule') await reschedulePlan(plan, args['start-date']);
-if (command === 'repair') await repairPendingPlan(plan);
+if (command === 'repair') await repairPendingPlan(plan, args.slug || null);
 if (command === 'archive') archivePlan(inputFile, plan);
