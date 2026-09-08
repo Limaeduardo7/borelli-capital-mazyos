@@ -52,15 +52,17 @@
     },
     {
       "slug": "05-compra-continua-depois-da-chave",
-      "bufferPostId": "6a99e3e4e7cce1aa46143186",
-      "dueAt": "2026-09-08T16:00:00.000Z",
+      "bufferPostId": "6aa032e43151620ae8079aef",
+      "dueAt": "2026-09-08T16:08:05.053Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:25.032Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-09-08T16:09:19.916Z",
+      "externalLink": "https://www.instagram.com/p/DdCFN1OFYU6/",
       "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:25.231Z"
+      "statusCheckedAt": "2026-09-08T16:09:29.277Z",
+      "repairedAt": "2026-09-08T16:08:15.289Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "06-a-vista-nao-elimina-escolhas",
@@ -85,6 +87,22 @@
       "externalLink": null,
       "error": null,
       "statusCheckedAt": "2026-09-03T21:17:27.471Z"
+    }
+  ],
+  "replacedPosts": [
+    {
+      "slug": "05-compra-continua-depois-da-chave",
+      "bufferPostId": "6a99e3e4e7cce1aa46143186",
+      "dueAt": "2026-09-08T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:25.032Z",
+      "status": "error",
+      "sentAt": null,
+      "externalLink": null,
+      "error": "Instagram is reporting that the image format isn't supported. Please check the media requirements and try again.",
+      "statusCheckedAt": "2026-09-08T16:05:12.073Z",
+      "replacedAt": "2026-09-08T16:08:15.289Z",
+      "reason": "media-repair"
     }
   ]
 }
