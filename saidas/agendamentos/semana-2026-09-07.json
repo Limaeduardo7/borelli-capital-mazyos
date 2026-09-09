@@ -70,11 +70,11 @@
       "dueAt": "2026-09-09T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:26.166Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-09-09T16:08:25.760Z",
+      "externalLink": "https://www.instagram.com/p/DdEpmMwlEEs/",
       "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:26.365Z"
+      "statusCheckedAt": "2026-09-09T16:08:43.504Z"
     },
     {
       "slug": "07-toda-escolha-tem-concessao",
