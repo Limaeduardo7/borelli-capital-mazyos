@@ -8,11 +8,11 @@
       "dueAt": "2026-09-04T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:20.336Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:20.551Z"
+      "error": "Instagram is reporting that the image format isn't supported. Please check the media requirements and try again.",
+      "statusCheckedAt": "2026-09-10T21:11:29.189Z"
     },
     {
       "slug": "02-credito-precifica-flexibilidade",
@@ -20,11 +20,11 @@
       "dueAt": "2026-09-05T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:21.573Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:21.780Z"
+      "error": "Instagram is reporting that the image format isn't supported. Please check the media requirements and try again.",
+      "statusCheckedAt": "2026-09-10T21:11:29.436Z"
     },
     {
       "slug": "03-lance-pede-capital-com-funcao",
@@ -32,23 +32,23 @@
       "dueAt": "2026-09-06T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:22.699Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:22.900Z"
+      "error": "Instagram is reporting that the image format isn't supported. Please check the media requirements and try again.",
+      "statusCheckedAt": "2026-09-10T21:11:29.650Z"
     },
     {
       "slug": "04-liquidez-tem-velocidade",
       "bufferPostId": "6a99e3e3595d3d1a8241c36c",
-      "dueAt": "2026-09-07T16:00:00.000Z",
+      "dueAt": "2026-09-07T16:05:31.018Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:23.876Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-09-07T16:07:16.656Z",
+      "externalLink": "https://www.instagram.com/p/Dc_gMDIlH4l/",
       "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:24.085Z"
+      "statusCheckedAt": "2026-09-10T21:11:29.866Z"
     },
     {
       "slug": "05-compra-continua-depois-da-chave",
@@ -60,7 +60,7 @@
       "sentAt": "2026-09-08T16:09:19.916Z",
       "externalLink": "https://www.instagram.com/p/DdCFN1OFYU6/",
       "error": null,
-      "statusCheckedAt": "2026-09-08T16:09:29.277Z",
+      "statusCheckedAt": "2026-09-10T21:11:30.149Z",
       "repairedAt": "2026-09-08T16:08:15.289Z",
       "shareMode": "shareNow"
     },
@@ -74,7 +74,7 @@
       "sentAt": "2026-09-09T16:08:25.760Z",
       "externalLink": "https://www.instagram.com/p/DdEpmMwlEEs/",
       "error": null,
-      "statusCheckedAt": "2026-09-09T16:08:43.504Z"
+      "statusCheckedAt": "2026-09-10T21:11:30.374Z"
     },
     {
       "slug": "07-toda-escolha-tem-concessao",
@@ -86,7 +86,7 @@
       "sentAt": "2026-09-10T16:12:19.492Z",
       "externalLink": "https://www.instagram.com/p/DdHPJjgEdHY/",
       "error": null,
-      "statusCheckedAt": "2026-09-10T16:12:32.198Z",
+      "statusCheckedAt": "2026-09-10T21:11:30.577Z",
       "repairedAt": "2026-09-10T16:11:35.548Z",
       "shareMode": "shareNow"
     }
