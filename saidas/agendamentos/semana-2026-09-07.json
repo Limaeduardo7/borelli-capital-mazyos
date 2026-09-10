@@ -78,15 +78,17 @@
     },
     {
       "slug": "07-toda-escolha-tem-concessao",
-      "bufferPostId": "6a99e3e7595d3d1a8241c3b2",
-      "dueAt": "2026-09-10T16:00:00.000Z",
+      "bufferPostId": "6aa2d6ad497013c51d0c7d50",
+      "dueAt": "2026-09-10T16:11:25.301Z",
       "assets": 7,
       "scheduledAt": "2026-09-03T21:17:27.276Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-09-10T16:12:19.492Z",
+      "externalLink": "https://www.instagram.com/p/DdHPJjgEdHY/",
       "error": null,
-      "statusCheckedAt": "2026-09-03T21:17:27.471Z"
+      "statusCheckedAt": "2026-09-10T16:12:32.198Z",
+      "repairedAt": "2026-09-10T16:11:35.548Z",
+      "shareMode": "shareNow"
     }
   ],
   "replacedPosts": [
@@ -102,6 +104,20 @@
       "error": "Instagram is reporting that the image format isn't supported. Please check the media requirements and try again.",
       "statusCheckedAt": "2026-09-08T16:05:12.073Z",
       "replacedAt": "2026-09-08T16:08:15.289Z",
+      "reason": "media-repair"
+    },
+    {
+      "slug": "07-toda-escolha-tem-concessao",
+      "bufferPostId": "6a99e3e7595d3d1a8241c3b2",
+      "dueAt": "2026-09-10T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-03T21:17:27.276Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-03T21:17:27.471Z",
+      "replacedAt": "2026-09-10T16:11:35.548Z",
       "reason": "media-repair"
     }
   ]
