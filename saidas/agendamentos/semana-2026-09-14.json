@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-09-14",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-reversibilidade-protege-patrimonio",
+      "bufferPostId": "6aa31d0e816445bddc4041cb",
+      "dueAt": "2026-09-11T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:43.037Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:03.873Z"
+    },
+    {
+      "slug": "02-prazo-menor-pode-custar-margem",
+      "bufferPostId": "6aa31d10816445bddc404217",
+      "dueAt": "2026-09-12T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:44.717Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:04.082Z"
+    },
+    {
+      "slug": "03-credito-precisa-acompanhar-ativo",
+      "bufferPostId": "6aa31d1271ba1c02cceaa8c4",
+      "dueAt": "2026-09-13T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:46.372Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:04.297Z"
+    },
+    {
+      "slug": "04-liquidez-pede-regras-de-uso",
+      "bufferPostId": "6aa31d1348fd860ab1fae788",
+      "dueAt": "2026-09-14T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:47.998Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:04.511Z"
+    },
+    {
+      "slug": "05-desconto-nao-corrige-estrutura-ruim",
+      "bufferPostId": "6aa31d15bc5ba21062ea3c16",
+      "dueAt": "2026-09-15T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:49.759Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:04.731Z"
+    },
+    {
+      "slug": "06-planejamento-nao-promete-controle-total",
+      "bufferPostId": "6aa31d1785199affc9398f88",
+      "dueAt": "2026-09-16T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:51.384Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:04.937Z"
+    },
+    {
+      "slug": "07-proximo-sim-precisa-de-limites",
+      "bufferPostId": "6aa31d18bc5ba21062ea3c53",
+      "dueAt": "2026-09-17T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-10T21:11:52.982Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-10T21:12:05.140Z"
+    }
+  ]
+}

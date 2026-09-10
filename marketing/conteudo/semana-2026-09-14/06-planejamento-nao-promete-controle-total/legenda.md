@@ -1,0 +1,3 @@
+Se o futuro muda, por que planejar? Porque planejamento patrimonial não existe para adivinhar cenários. Ele organiza reservas, limites, alternativas e critérios de revisão para que a decisão não dependa de improviso quando as premissas mudarem. Uma estrutura responsável aceita incerteza, testa cenários e define quais sinais exigem ajuste. O plano não precisa acertar cada evento; precisa preservar capacidade de resposta. A Borelli Capital conduz esse processo sem promessas de controle ou resultado. Agende uma reunião consultiva para transformar incertezas em critérios de acompanhamento. Conteúdo educativo; decisões individuais dependem de análise.
+
+#PlanejamentoPatrimonial #GestãoDeRisco #EducaçãoFinanceira #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital

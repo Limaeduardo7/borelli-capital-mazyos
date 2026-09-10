@@ -1,0 +1,45 @@
+{
+  "slug": "desconto-nao-corrige-estrutura-ruim",
+  "theme": "Decisão de compra: desconto versus impacto patrimonial",
+  "category": "DECISÕES DE COMPRA",
+  "hook": "Desconto não corrige estrutura ruim",
+  "footer": "Preço melhor não substitui decisão melhor.",
+  "caption": "Um desconto relevante melhora o preço, mas não corrige uma compra desalinhada ao objetivo, ao caixa ou ao horizonte. A economia aparente pode exigir mobilização excessiva de recursos, aumentar concentração ou antecipar uma decisão que ainda não estava pronta. Avaliar a oportunidade exige comparar o ganho no preço com a liquidez perdida, os custos posteriores e a reversibilidade do ativo. Recusar um desconto pode ser racional quando a estrutura não fecha; aproveitar pode fazer sentido quando os critérios já estavam definidos. A Borelli Capital ajuda a separar oportunidade de pressão comercial. Agende uma reunião consultiva antes de uma aquisição relevante.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #Liquidez #AquisiçãoDeAtivos #GestãoFinanceira #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "DECISÕES DE COMPRA",
+      "title": "Desconto não corrige estrutura ruim",
+      "body": "Preço menor não resolve objetivo, liquidez e capacidade."
+    },
+    {
+      "kicker": "OPORTUNIDADE",
+      "title": "A economia chama atenção",
+      "body": "O percentual visível pode acelerar uma escolha ainda incompleta."
+    },
+    {
+      "kicker": "CAIXA",
+      "title": "Quanto precisa sair agora?",
+      "body": "O desconto pode exigir capital que sustentava outras funções."
+    },
+    {
+      "kicker": "CONCENTRAÇÃO",
+      "title": "O patrimônio muda de forma",
+      "body": "Mais recursos em um ativo podem reduzir diversificação e flexibilidade."
+    },
+    {
+      "kicker": "DEPOIS",
+      "title": "Custos continuam após a compra",
+      "body": "Operação, manutenção e tributos não desaparecem com o preço menor."
+    },
+    {
+      "kicker": "CRITÉRIO",
+      "title": "O plano existia antes?",
+      "body": "Uma oportunidade coerente confirma critérios; não precisa inventá-los."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Compare desconto e estrutura",
+      "body": "Converse com a Borelli Capital antes de transformar preço em compromisso."
+    }
+  ]
+}

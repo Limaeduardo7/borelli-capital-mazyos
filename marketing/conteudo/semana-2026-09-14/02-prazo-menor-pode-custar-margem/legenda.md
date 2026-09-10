@@ -1,0 +1,3 @@
+Reduzir o prazo pode diminuir o custo financeiro total, mas também concentra desembolsos e ocupa mais capacidade mensal. Isso não torna o prazo curto inadequado; apenas impede que ele seja tratado como sinônimo automático de eficiência. A estrutura precisa sobreviver aos meses menos confortáveis, preservar reservas e continuar compatível com outros objetivos. Comparar prazos exige observar custo, fluxo, flexibilidade para amortizar e tolerância a oscilações. A Borelli Capital ajuda a dimensionar o compromisso sem transformar capacidade máxima em meta. Agende uma reunião consultiva. Conteúdo educativo; condições e aprovação dependem de análise.
+
+#CréditoEstratégico #PlanejamentoFinanceiro #FluxoDeCaixa #GestãoDeRisco #EstruturaDeCrédito #BorelliCapital

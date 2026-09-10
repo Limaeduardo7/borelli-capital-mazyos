@@ -1,0 +1,3 @@
+Entre a adesão ao consórcio e a aquisição, o ativo pretendido pode mudar de preço, especificação ou prioridade. Por isso, a carta de crédito não deve ser escolhida apenas pelo valor de hoje. Regras de atualização, possibilidade de complementar recursos, despesas da compra e aderência do bem às normas da administradora influenciam a execução. O planejamento responsável acompanha a distância entre crédito e objetivo ao longo do grupo, sem tratar contemplação como garantia. A Borelli Capital integra essas variáveis em uma análise consultiva. Agende uma reunião para avaliar o encaixe da ferramenta no seu plano.
+
+#Consórcio #ConsórcioEstratégico #CartaDeCrédito #AquisiçãoPlanejada #PlanejamentoPatrimonial #BorelliCapital

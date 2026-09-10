@@ -1,0 +1,3 @@
+Decisões patrimoniais costumam avançar quando a oportunidade parece adequada. Mas um sim responsável precisa vir acompanhado de limites: quanto capital pode ser mobilizado, qual compromisso mensal é aceitável, o que deve permanecer protegido e quais condições exigem revisão. Esses limites não servem para impedir movimento; servem para evitar que uma escolha ocupe espaço demais no patrimônio. Em uma reunião consultiva, a Borelli Capital organiza objetivo, capacidade, riscos e critérios de saída antes da contratação. Agende uma conversa para estruturar sua próxima decisão com clareza. Conteúdo educativo; não constitui recomendação individual.
+
+#ConsultoriaPatrimonial #PlanejamentoEstratégico #DecisõesFinanceiras #GestãoPatrimonial #CréditoEstratégico #BorelliCapital

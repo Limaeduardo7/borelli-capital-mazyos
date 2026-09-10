@@ -1,0 +1,3 @@
+Ter recursos disponíveis não define quando eles devem ser utilizados. Sem regras, a liquidez pode ser consumida por oportunidades pouco comparadas ou preservada indefinidamente, mesmo quando deveria cumprir uma função. Governança significa estabelecer gatilhos de uso, responsáveis pela decisão, limite de mobilização e prazo de recomposição. Em famílias e empresas, esse acordo reduz improviso e torna o caixa mais coerente com a estratégia patrimonial. A Borelli Capital ajuda a transformar saldo disponível em critérios claros de decisão. Agende uma reunião consultiva para organizar essa governança. Conteúdo educativo; cada contexto exige análise própria.
+
+#Liquidez #GovernançaFinanceira #PlanejamentoPatrimonial #GestãoDeCaixa #DecisõesFinanceiras #BorelliCapital

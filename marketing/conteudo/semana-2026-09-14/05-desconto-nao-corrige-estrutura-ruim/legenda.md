@@ -1,0 +1,3 @@
+Um desconto relevante melhora o preço, mas não corrige uma compra desalinhada ao objetivo, ao caixa ou ao horizonte. A economia aparente pode exigir mobilização excessiva de recursos, aumentar concentração ou antecipar uma decisão que ainda não estava pronta. Avaliar a oportunidade exige comparar o ganho no preço com a liquidez perdida, os custos posteriores e a reversibilidade do ativo. Recusar um desconto pode ser racional quando a estrutura não fecha; aproveitar pode fazer sentido quando os critérios já estavam definidos. A Borelli Capital ajuda a separar oportunidade de pressão comercial. Agende uma reunião consultiva antes de uma aquisição relevante.
+
+#DecisãoDeCompra #PlanejamentoPatrimonial #Liquidez #AquisiçãoDeAtivos #GestãoFinanceira #BorelliCapital
