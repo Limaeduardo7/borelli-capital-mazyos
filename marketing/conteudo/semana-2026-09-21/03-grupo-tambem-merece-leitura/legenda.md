@@ -1,0 +1,3 @@
+No consórcio, não basta olhar para o valor da carta e a contribuição mensal. Regulamento, critérios de lance, forma de atualização, assembleias e informações disponibilizadas pela administradora ajudam a compreender como o grupo funciona. Dados passados não garantem contemplação futura, mas ignorar as regras deixa a decisão dependente de expectativa. Uma leitura responsável separa o que é contratual, o que é histórico e o que continua incerto. A Borelli Capital ajuda a conectar essas informações ao objetivo, ao prazo e à liquidez do cliente. Agende uma reunião consultiva para avaliar o encaixe da ferramenta sem promessas.
+
+#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #CartaDeCrédito #DecisãoFinanceira #BorelliCapital

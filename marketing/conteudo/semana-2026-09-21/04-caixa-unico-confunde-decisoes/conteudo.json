@@ -1,0 +1,45 @@
+{
+  "slug": "caixa-unico-confunde-decisoes",
+  "theme": "Liquidez: separação operacional entre proteção, execução e oportunidade",
+  "category": "LIQUIDEZ E GOVERNANÇA",
+  "hook": "Caixa único confunde decisões",
+  "footer": "Separar funções melhora a qualidade da escolha.",
+  "caption": "Quando proteção, execução e oportunidade ficam no mesmo caixa, o saldo parece maior do que a disponibilidade real. Um recurso reservado para tributos pode ser confundido com entrada; a margem para imprevistos pode parecer capital livre; uma oportunidade pode consumir o que sustentaria a operação. Separar funções não exige necessariamente várias contas, mas exige fronteiras claras, registros e critérios de uso. A Borelli Capital ajuda famílias e empresas a enxergar quanto existe, para qual finalidade e sob quais condições cada recurso pode ser mobilizado. Agende uma reunião consultiva para organizar sua arquitetura de liquidez. Conteúdo educativo; cada contexto exige análise própria.\n\n#Liquidez #GovernançaFinanceira #GestãoDeCaixa #PlanejamentoPatrimonial #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E GOVERNANÇA",
+      "title": "Caixa único confunde decisões",
+      "body": "Um saldo pode reunir recursos que cumprem funções completamente diferentes."
+    },
+    {
+      "kicker": "ILUSÃO",
+      "title": "Total disponível não é total livre",
+      "body": "Parte do caixa já protege obrigações, riscos e etapas futuras."
+    },
+    {
+      "kicker": "CONFLITO",
+      "title": "Objetivos disputam o mesmo recurso",
+      "body": "Sem fronteiras, a decisão mais recente pode consumir a reserva errada."
+    },
+    {
+      "kicker": "PROTEÇÃO",
+      "title": "Uma parcela sustenta estabilidade",
+      "body": "Imprevistos e compromissos essenciais pedem acesso preservado."
+    },
+    {
+      "kicker": "EXECUÇÃO",
+      "title": "Outra parcela cumpre o plano",
+      "body": "Aquisições e projetos precisam de recursos vinculados ao calendário."
+    },
+    {
+      "kicker": "GOVERNANÇA",
+      "title": "Nomeie função, limite e gatilho",
+      "body": "Clareza operacional separa o que existe do que pode ser usado."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Organize as fronteiras do caixa",
+      "body": "Converse com a Borelli Capital para estruturar funções e critérios."
+    }
+  ]
+}

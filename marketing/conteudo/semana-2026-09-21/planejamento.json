@@ -1,0 +1,124 @@
+{
+  "weekStart": "2026-09-21",
+  "carousels": [
+    {
+      "slug": "patrimonio-precisa-de-redundancia",
+      "theme": "Educação patrimonial: redundância para evitar pontos únicos de falha",
+      "category": "EDUCAÇÃO PATRIMONIAL",
+      "hook": "Patrimônio também precisa de redundância",
+      "footer": "Estrutura resiliente não depende de uma única saída.",
+      "caption": "Um patrimônio pode parecer diversificado e ainda depender de um único ponto para funcionar: uma fonte de renda, uma reserva, uma garantia ou um ativo fácil de vender. Quando essa peça falha, decisões que pareciam independentes passam a competir pelo mesmo recurso. Redundância patrimonial não significa duplicar tudo. Significa construir alternativas proporcionais aos riscos relevantes, com liquidez, proteção e rotas de execução que não dependam da mesma premissa. A Borelli Capital organiza essa leitura antes que a concentração se transforme em fragilidade. Agende uma reunião consultiva para mapear os pontos críticos da sua estrutura. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoDeRisco #ResiliênciaFinanceira #DecisõesPatrimoniais #BorelliCapital",
+      "slides": [
+        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Patrimônio também precisa de redundância", "body": "Uma estrutura robusta não depende de uma única peça para continuar funcionando."},
+        {"kicker": "DEPENDÊNCIA", "title": "Onde tudo passa pelo mesmo ponto?", "body": "Renda, liquidez, garantia e execução podem compartilhar uma fragilidade invisível."},
+        {"kicker": "TENSÃO", "title": "Uma falha pressiona todo o sistema", "body": "Quando a peça central muda, objetivos diferentes disputam o mesmo recurso."},
+        {"kicker": "ALTERNATIVAS", "title": "Redundância não é duplicação", "body": "É preservar rotas proporcionais para responder sem desmontar o patrimônio."},
+        {"kicker": "PROTEÇÃO", "title": "Separe funções críticas", "body": "Reserva, renda e garantias precisam evitar dependências desnecessárias entre si."},
+        {"kicker": "MÉTODO", "title": "Mapeie os pontos únicos de falha", "body": "Teste o que acontece quando cada premissa importante deixa de funcionar."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Construa alternativas antes da pressão", "body": "Converse com a Borelli Capital para avaliar a resiliência da sua estrutura."}
+      ]
+    },
+    {
+      "slug": "carencia-nao-e-tempo-gratis",
+      "theme": "Crédito estratégico: leitura do custo e do caixa durante a carência",
+      "category": "CRÉDITO ESTRATÉGICO",
+      "hook": "Carência não é tempo grátis",
+      "footer": "Prazo sem desembolso ainda produz consequências.",
+      "caption": "A carência pode aliviar o caixa no início de uma operação, mas não deve ser confundida com ausência de custo. Dependendo do contrato, juros, correção ou outros encargos continuam compondo a obrigação enquanto o pagamento principal ainda não começou. O benefício real está no que esse intervalo permite executar: concluir uma transição, estabilizar receita ou preservar capital para uma etapa necessária. Sem uma função clara, a carência apenas desloca esforço para depois. A Borelli Capital compara o alívio imediato com o saldo, o prazo e a capacidade futura. Agende uma reunião consultiva antes de escolher a estrutura. Conteúdo educativo; condições e aprovação dependem de análise.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #Carência #FluxoDeCaixa #EstruturaDeCrédito #BorelliCapital",
+      "slides": [
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "Carência não é tempo grátis", "body": "Adiar o desembolso não interrompe necessariamente a formação da obrigação."},
+        {"kicker": "ALÍVIO", "title": "O caixa respira primeiro", "body": "O início sem parcela pode preservar recursos para uma transição importante."},
+        {"kicker": "CUSTO", "title": "O saldo pode continuar mudando", "body": "Juros, correção e encargos dependem das regras previstas no contrato."},
+        {"kicker": "FUNÇÃO", "title": "O intervalo precisa entregar algo", "body": "Tempo só cria valor quando viabiliza uma etapa concreta da estratégia."},
+        {"kicker": "DEPOIS", "title": "A obrigação retorna ao fluxo", "body": "Parcela, prazo e saldo futuro precisam caber no cenário pós-carência."},
+        {"kicker": "COMPARAÇÃO", "title": "Meça agora e depois", "body": "Compare o alívio inicial com custo total, execução e capacidade futura."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Dê função à carência", "body": "Converse com a Borelli Capital para avaliar o intervalo dentro da operação."}
+      ]
+    },
+    {
+      "slug": "grupo-tambem-merece-leitura",
+      "theme": "Consórcio: leitura responsável das regras e do funcionamento do grupo",
+      "category": "CONSÓRCIO COM ESTRATÉGIA",
+      "hook": "O grupo também merece leitura",
+      "footer": "Consórcio responsável começa pelas regras observáveis.",
+      "caption": "No consórcio, não basta olhar para o valor da carta e a contribuição mensal. Regulamento, critérios de lance, forma de atualização, assembleias e informações disponibilizadas pela administradora ajudam a compreender como o grupo funciona. Dados passados não garantem contemplação futura, mas ignorar as regras deixa a decisão dependente de expectativa. Uma leitura responsável separa o que é contratual, o que é histórico e o que continua incerto. A Borelli Capital ajuda a conectar essas informações ao objetivo, ao prazo e à liquidez do cliente. Agende uma reunião consultiva para avaliar o encaixe da ferramenta sem promessas.\n\n#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #CartaDeCrédito #DecisãoFinanceira #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSÓRCIO COM ESTRATÉGIA", "title": "O grupo também merece leitura", "body": "A decisão envolve regras, dinâmica coletiva e incerteza de tempo."},
+        {"kicker": "REGULAMENTO", "title": "Comece pelo que é contratual", "body": "Atualização, elegibilidade e procedimentos definem os limites da ferramenta."},
+        {"kicker": "ASSEMBLEIA", "title": "Observe como as decisões acontecem", "body": "Calendário, modalidades e critérios precisam estar compreendidos antes da adesão."},
+        {"kicker": "HISTÓRICO", "title": "Passado informa, não promete", "body": "Resultados anteriores ajudam a contextualizar, sem garantir o próximo evento."},
+        {"kicker": "INCERTEZA", "title": "Expectativa não substitui cenário", "body": "O plano deve permanecer viável se o tempo de realização for diferente."},
+        {"kicker": "MÉTODO", "title": "Separe regra, dado e hipótese", "body": "Essa distinção torna a análise mais clara e reduz conclusões apressadas."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Leia o grupo com contexto", "body": "Converse com a Borelli Capital para integrar regras, prazo e objetivo."}
+      ]
+    },
+    {
+      "slug": "caixa-unico-confunde-decisoes",
+      "theme": "Liquidez: separação operacional entre proteção, execução e oportunidade",
+      "category": "LIQUIDEZ E GOVERNANÇA",
+      "hook": "Caixa único confunde decisões",
+      "footer": "Separar funções melhora a qualidade da escolha.",
+      "caption": "Quando proteção, execução e oportunidade ficam no mesmo caixa, o saldo parece maior do que a disponibilidade real. Um recurso reservado para tributos pode ser confundido com entrada; a margem para imprevistos pode parecer capital livre; uma oportunidade pode consumir o que sustentaria a operação. Separar funções não exige necessariamente várias contas, mas exige fronteiras claras, registros e critérios de uso. A Borelli Capital ajuda famílias e empresas a enxergar quanto existe, para qual finalidade e sob quais condições cada recurso pode ser mobilizado. Agende uma reunião consultiva para organizar sua arquitetura de liquidez. Conteúdo educativo; cada contexto exige análise própria.\n\n#Liquidez #GovernançaFinanceira #GestãoDeCaixa #PlanejamentoPatrimonial #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E GOVERNANÇA", "title": "Caixa único confunde decisões", "body": "Um saldo pode reunir recursos que cumprem funções completamente diferentes."},
+        {"kicker": "ILUSÃO", "title": "Total disponível não é total livre", "body": "Parte do caixa já protege obrigações, riscos e etapas futuras."},
+        {"kicker": "CONFLITO", "title": "Objetivos disputam o mesmo recurso", "body": "Sem fronteiras, a decisão mais recente pode consumir a reserva errada."},
+        {"kicker": "PROTEÇÃO", "title": "Uma parcela sustenta estabilidade", "body": "Imprevistos e compromissos essenciais pedem acesso preservado."},
+        {"kicker": "EXECUÇÃO", "title": "Outra parcela cumpre o plano", "body": "Aquisições e projetos precisam de recursos vinculados ao calendário."},
+        {"kicker": "GOVERNANÇA", "title": "Nomeie função, limite e gatilho", "body": "Clareza operacional separa o que existe do que pode ser usado."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Organize as fronteiras do caixa", "body": "Converse com a Borelli Capital para estruturar funções e critérios."}
+      ]
+    },
+    {
+      "slug": "vendedor-nao-define-seu-prazo",
+      "theme": "Decisão de compra: preservar o próprio ritmo diante do prazo comercial",
+      "category": "DECISÕES DE COMPRA",
+      "hook": "O vendedor não define seu prazo",
+      "footer": "Prazo comercial não substitui prontidão patrimonial.",
+      "caption": "Condições comerciais têm validade, mas isso não significa que o seu patrimônio deva obedecer ao mesmo relógio. Quando o prazo do vendedor passa a comandar a decisão, análise de caixa, documentação, custos posteriores e alternativas podem ser comprimidas. Em alguns casos, a oportunidade é compatível com critérios já definidos; em outros, a urgência apenas expõe que a estrutura ainda não está pronta. A Borelli Capital ajuda a distinguir uma janela legítima de uma decisão acelerada por pressão externa. Agende uma reunião consultiva antes de assumir uma compra relevante. Conteúdo educativo; não constitui recomendação individual.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #Negociação #Liquidez #AquisiçãoDeAtivos #BorelliCapital",
+      "slides": [
+        {"kicker": "DECISÕES DE COMPRA", "title": "O vendedor não define seu prazo", "body": "A validade da oferta não determina a prontidão do seu patrimônio."},
+        {"kicker": "PRESSÃO", "title": "O relógio muda a conversa", "body": "Prazos curtos podem deslocar atenção de critérios para medo de perder."},
+        {"kicker": "PRONTIDÃO", "title": "A estrutura já estava preparada?", "body": "Caixa, documentos e custos futuros precisam existir antes da oportunidade."},
+        {"kicker": "ALTERNATIVAS", "title": "Compare sem comprimir a análise", "body": "Forma de pagamento, ativo e momento ainda merecem caminhos concorrentes."},
+        {"kicker": "LIMITE", "title": "Perder a oferta pode proteger", "body": "Uma condição atraente não compensa comprometer margem e objetivos essenciais."},
+        {"kicker": "CRITÉRIO", "title": "A janela confirma o plano", "body": "A oportunidade adequada encontra premissas prontas; não precisa inventá-las."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Decida no seu tempo estratégico", "body": "Converse com a Borelli Capital antes que o prazo comercial escolha por você."}
+      ]
+    },
+    {
+      "slug": "quitar-tudo-antes-de-avancar",
+      "theme": "Objeção: necessidade de quitar todos os compromissos antes de um novo objetivo",
+      "category": "OBJEÇÕES E CRITÉRIOS",
+      "hook": "Preciso quitar tudo antes?",
+      "footer": "Sequência e simultaneidade precisam de critérios.",
+      "caption": "Quitar compromissos antes de iniciar um novo objetivo pode reduzir risco e simplificar o fluxo. Mas tratar essa sequência como regra universal também pode adiar decisões viáveis ou consumir liquidez em excesso. A análise responsável observa custo da obrigação atual, reserva remanescente, capacidade mensal, prazo do novo objetivo e compatibilidade entre os dois compromissos. Às vezes, a melhor decisão é esperar. Em outros contextos, etapas podem coexistir com limites bem definidos. A Borelli Capital organiza essa comparação sem respostas automáticas. Agende uma reunião consultiva para avaliar a sequência mais coerente. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoFinanceiro #GestãoDeDívidas #PlanejamentoPatrimonial #CréditoConsciente #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "OBJEÇÕES E CRITÉRIOS", "title": "Preciso quitar tudo antes?", "body": "Simplificar pode ser prudente, mas a sequência não é uma regra universal."},
+        {"kicker": "VANTAGEM", "title": "Quitar reduz complexidade", "body": "Menos obrigações liberam fluxo e tornam a estrutura mais previsível."},
+        {"kicker": "CONTRAPARTIDA", "title": "Antecipar usa liquidez agora", "body": "O recurso aplicado na quitação deixa de proteger ou executar outros objetivos."},
+        {"kicker": "TEMPO", "title": "O novo objetivo também tem janela", "body": "Esperar pode alterar preço, disponibilidade ou relevância da decisão."},
+        {"kicker": "COMPATIBILIDADE", "title": "Dois compromissos podem coexistir?", "body": "Fluxo, reservas e cenários adversos definem se a sobreposição é sustentável."},
+        {"kicker": "MÉTODO", "title": "Compare sequência e simultaneidade", "body": "A escolha precisa mostrar custo, margem e consequências de cada caminho."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Organize a ordem das decisões", "body": "Converse com a Borelli Capital para avaliar prioridades e limites."}
+      ]
+    },
+    {
+      "slug": "decisao-merece-stress-test",
+      "theme": "Convite consultivo: teste de estresse antes de assumir uma decisão patrimonial",
+      "category": "CONVERSA CONSULTIVA",
+      "hook": "Sua decisão merece um stress test",
+      "footer": "Clareza aparece quando as premissas são testadas.",
+      "caption": "Uma decisão pode parecer confortável enquanto todas as premissas permanecem favoráveis. O stress test patrimonial pergunta o que acontece se a renda oscilar, o custo aumentar, o prazo se alongar ou a saída exigir mais tempo. O objetivo não é criar medo nem prever o futuro. É revelar quais limites protegem a estrutura e quais sinais exigem revisão. Em uma reunião consultiva, a Borelli Capital organiza objetivo, fluxo, liquidez, garantias e alternativas em cenários comparáveis. Agende um diagnóstico para testar sua próxima decisão antes do compromisso. Conteúdo educativo; não há garantia de aprovação ou resultado.\n\n#ConsultoriaPatrimonial #StressTest #PlanejamentoEstratégico #GestãoDeRisco #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "CONVERSA CONSULTIVA", "title": "Sua decisão merece um stress test", "body": "Uma estrutura forte precisa continuar compreensível fora do cenário ideal."},
+        {"kicker": "CENÁRIO", "title": "E se a renda oscilar?", "body": "O compromisso deve respeitar uma margem que não dependa do melhor mês."},
+        {"kicker": "CUSTO", "title": "E se executar ficar mais caro?", "body": "Aquisição, documentação e operação podem exigir capital adicional."},
+        {"kicker": "TEMPO", "title": "E se o prazo se alongar?", "body": "A estratégia precisa suportar espera sem abandonar objetivos essenciais."},
+        {"kicker": "SAÍDA", "title": "E se mudar de direção?", "body": "Reversibilidade, liquidez e garantias mostram o custo de recalibrar."},
+        {"kicker": "DIAGNÓSTICO", "title": "Transforme tensão em limite", "body": "Cenários ajudam a definir gatilhos, reservas e respostas antes da pressão."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Teste antes de assumir", "body": "Agende um diagnóstico com a Borelli Capital e compare os cenários."}
+      ]
+    }
+  ]
+}

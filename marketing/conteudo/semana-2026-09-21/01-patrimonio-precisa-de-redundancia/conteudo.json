@@ -1,0 +1,45 @@
+{
+  "slug": "patrimonio-precisa-de-redundancia",
+  "theme": "Educação patrimonial: redundância para evitar pontos únicos de falha",
+  "category": "EDUCAÇÃO PATRIMONIAL",
+  "hook": "Patrimônio também precisa de redundância",
+  "footer": "Estrutura resiliente não depende de uma única saída.",
+  "caption": "Um patrimônio pode parecer diversificado e ainda depender de um único ponto para funcionar: uma fonte de renda, uma reserva, uma garantia ou um ativo fácil de vender. Quando essa peça falha, decisões que pareciam independentes passam a competir pelo mesmo recurso. Redundância patrimonial não significa duplicar tudo. Significa construir alternativas proporcionais aos riscos relevantes, com liquidez, proteção e rotas de execução que não dependam da mesma premissa. A Borelli Capital organiza essa leitura antes que a concentração se transforme em fragilidade. Agende uma reunião consultiva para mapear os pontos críticos da sua estrutura. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoDeRisco #ResiliênciaFinanceira #DecisõesPatrimoniais #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "EDUCAÇÃO PATRIMONIAL",
+      "title": "Patrimônio também precisa de redundância",
+      "body": "Uma estrutura robusta não depende de uma única peça para continuar funcionando."
+    },
+    {
+      "kicker": "DEPENDÊNCIA",
+      "title": "Onde tudo passa pelo mesmo ponto?",
+      "body": "Renda, liquidez, garantia e execução podem compartilhar uma fragilidade invisível."
+    },
+    {
+      "kicker": "TENSÃO",
+      "title": "Uma falha pressiona todo o sistema",
+      "body": "Quando a peça central muda, objetivos diferentes disputam o mesmo recurso."
+    },
+    {
+      "kicker": "ALTERNATIVAS",
+      "title": "Redundância não é duplicação",
+      "body": "É preservar rotas proporcionais para responder sem desmontar o patrimônio."
+    },
+    {
+      "kicker": "PROTEÇÃO",
+      "title": "Separe funções críticas",
+      "body": "Reserva, renda e garantias precisam evitar dependências desnecessárias entre si."
+    },
+    {
+      "kicker": "MÉTODO",
+      "title": "Mapeie os pontos únicos de falha",
+      "body": "Teste o que acontece quando cada premissa importante deixa de funcionar."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Construa alternativas antes da pressão",
+      "body": "Converse com a Borelli Capital para avaliar a resiliência da sua estrutura."
+    }
+  ]
+}

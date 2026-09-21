@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-09-21",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-patrimonio-precisa-de-redundancia",
+      "bufferPostId": "6ab16275c77c4909c8fc7ad9",
+      "dueAt": "2026-09-22T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:34.673Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:34.908Z"
+    },
+    {
+      "slug": "02-carencia-nao-e-tempo-gratis",
+      "bufferPostId": "6ab16278c77c4909c8fc7b17",
+      "dueAt": "2026-09-23T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:36.843Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:37.099Z"
+    },
+    {
+      "slug": "03-grupo-tambem-merece-leitura",
+      "bufferPostId": "6ab1627ad60d4acf72a4ce95",
+      "dueAt": "2026-09-24T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:38.525Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:38.756Z"
+    },
+    {
+      "slug": "04-caixa-unico-confunde-decisoes",
+      "bufferPostId": "6ab1627c9f629dddb6e8bef6",
+      "dueAt": "2026-09-25T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:40.664Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:40.967Z"
+    },
+    {
+      "slug": "05-vendedor-nao-define-seu-prazo",
+      "bufferPostId": "6ab1627e5c376ae4a0a8e9b0",
+      "dueAt": "2026-09-26T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:42.457Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:42.690Z"
+    },
+    {
+      "slug": "06-quitar-tudo-antes-de-avancar",
+      "bufferPostId": "6ab16280d5a94ed8d0f2d486",
+      "dueAt": "2026-09-27T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:44.228Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:44.440Z"
+    },
+    {
+      "slug": "07-decisao-merece-stress-test",
+      "bufferPostId": "6ab162815c376ae4a0a8e9f3",
+      "dueAt": "2026-09-28T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:45.867Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-21T16:59:46.138Z"
+    }
+  ]
+}

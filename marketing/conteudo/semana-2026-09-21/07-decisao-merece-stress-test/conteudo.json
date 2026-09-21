@@ -1,0 +1,45 @@
+{
+  "slug": "decisao-merece-stress-test",
+  "theme": "Convite consultivo: teste de estresse antes de assumir uma decisão patrimonial",
+  "category": "CONVERSA CONSULTIVA",
+  "hook": "Sua decisão merece um stress test",
+  "footer": "Clareza aparece quando as premissas são testadas.",
+  "caption": "Uma decisão pode parecer confortável enquanto todas as premissas permanecem favoráveis. O stress test patrimonial pergunta o que acontece se a renda oscilar, o custo aumentar, o prazo se alongar ou a saída exigir mais tempo. O objetivo não é criar medo nem prever o futuro. É revelar quais limites protegem a estrutura e quais sinais exigem revisão. Em uma reunião consultiva, a Borelli Capital organiza objetivo, fluxo, liquidez, garantias e alternativas em cenários comparáveis. Agende um diagnóstico para testar sua próxima decisão antes do compromisso. Conteúdo educativo; não há garantia de aprovação ou resultado.\n\n#ConsultoriaPatrimonial #StressTest #PlanejamentoEstratégico #GestãoDeRisco #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "CONVERSA CONSULTIVA",
+      "title": "Sua decisão merece um stress test",
+      "body": "Uma estrutura forte precisa continuar compreensível fora do cenário ideal."
+    },
+    {
+      "kicker": "CENÁRIO",
+      "title": "E se a renda oscilar?",
+      "body": "O compromisso deve respeitar uma margem que não dependa do melhor mês."
+    },
+    {
+      "kicker": "CUSTO",
+      "title": "E se executar ficar mais caro?",
+      "body": "Aquisição, documentação e operação podem exigir capital adicional."
+    },
+    {
+      "kicker": "TEMPO",
+      "title": "E se o prazo se alongar?",
+      "body": "A estratégia precisa suportar espera sem abandonar objetivos essenciais."
+    },
+    {
+      "kicker": "SAÍDA",
+      "title": "E se mudar de direção?",
+      "body": "Reversibilidade, liquidez e garantias mostram o custo de recalibrar."
+    },
+    {
+      "kicker": "DIAGNÓSTICO",
+      "title": "Transforme tensão em limite",
+      "body": "Cenários ajudam a definir gatilhos, reservas e respostas antes da pressão."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Teste antes de assumir",
+      "body": "Agende um diagnóstico com a Borelli Capital e compare os cenários."
+    }
+  ]
+}

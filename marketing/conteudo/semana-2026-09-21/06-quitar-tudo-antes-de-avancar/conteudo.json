@@ -1,0 +1,45 @@
+{
+  "slug": "quitar-tudo-antes-de-avancar",
+  "theme": "Objeção: necessidade de quitar todos os compromissos antes de um novo objetivo",
+  "category": "OBJEÇÕES E CRITÉRIOS",
+  "hook": "Preciso quitar tudo antes?",
+  "footer": "Sequência e simultaneidade precisam de critérios.",
+  "caption": "Quitar compromissos antes de iniciar um novo objetivo pode reduzir risco e simplificar o fluxo. Mas tratar essa sequência como regra universal também pode adiar decisões viáveis ou consumir liquidez em excesso. A análise responsável observa custo da obrigação atual, reserva remanescente, capacidade mensal, prazo do novo objetivo e compatibilidade entre os dois compromissos. Às vezes, a melhor decisão é esperar. Em outros contextos, etapas podem coexistir com limites bem definidos. A Borelli Capital organiza essa comparação sem respostas automáticas. Agende uma reunião consultiva para avaliar a sequência mais coerente. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoFinanceiro #GestãoDeDívidas #PlanejamentoPatrimonial #CréditoConsciente #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "OBJEÇÕES E CRITÉRIOS",
+      "title": "Preciso quitar tudo antes?",
+      "body": "Simplificar pode ser prudente, mas a sequência não é uma regra universal."
+    },
+    {
+      "kicker": "VANTAGEM",
+      "title": "Quitar reduz complexidade",
+      "body": "Menos obrigações liberam fluxo e tornam a estrutura mais previsível."
+    },
+    {
+      "kicker": "CONTRAPARTIDA",
+      "title": "Antecipar usa liquidez agora",
+      "body": "O recurso aplicado na quitação deixa de proteger ou executar outros objetivos."
+    },
+    {
+      "kicker": "TEMPO",
+      "title": "O novo objetivo também tem janela",
+      "body": "Esperar pode alterar preço, disponibilidade ou relevância da decisão."
+    },
+    {
+      "kicker": "COMPATIBILIDADE",
+      "title": "Dois compromissos podem coexistir?",
+      "body": "Fluxo, reservas e cenários adversos definem se a sobreposição é sustentável."
+    },
+    {
+      "kicker": "MÉTODO",
+      "title": "Compare sequência e simultaneidade",
+      "body": "A escolha precisa mostrar custo, margem e consequências de cada caminho."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Organize a ordem das decisões",
+      "body": "Converse com a Borelli Capital para avaliar prioridades e limites."
+    }
+  ]
+}

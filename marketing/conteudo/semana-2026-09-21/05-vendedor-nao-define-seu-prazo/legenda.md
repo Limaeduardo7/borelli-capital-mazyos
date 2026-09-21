@@ -1,0 +1,3 @@
+Condições comerciais têm validade, mas isso não significa que o seu patrimônio deva obedecer ao mesmo relógio. Quando o prazo do vendedor passa a comandar a decisão, análise de caixa, documentação, custos posteriores e alternativas podem ser comprimidas. Em alguns casos, a oportunidade é compatível com critérios já definidos; em outros, a urgência apenas expõe que a estrutura ainda não está pronta. A Borelli Capital ajuda a distinguir uma janela legítima de uma decisão acelerada por pressão externa. Agende uma reunião consultiva antes de assumir uma compra relevante. Conteúdo educativo; não constitui recomendação individual.
+
+#DecisãoDeCompra #PlanejamentoPatrimonial #Negociação #Liquidez #AquisiçãoDeAtivos #BorelliCapital

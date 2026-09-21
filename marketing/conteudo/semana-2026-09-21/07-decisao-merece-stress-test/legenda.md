@@ -1,0 +1,3 @@
+Uma decisão pode parecer confortável enquanto todas as premissas permanecem favoráveis. O stress test patrimonial pergunta o que acontece se a renda oscilar, o custo aumentar, o prazo se alongar ou a saída exigir mais tempo. O objetivo não é criar medo nem prever o futuro. É revelar quais limites protegem a estrutura e quais sinais exigem revisão. Em uma reunião consultiva, a Borelli Capital organiza objetivo, fluxo, liquidez, garantias e alternativas em cenários comparáveis. Agende um diagnóstico para testar sua próxima decisão antes do compromisso. Conteúdo educativo; não há garantia de aprovação ou resultado.
+
+#ConsultoriaPatrimonial #StressTest #PlanejamentoEstratégico #GestãoDeRisco #DecisõesFinanceiras #BorelliCapital
