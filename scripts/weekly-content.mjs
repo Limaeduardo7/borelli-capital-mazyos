@@ -383,6 +383,85 @@ async function reschedulePlan(plan, startDate) {
   }
 }
 
+async function auditPlan(plan) {
+  const weekDirName = `semana-${plan.weekStart}`;
+  const ledgerFile = path.join(ROOT, 'saidas', 'agendamentos', `${weekDirName}.json`);
+  if (!fs.existsSync(ledgerFile)) fail('ledger da semana não encontrado.');
+  const ledger = readJson(ledgerFile);
+  for (const record of ledger.posts || []) {
+    const data = await bufferRequest(`query AuditPostStatus($input: PostInput!) { post(input: $input) { id status dueAt sentAt externalLink assets { id mimeType } error { ... on PostPublishingError { message } } } }`, { input: { id: record.bufferPostId } });
+    const live = data?.post;
+    if (!live?.id) fail(`Buffer não retornou o estado vivo de ${record.slug}.`);
+    Object.assign(record, { status: live.status, dueAt: live.dueAt, sentAt: live.sentAt || null, externalLink: live.externalLink || null, assets: live.assets?.length || record.assets, error: live.error?.message || null, statusCheckedAt: new Date().toISOString() });
+    console.log(`${record.slug}: ${record.status}, ${record.assets} assets, error=${record.error || 'null'}`);
+  }
+  writeJsonAtomic(ledgerFile, ledger);
+}
+
+async function publishNow(plan, onlySlug) {
+  if (!onlySlug) fail('publish-now exige --slug SLUG.');
+  const { channel } = await discoverBuffer();
+  const weekDirName = `semana-${plan.weekStart}`;
+  const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
+  const mediaBase = (process.env.MEDIA_BASE_URL || DEFAULT_MEDIA_BASE_URL).replace(/\/$/, '');
+  const ledgerFile = path.join(ROOT, 'saidas', 'agendamentos', `${weekDirName}.json`);
+  if (!fs.existsSync(publicRoot) || !fs.existsSync(ledgerFile)) fail('render ou ledger da semana não encontrado.');
+  const ledger = readJson(ledgerFile);
+  const index = plan.carousels.findIndex((item, itemIndex) => {
+    const slug = `${String(itemIndex + 1).padStart(2, '0')}-${slugify(item.slug || item.theme)}`;
+    return slug === onlySlug;
+  });
+  if (index < 0) fail(`slug não encontrado no planejamento: ${onlySlug}`);
+  const item = plan.carousels[index];
+  const record = ledger.posts.find((post) => post.slug === onlySlug && post.bufferPostId);
+  if (!record) fail(`post existente não encontrado no ledger: ${onlySlug}`);
+
+  const statusQuery = `query PublishNowStatus($input: PostInput!) { post(input: $input) { id status dueAt sentAt externalLink assets { id mimeType } error { ... on PostPublishingError { message } } } }`;
+  let current = (await bufferRequest(statusQuery, { input: { id: record.bufferPostId } }))?.post;
+  if (!current?.id) fail(`Buffer não retornou o estado vivo de ${onlySlug}.`);
+  if (current.status === 'sent') {
+    Object.assign(record, { status: current.status, dueAt: current.dueAt, sentAt: current.sentAt || null, externalLink: current.externalLink || null, assets: current.assets?.length || record.assets, error: current.error?.message || null, statusCheckedAt: new Date().toISOString() });
+    writeJsonAtomic(ledgerFile, ledger);
+    console.log(`já publicado: ${onlySlug} (${current.id}) ${current.externalLink || ''}`.trim());
+    return;
+  }
+  if (!['scheduled', 'sending'].includes(current.status)) fail(`estado incompatível com publish-now: ${current.status}.`);
+
+  if (current.status === 'scheduled') {
+    const imageFiles = fs.readdirSync(path.join(publicRoot, onlySlug)).filter((name) => /^slide-\d+\.(png|jpg)$/.test(name)).sort();
+    const mediaVersion = `${plan.weekStart.replaceAll('-', '')}-now-${Date.now()}`;
+    const urls = imageFiles.map((name) => `${mediaBase}/${weekDirName}/${onlySlug}/${name}?v=${mediaVersion}`);
+    for (const url of urls) await assertPublic(url);
+    const input = {
+      id: record.bufferPostId,
+      text: item.caption,
+      schedulingType: 'automatic',
+      mode: 'shareNow',
+      metadata: { instagram: { type: 'post', shouldShareToFeed: true } },
+      assets: urls.map((url) => ({ image: { url } })),
+    };
+    const edited = await bufferRequest(`mutation PublishCarouselNow($input: EditPostInput!) { editPost(input: $input) { ... on PostActionSuccess { post { id status dueAt assets { id mimeType } } } ... on MutationError { message } } }`, { input });
+    const post = edited?.editPost?.post;
+    if (!post?.id) fail(edited?.editPost?.message || `Buffer não confirmou publish-now de ${onlySlug}.`);
+    Object.assign(record, { status: post.status, dueAt: post.dueAt, assets: post.assets?.length || 0, publishNowRequestedAt: new Date().toISOString(), shareMode: 'shareNow' });
+    writeJsonAtomic(ledgerFile, ledger);
+  }
+
+  for (let attempt = 0; attempt < 24; attempt += 1) {
+    current = (await bufferRequest(statusQuery, { input: { id: record.bufferPostId } }))?.post;
+    if (!current?.id) fail(`Buffer não retornou o estado vivo após publish-now de ${onlySlug}.`);
+    Object.assign(record, { status: current.status, dueAt: current.dueAt, sentAt: current.sentAt || null, externalLink: current.externalLink || null, assets: current.assets?.length || record.assets, error: current.error?.message || null, statusCheckedAt: new Date().toISOString() });
+    writeJsonAtomic(ledgerFile, ledger);
+    if (current.status === 'sent') {
+      console.log(`publicado agora: ${onlySlug} (${current.id}) ${current.externalLink || ''}`.trim());
+      return;
+    }
+    if (current.status === 'error' || current.error) fail(`Buffer falhou ao publicar ${onlySlug}: ${current.error?.message || current.status}.`);
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+  }
+  fail(`Buffer não confirmou status sent para ${onlySlug} dentro do prazo de verificação.`);
+}
+
 async function repairPendingPlan(plan, onlySlug = null) {
   const { channel } = await discoverBuffer();
   const weekDirName = `semana-${plan.weekStart}`;
@@ -506,8 +585,8 @@ if (command === 'discover') {
   console.log(JSON.stringify(result, null, 2));
   process.exit(0);
 }
-if (!['validate', 'render', 'schedule', 'reschedule', 'repair', 'archive'].includes(command)) {
-  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|repair|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD]');
+if (!['validate', 'render', 'schedule', 'reschedule', 'audit', 'publish-now', 'repair', 'archive'].includes(command)) {
+  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|audit|publish-now|repair|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD] [--slug SLUG]');
   process.exit(command === 'help' ? 0 : 2);
 }
 const inputFile = path.resolve(ROOT, args.input || defaultInputPath());
@@ -516,5 +595,7 @@ if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`)
 if (command === 'render') await renderPlan(inputFile, plan);
 if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
 if (command === 'reschedule') await reschedulePlan(plan, args['start-date']);
+if (command === 'audit') await auditPlan(plan);
+if (command === 'publish-now') await publishNow(plan, args.slug || null);
 if (command === 'repair') await repairPendingPlan(plan, args.slug || null);
 if (command === 'archive') archivePlan(inputFile, plan);
