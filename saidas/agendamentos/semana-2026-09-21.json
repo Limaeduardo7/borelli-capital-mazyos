@@ -5,14 +5,16 @@
     {
       "slug": "01-patrimonio-precisa-de-redundancia",
       "bufferPostId": "6ab16275c77c4909c8fc7ad9",
-      "dueAt": "2026-09-22T16:00:00.000Z",
+      "dueAt": "2026-09-21T17:08:50.664Z",
       "assets": 7,
       "scheduledAt": "2026-09-21T16:59:34.673Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:34.908Z"
+      "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
+      "statusCheckedAt": "2026-09-21T17:09:59.036Z",
+      "publishNowRequestedAt": "2026-09-21T17:08:51.883Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "02-carencia-nao-e-tempo-gratis",
@@ -24,7 +26,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:37.099Z"
+      "statusCheckedAt": "2026-09-21T17:09:59.266Z"
     },
     {
       "slug": "03-grupo-tambem-merece-leitura",
@@ -36,7 +38,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:38.756Z"
+      "statusCheckedAt": "2026-09-21T17:09:59.491Z"
     },
     {
       "slug": "04-caixa-unico-confunde-decisoes",
@@ -48,7 +50,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:40.967Z"
+      "statusCheckedAt": "2026-09-21T17:09:59.708Z"
     },
     {
       "slug": "05-vendedor-nao-define-seu-prazo",
@@ -60,7 +62,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:42.690Z"
+      "statusCheckedAt": "2026-09-21T17:09:59.934Z"
     },
     {
       "slug": "06-quitar-tudo-antes-de-avancar",
@@ -72,7 +74,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:44.440Z"
+      "statusCheckedAt": "2026-09-21T17:10:00.192Z"
     },
     {
       "slug": "07-decisao-merece-stress-test",
@@ -84,7 +86,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T16:59:46.138Z"
+      "statusCheckedAt": "2026-09-21T17:10:00.438Z"
     }
   ]
 }
