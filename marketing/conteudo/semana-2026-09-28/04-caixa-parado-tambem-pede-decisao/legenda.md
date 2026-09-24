@@ -1,0 +1,3 @@
+Preservar liquidez é parte de uma estrutura responsável. Mas manter recursos sem função, prazo ou critério de revisão pode transformar prudência em adiamento permanente. A pergunta não é simplesmente quanto investir ou utilizar. É quanto precisa permanecer protegido, qual parcela sustenta objetivos próximos e quando o excedente deve ser reavaliado. Essa fronteira muda com renda, compromissos e horizonte. A Borelli Capital ajuda a organizar a liquidez sem fórmulas universais. Agende uma reunião para dar função, limite e calendário ao seu caixa. Conteúdo educativo; não constitui recomendação de investimento.
+
+#Liquidez #GestãoDeCaixa #PlanejamentoPatrimonial #ReservaFinanceira #DecisõesFinanceiras #BorelliCapital

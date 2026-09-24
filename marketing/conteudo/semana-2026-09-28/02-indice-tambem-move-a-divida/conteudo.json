@@ -1,0 +1,45 @@
+{
+  "slug": "indice-tambem-move-a-divida",
+  "theme": "Crédito estratégico: impacto do indexador sobre saldo, parcela e previsibilidade",
+  "category": "CRÉDITO ESTRATÉGICO",
+  "hook": "O índice também move a dívida",
+  "footer": "Crédito responsável torna as variáveis visíveis.",
+  "caption": "Uma operação de crédito não é definida apenas pela taxa apresentada. Quando existe correção por índice, o saldo, a parcela ou ambos podem responder a uma variável que muda ao longo do tempo. Isso não torna a estrutura inadequada por si só, mas exige entender a referência usada, a periodicidade do ajuste e a capacidade do caixa de absorver cenários diferentes. A comparação responsável separa o que é fixo do que pode variar. A Borelli Capital organiza essa leitura antes da contratação. Agende uma reunião consultiva para comparar as premissas da operação. Conteúdo educativo; condições e aprovação dependem de análise.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #EstruturaDeCrédito #GestãoDeRisco #FluxoDeCaixa #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "CRÉDITO ESTRATÉGICO",
+      "title": "O índice também move a dívida",
+      "body": "Parte do compromisso pode mudar mesmo quando o contrato já foi assinado."
+    },
+    {
+      "kicker": "REFERÊNCIA",
+      "title": "Descubra o que é corrigido",
+      "body": "Saldo, parcela ou ambos podem responder às regras da operação."
+    },
+    {
+      "kicker": "FREQUÊNCIA",
+      "title": "O ajuste tem calendário",
+      "body": "Periodicidade e data-base determinam quando a mudança chega ao fluxo."
+    },
+    {
+      "kicker": "TENSÃO",
+      "title": "A parcela pode perder previsibilidade",
+      "body": "Uma variação moderada ganha peso quando o orçamento opera sem margem."
+    },
+    {
+      "kicker": "CENÁRIOS",
+      "title": "Simule mais de uma trajetória",
+      "body": "A decisão precisa continuar compreensível fora da premissa mais confortável."
+    },
+    {
+      "kicker": "COMPARAÇÃO",
+      "title": "Separe fixo e variável",
+      "body": "Taxa, índice, prazo e capacidade de amortização formam a análise completa."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Leia as variáveis do crédito",
+      "body": "Converse com a Borelli Capital antes de assumir a estrutura."
+    }
+  ]
+}

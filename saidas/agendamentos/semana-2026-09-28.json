@@ -1,0 +1,78 @@
+{
+  "weekStart": "2026-09-28",
+  "channelId": "6a5687f980cc80cdcab418cf",
+  "posts": [
+    {
+      "slug": "01-patrimonio-precisa-de-cadencia",
+      "bufferPostId": "6ab597b5fb65dbc70b0f1f96",
+      "dueAt": "2026-09-29T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:49.618Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:11.560Z"
+    },
+    {
+      "slug": "02-indice-tambem-move-a-divida",
+      "bufferPostId": "6ab597b7858bdb85a737cf4c",
+      "dueAt": "2026-09-30T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:51.351Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:11.769Z"
+    },
+    {
+      "slug": "03-carta-maior-nao-e-plano-melhor",
+      "bufferPostId": "6ab597b87794ad383566e171",
+      "dueAt": "2026-10-01T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:53.064Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:11.963Z"
+    },
+    {
+      "slug": "04-caixa-parado-tambem-pede-decisao",
+      "bufferPostId": "6ab597ba858bdb85a737cf79",
+      "dueAt": "2026-10-02T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:54.772Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:12.194Z"
+    },
+    {
+      "slug": "05-ativo-certo-depende-do-uso",
+      "bufferPostId": "6ab597bc858bdb85a737cfb4",
+      "dueAt": "2026-10-03T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:56.483Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:12.390Z"
+    },
+    {
+      "slug": "06-planejamento-nao-exige-fortuna",
+      "bufferPostId": "6ab597bd79ceb34ba6b6e29b",
+      "dueAt": "2026-10-04T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-24T21:35:58.191Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-24T21:36:12.592Z"
+    }
+  ]
+}

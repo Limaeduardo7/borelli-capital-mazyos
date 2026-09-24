@@ -1,0 +1,3 @@
+Uma carta de crédito maior amplia possibilidades, mas também altera contribuição, prazo e exigência de execução. O valor adequado não nasce do limite máximo disponível; nasce do ativo pretendido, dos custos acessórios, da liquidez que permanecerá protegida e da capacidade de sustentar o compromisso. Superdimensionar pode criar pressão desnecessária. Subdimensionar pode exigir capital não previsto. A Borelli Capital ajuda a conectar o tamanho da carta à função patrimonial da aquisição. Agende uma conversa consultiva para avaliar cenários sem promessa de contemplação.
+
+#Consórcio #ConsórcioEstratégico #CartaDeCrédito #PlanejamentoPatrimonial #AquisiçãoPlanejada #BorelliCapital

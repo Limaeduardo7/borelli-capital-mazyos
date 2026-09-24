@@ -1,0 +1,3 @@
+Uma compra pode ser financeiramente possível e ainda estar mal dimensionada para o uso real. Espaço, capacidade, localização, desempenho ou especificação além da necessidade aumentam preço, custos recorrentes e capital imobilizado. Isso não significa escolher sempre o mínimo. Significa compreender qual benefício será efetivamente utilizado durante o horizonte da decisão. A Borelli Capital ajuda a comparar função, custo total, liquidez e possibilidade de saída antes do compromisso. Agende uma reunião consultiva e leve os cenários da sua próxima aquisição. Conteúdo educativo; cada decisão exige análise própria.
+
+#DecisãoDeCompra #PlanejamentoPatrimonial #AquisiçãoDeAtivos #CustoTotal #Liquidez #BorelliCapital

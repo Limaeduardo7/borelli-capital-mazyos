@@ -1,0 +1,3 @@
+Construir patrimônio não exige que todas as decisões avancem ao mesmo tempo. Aquisições, reservas, crédito e novos projetos ocupam caixa e atenção em ritmos diferentes. Quando os compromissos se acumulam na mesma janela, uma estrutura aparentemente sólida pode perder margem de resposta. Cadência patrimonial significa distribuir etapas, observar o efeito de cada movimento e só então liberar a próxima decisão. A Borelli Capital ajuda a transformar objetivos simultâneos em uma sequência coerente. Agende uma reunião para organizar o ritmo das suas próximas escolhas. Conteúdo educativo; não constitui recomendação individual.
+
+#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital

@@ -1,0 +1,3 @@
+Uma operação de crédito não é definida apenas pela taxa apresentada. Quando existe correção por índice, o saldo, a parcela ou ambos podem responder a uma variável que muda ao longo do tempo. Isso não torna a estrutura inadequada por si só, mas exige entender a referência usada, a periodicidade do ajuste e a capacidade do caixa de absorver cenários diferentes. A comparação responsável separa o que é fixo do que pode variar. A Borelli Capital organiza essa leitura antes da contratação. Agende uma reunião consultiva para comparar as premissas da operação. Conteúdo educativo; condições e aprovação dependem de análise.
+
+#CréditoEstratégico #PlanejamentoFinanceiro #EstruturaDeCrédito #GestãoDeRisco #FluxoDeCaixa #BorelliCapital

@@ -1,0 +1,3 @@
+Uma conversa patrimonial se torna mais produtiva quando começa com contexto, não com um produto. Objetivo, prazo, compromissos atuais, recursos disponíveis e propostas já recebidas ajudam a transformar percepções em cenários comparáveis. Não é preciso chegar com todas as respostas. É suficiente reunir o que já se sabe e explicitar o que ainda precisa ser confirmado. A Borelli Capital organiza essas premissas para identificar critérios, lacunas e próximos passos legítimos. Agende uma reunião e traga a decisão que você precisa estruturar. Conteúdo educativo; análises individuais dependem de informações verificadas.
+
+#ConsultoriaPatrimonial #PlanejamentoEstratégico #DiagnósticoFinanceiro #DecisõesFinanceiras #CréditoEstratégico #BorelliCapital

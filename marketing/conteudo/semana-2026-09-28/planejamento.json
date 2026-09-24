@@ -1,0 +1,124 @@
+{
+  "weekStart": "2026-09-28",
+  "carousels": [
+    {
+      "slug": "patrimonio-precisa-de-cadencia",
+      "theme": "Educação patrimonial: cadência entre decisões de curto, médio e longo prazo",
+      "category": "EDUCAÇÃO PATRIMONIAL",
+      "hook": "Patrimônio também precisa de cadência",
+      "footer": "Ritmo consciente preserva capacidade de escolha.",
+      "caption": "Construir patrimônio não exige que todas as decisões avancem ao mesmo tempo. Aquisições, reservas, crédito e novos projetos ocupam caixa e atenção em ritmos diferentes. Quando os compromissos se acumulam na mesma janela, uma estrutura aparentemente sólida pode perder margem de resposta. Cadência patrimonial significa distribuir etapas, observar o efeito de cada movimento e só então liberar a próxima decisão. A Borelli Capital ajuda a transformar objetivos simultâneos em uma sequência coerente. Agende uma reunião para organizar o ritmo das suas próximas escolhas. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Patrimônio também precisa de cadência", "body": "Boas decisões perdem força quando todas exigem recursos ao mesmo tempo."},
+        {"kicker": "RITMO", "title": "Objetivos têm tempos diferentes", "body": "Proteção, aquisição e expansão não precisam ocupar a mesma janela."},
+        {"kicker": "TENSÃO", "title": "Acúmulo comprime sua margem", "body": "Parcelas, aportes e custos de execução passam a disputar o mesmo caixa."},
+        {"kicker": "SEQUÊNCIA", "title": "Uma etapa deve informar a próxima", "body": "O efeito real de uma escolha ajuda a dimensionar o movimento seguinte."},
+        {"kicker": "PAUSA", "title": "Esperar também organiza capacidade", "body": "Uma pausa deliberada pode recompor liquidez e melhorar a leitura do cenário."},
+        {"kicker": "MÉTODO", "title": "Defina marcos de avanço", "body": "Reservas, fluxo e execução precisam atingir critérios antes da nova decisão."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Organize o ritmo do patrimônio", "body": "Converse com a Borelli Capital para estruturar sequência e marcos."}
+      ]
+    },
+    {
+      "slug": "indice-tambem-move-a-divida",
+      "theme": "Crédito estratégico: impacto do indexador sobre saldo, parcela e previsibilidade",
+      "category": "CRÉDITO ESTRATÉGICO",
+      "hook": "O índice também move a dívida",
+      "footer": "Crédito responsável torna as variáveis visíveis.",
+      "caption": "Uma operação de crédito não é definida apenas pela taxa apresentada. Quando existe correção por índice, o saldo, a parcela ou ambos podem responder a uma variável que muda ao longo do tempo. Isso não torna a estrutura inadequada por si só, mas exige entender a referência usada, a periodicidade do ajuste e a capacidade do caixa de absorver cenários diferentes. A comparação responsável separa o que é fixo do que pode variar. A Borelli Capital organiza essa leitura antes da contratação. Agende uma reunião consultiva para comparar as premissas da operação. Conteúdo educativo; condições e aprovação dependem de análise.\n\n#CréditoEstratégico #PlanejamentoFinanceiro #EstruturaDeCrédito #GestãoDeRisco #FluxoDeCaixa #BorelliCapital",
+      "slides": [
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "O índice também move a dívida", "body": "Parte do compromisso pode mudar mesmo quando o contrato já foi assinado."},
+        {"kicker": "REFERÊNCIA", "title": "Descubra o que é corrigido", "body": "Saldo, parcela ou ambos podem responder às regras da operação."},
+        {"kicker": "FREQUÊNCIA", "title": "O ajuste tem calendário", "body": "Periodicidade e data-base determinam quando a mudança chega ao fluxo."},
+        {"kicker": "TENSÃO", "title": "A parcela pode perder previsibilidade", "body": "Uma variação moderada ganha peso quando o orçamento opera sem margem."},
+        {"kicker": "CENÁRIOS", "title": "Simule mais de uma trajetória", "body": "A decisão precisa continuar compreensível fora da premissa mais confortável."},
+        {"kicker": "COMPARAÇÃO", "title": "Separe fixo e variável", "body": "Taxa, índice, prazo e capacidade de amortização formam a análise completa."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Leia as variáveis do crédito", "body": "Converse com a Borelli Capital antes de assumir a estrutura."}
+      ]
+    },
+    {
+      "slug": "carta-maior-nao-e-plano-melhor",
+      "theme": "Consórcio: dimensionamento da carta pela função do ativo e capacidade de execução",
+      "category": "CONSÓRCIO COM ESTRATÉGIA",
+      "hook": "Carta maior não é plano melhor",
+      "footer": "Dimensionamento vem antes da ambição.",
+      "caption": "Uma carta de crédito maior amplia possibilidades, mas também altera contribuição, prazo e exigência de execução. O valor adequado não nasce do limite máximo disponível; nasce do ativo pretendido, dos custos acessórios, da liquidez que permanecerá protegida e da capacidade de sustentar o compromisso. Superdimensionar pode criar pressão desnecessária. Subdimensionar pode exigir capital não previsto. A Borelli Capital ajuda a conectar o tamanho da carta à função patrimonial da aquisição. Agende uma conversa consultiva para avaliar cenários sem promessa de contemplação.\n\n#Consórcio #ConsórcioEstratégico #CartaDeCrédito #PlanejamentoPatrimonial #AquisiçãoPlanejada #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSÓRCIO COM ESTRATÉGIA", "title": "Carta maior não é plano melhor", "body": "O valor precisa servir ao objetivo sem ocupar espaço demais na estrutura."},
+        {"kicker": "FUNÇÃO", "title": "Comece pelo uso do ativo", "body": "Moradia, operação e geração de renda pedem critérios de dimensionamento distintos."},
+        {"kicker": "TENSÃO", "title": "Mais crédito amplia o compromisso", "body": "Contribuição, prazo e exposição precisam continuar compatíveis com o caixa."},
+        {"kicker": "EXECUÇÃO", "title": "A compra exige recursos adicionais", "body": "Documentação, adequação e diferenças de valor precisam ter origem definida."},
+        {"kicker": "ENCAIXE", "title": "O ativo define a faixa útil", "body": "Especificação e mercado ajudam a limitar o que realmente faz sentido contratar."},
+        {"kicker": "MÉTODO", "title": "Dimensione três cenários", "body": "Mínimo funcional, alvo e limite revelam as concessões de cada faixa."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Dimensione a carta com contexto", "body": "Converse com a Borelli Capital para comparar objetivo e capacidade."}
+      ]
+    },
+    {
+      "slug": "caixa-parado-tambem-pede-decisao",
+      "theme": "Liquidez: diferença entre reserva prudente e capital sem função definida",
+      "category": "LIQUIDEZ E ESTRUTURA",
+      "hook": "Caixa parado também pede decisão",
+      "footer": "Liquidez com função reduz extremos.",
+      "caption": "Preservar liquidez é parte de uma estrutura responsável. Mas manter recursos sem função, prazo ou critério de revisão pode transformar prudência em adiamento permanente. A pergunta não é simplesmente quanto investir ou utilizar. É quanto precisa permanecer protegido, qual parcela sustenta objetivos próximos e quando o excedente deve ser reavaliado. Essa fronteira muda com renda, compromissos e horizonte. A Borelli Capital ajuda a organizar a liquidez sem fórmulas universais. Agende uma reunião para dar função, limite e calendário ao seu caixa. Conteúdo educativo; não constitui recomendação de investimento.\n\n#Liquidez #GestãoDeCaixa #PlanejamentoPatrimonial #ReservaFinanceira #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E ESTRUTURA", "title": "Caixa parado também pede decisão", "body": "Prudência sem função pode manter o patrimônio suspenso por tempo demais."},
+        {"kicker": "PROTEÇÃO", "title": "Reserva não é indecisão", "body": "Recursos protegidos cumprem um papel claro diante de riscos e compromissos."},
+        {"kicker": "TENSÃO", "title": "O excedente pode perder propósito", "body": "Sem prazo ou critério, disponibilidade vira apenas adiamento da escolha."},
+        {"kicker": "FRONTEIRA", "title": "Separe proteção de espera", "body": "Nomear funções revela o que precisa ficar e o que merece nova análise."},
+        {"kicker": "CALENDÁRIO", "title": "Toda reserva merece revisão", "body": "Mudanças de renda, custo e objetivo alteram o volume necessário."},
+        {"kicker": "MÉTODO", "title": "Defina função, limite e data", "body": "Três critérios evitam tanto o uso impulsivo quanto a imobilidade."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Dê calendário à liquidez", "body": "Converse com a Borelli Capital para organizar reservas e excedentes."}
+      ]
+    },
+    {
+      "slug": "ativo-certo-depende-do-uso",
+      "theme": "Decisão de compra: adequação do ativo ao uso real e ao horizonte patrimonial",
+      "category": "DECISÕES DE COMPRA",
+      "hook": "O ativo certo depende do uso",
+      "footer": "Função clara evita excesso disfarçado de escolha.",
+      "caption": "Uma compra pode ser financeiramente possível e ainda estar mal dimensionada para o uso real. Espaço, capacidade, localização, desempenho ou especificação além da necessidade aumentam preço, custos recorrentes e capital imobilizado. Isso não significa escolher sempre o mínimo. Significa compreender qual benefício será efetivamente utilizado durante o horizonte da decisão. A Borelli Capital ajuda a comparar função, custo total, liquidez e possibilidade de saída antes do compromisso. Agende uma reunião consultiva e leve os cenários da sua próxima aquisição. Conteúdo educativo; cada decisão exige análise própria.\n\n#DecisãoDeCompra #PlanejamentoPatrimonial #AquisiçãoDeAtivos #CustoTotal #Liquidez #BorelliCapital",
+      "slides": [
+        {"kicker": "DECISÕES DE COMPRA", "title": "O ativo certo depende do uso", "body": "Capacidade disponível só cria valor quando atende uma necessidade real."},
+        {"kicker": "FUNÇÃO", "title": "O que precisa acontecer?", "body": "A resposta define o mínimo funcional antes de comparar modelos ou opções."},
+        {"kicker": "TENSÃO", "title": "Excesso também tem custo", "body": "Preço, operação e capital imobilizado crescem com recursos pouco utilizados."},
+        {"kicker": "HORIZONTE", "title": "O uso pode mudar", "body": "Rotina, família e operação empresarial alteram a adequação ao longo do tempo."},
+        {"kicker": "SAÍDA", "title": "Especificação afeta liquidez", "body": "Um ativo muito particular pode ampliar tempo e fricção na revenda."},
+        {"kicker": "MÉTODO", "title": "Compare função e custo total", "body": "Benefício utilizado, manutenção e saída tornam as opções comparáveis."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Leve o uso para a decisão", "body": "Converse com a Borelli Capital antes de escolher o ativo."}
+      ]
+    },
+    {
+      "slug": "planejamento-nao-exige-fortuna",
+      "theme": "Objeção: planejamento patrimonial antes de acumular grande patrimônio",
+      "category": "OBJEÇÕES E CRITÉRIOS",
+      "hook": "Planejamento não exige uma fortuna",
+      "footer": "Estrutura começa antes da complexidade.",
+      "caption": "Planejamento patrimonial não começa apenas quando o patrimônio se torna grande ou complexo. Ele ganha valor quando existem objetivos relevantes, compromissos de prazo longo, dependência de renda ou decisões que podem consumir liquidez. O método precisa ser proporcional ao contexto: sem excesso de estrutura, mas com prioridades, limites e critérios suficientes para evitar escolhas isoladas. Esperar a complexidade chegar pode tornar a organização mais difícil. A Borelli Capital conduz uma conversa compatível com o momento de cada cliente. Agende uma reunião para entender quais decisões já merecem estrutura. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoFinanceira #DecisõesFinanceiras #ConsultoriaPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "OBJEÇÕES E CRITÉRIOS", "title": "Planejamento não exige uma fortuna", "body": "Ele começa quando decisões relevantes passam a competir por recursos."},
+        {"kicker": "MITO", "title": "Tamanho não é o único critério", "body": "Prazo, dependência de renda e impacto também definem a necessidade de método."},
+        {"kicker": "MOMENTO", "title": "Objetivos já criam complexidade", "body": "Imóvel, empresa, proteção familiar e crédito precisam conversar entre si."},
+        {"kicker": "PROPORÇÃO", "title": "Estrutura deve caber no contexto", "body": "Planejar não significa criar camadas que a realidade ainda não exige."},
+        {"kicker": "VANTAGEM", "title": "Critérios evitam correções tardias", "body": "Prioridades e limites definidos cedo reduzem decisões que se contradizem."},
+        {"kicker": "MÉTODO", "title": "Comece pelo que pode mudar", "body": "Mapeie objetivos, compromissos, reservas e as próximas escolhas relevantes."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Estruture o momento atual", "body": "Converse com a Borelli Capital para avaliar o nível de planejamento necessário."}
+      ]
+    },
+    {
+      "slug": "boa-reuniao-comeca-antes",
+      "theme": "Convite consultivo: preparação de premissas e documentos para uma análise produtiva",
+      "category": "CONVERSA CONSULTIVA",
+      "hook": "Uma boa reunião começa antes",
+      "footer": "Contexto organizado produz perguntas melhores.",
+      "caption": "Uma conversa patrimonial se torna mais produtiva quando começa com contexto, não com um produto. Objetivo, prazo, compromissos atuais, recursos disponíveis e propostas já recebidas ajudam a transformar percepções em cenários comparáveis. Não é preciso chegar com todas as respostas. É suficiente reunir o que já se sabe e explicitar o que ainda precisa ser confirmado. A Borelli Capital organiza essas premissas para identificar critérios, lacunas e próximos passos legítimos. Agende uma reunião e traga a decisão que você precisa estruturar. Conteúdo educativo; análises individuais dependem de informações verificadas.\n\n#ConsultoriaPatrimonial #PlanejamentoEstratégico #DiagnósticoFinanceiro #DecisõesFinanceiras #CréditoEstratégico #BorelliCapital",
+      "slides": [
+        {"kicker": "CONVERSA CONSULTIVA", "title": "Uma boa reunião começa antes", "body": "Contexto organizado permite comparar caminhos sem começar pelo produto."},
+        {"kicker": "OBJETIVO", "title": "Traga a decisão central", "body": "Explique o que precisa acontecer e por que esse movimento importa agora."},
+        {"kicker": "PRAZO", "title": "Mostre o calendário real", "body": "Datas desejadas e limites de tempo alteram instrumentos e alternativas."},
+        {"kicker": "ESTRUTURA", "title": "Mapeie compromissos atuais", "body": "Parcelas, reservas e projetos em curso revelam a capacidade disponível."},
+        {"kicker": "EVIDÊNCIA", "title": "Leve propostas e documentos", "body": "Condições verificáveis evitam comparações baseadas apenas em memória ou percepção."},
+        {"kicker": "LACUNAS", "title": "Nomeie o que falta saber", "body": "Uma boa análise distingue fato, hipótese e informação ainda não confirmada."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Prepare sua próxima conversa", "body": "Agende uma reunião com a Borelli Capital e leve o cenário para análise."}
+      ]
+    }
+  ]
+}
