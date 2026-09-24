@@ -12,33 +12,37 @@
       "sentAt": null,
       "externalLink": null,
       "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
-      "statusCheckedAt": "2026-09-21T17:09:59.036Z",
+      "statusCheckedAt": "2026-09-24T21:35:34.566Z",
       "publishNowRequestedAt": "2026-09-21T17:08:51.883Z",
       "shareMode": "shareNow"
     },
     {
       "slug": "02-carencia-nao-e-tempo-gratis",
       "bufferPostId": "6ab16278c77c4909c8fc7b17",
-      "dueAt": "2026-09-23T16:00:00.000Z",
+      "dueAt": "2026-09-23T16:02:12.588Z",
       "assets": 7,
       "scheduledAt": "2026-09-21T16:59:36.843Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-21T17:09:59.266Z"
+      "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
+      "statusCheckedAt": "2026-09-24T21:35:34.754Z",
+      "publishNowRequestedAt": "2026-09-23T16:02:23.019Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "03-grupo-tambem-merece-leitura",
       "bufferPostId": "6ab1627ad60d4acf72a4ce95",
-      "dueAt": "2026-09-24T16:00:00.000Z",
+      "dueAt": "2026-09-24T16:01:57.663Z",
       "assets": 7,
       "scheduledAt": "2026-09-21T16:59:38.525Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-21T17:09:59.491Z"
+      "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
+      "statusCheckedAt": "2026-09-24T21:35:34.942Z",
+      "publishNowRequestedAt": "2026-09-24T16:02:07.959Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "04-caixa-unico-confunde-decisoes",
@@ -50,7 +54,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T17:09:59.708Z"
+      "statusCheckedAt": "2026-09-24T21:35:35.144Z"
     },
     {
       "slug": "05-vendedor-nao-define-seu-prazo",
@@ -62,7 +66,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T17:09:59.934Z"
+      "statusCheckedAt": "2026-09-24T21:35:35.340Z"
     },
     {
       "slug": "06-quitar-tudo-antes-de-avancar",
@@ -74,7 +78,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T17:10:00.192Z"
+      "statusCheckedAt": "2026-09-24T21:35:35.718Z"
     },
     {
       "slug": "07-decisao-merece-stress-test",
@@ -86,7 +90,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-21T17:10:00.438Z"
+      "statusCheckedAt": "2026-09-24T21:35:35.912Z"
     }
   ]
 }
