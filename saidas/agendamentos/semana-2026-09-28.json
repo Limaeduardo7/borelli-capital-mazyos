@@ -12,7 +12,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:11.560Z"
+      "statusCheckedAt": "2026-09-26T21:03:23.339Z"
     },
     {
       "slug": "02-indice-tambem-move-a-divida",
@@ -24,7 +24,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:11.769Z"
+      "statusCheckedAt": "2026-09-26T21:03:23.536Z"
     },
     {
       "slug": "03-carta-maior-nao-e-plano-melhor",
@@ -36,7 +36,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:11.963Z"
+      "statusCheckedAt": "2026-09-26T21:03:23.739Z"
     },
     {
       "slug": "04-caixa-parado-tambem-pede-decisao",
@@ -48,7 +48,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:12.194Z"
+      "statusCheckedAt": "2026-09-26T21:03:23.939Z"
     },
     {
       "slug": "05-ativo-certo-depende-do-uso",
@@ -60,7 +60,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:12.390Z"
+      "statusCheckedAt": "2026-09-26T21:03:24.147Z"
     },
     {
       "slug": "06-planejamento-nao-exige-fortuna",
@@ -72,7 +72,19 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:36:12.592Z"
+      "statusCheckedAt": "2026-09-26T21:03:24.353Z"
+    },
+    {
+      "slug": "07-boa-reuniao-comeca-antes",
+      "bufferPostId": "6ab833163d66d464e5bd267c",
+      "dueAt": "2026-10-05T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-26T21:03:18.250Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-09-26T21:03:24.545Z"
     }
   ]
 }
