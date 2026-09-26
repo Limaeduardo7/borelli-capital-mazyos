@@ -12,7 +12,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
-      "statusCheckedAt": "2026-09-24T21:35:34.566Z",
+      "statusCheckedAt": "2026-09-26T21:04:15.838Z",
       "publishNowRequestedAt": "2026-09-21T17:08:51.883Z",
       "shareMode": "shareNow"
     },
@@ -26,7 +26,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
-      "statusCheckedAt": "2026-09-24T21:35:34.754Z",
+      "statusCheckedAt": "2026-09-26T21:04:16.045Z",
       "publishNowRequestedAt": "2026-09-23T16:02:23.019Z",
       "shareMode": "shareNow"
     },
@@ -40,33 +40,38 @@
       "sentAt": null,
       "externalLink": null,
       "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
-      "statusCheckedAt": "2026-09-24T21:35:34.942Z",
+      "statusCheckedAt": "2026-09-26T21:04:16.249Z",
       "publishNowRequestedAt": "2026-09-24T16:02:07.959Z",
       "shareMode": "shareNow"
     },
     {
       "slug": "04-caixa-unico-confunde-decisoes",
       "bufferPostId": "6ab1627c9f629dddb6e8bef6",
-      "dueAt": "2026-09-25T16:00:00.000Z",
+      "dueAt": "2026-09-25T16:01:54.267Z",
       "assets": 7,
       "scheduledAt": "2026-09-21T16:59:40.664Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-09-25T16:06:04.790Z",
+      "externalLink": "https://www.instagram.com/p/Ddt2IOUFBLi/",
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:35:35.144Z"
+      "statusCheckedAt": "2026-09-26T21:04:16.443Z",
+      "publishNowRequestedAt": "2026-09-25T16:02:04.813Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "05-vendedor-nao-define-seu-prazo",
-      "bufferPostId": "6ab1627e5c376ae4a0a8e9b0",
-      "dueAt": "2026-09-26T16:00:00.000Z",
+      "bufferPostId": "6ab8334a0f79a37c5d3b145b",
+      "dueAt": "2026-09-26T21:04:10.216Z",
       "assets": 7,
       "scheduledAt": "2026-09-21T16:59:42.457Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-09-24T21:35:35.340Z"
+      "error": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling.",
+      "statusCheckedAt": "2026-09-26T21:04:16.656Z",
+      "publishNowRequestedAt": "2026-09-26T16:01:14.583Z",
+      "shareMode": "shareNow",
+      "repairedAt": "2026-09-26T21:04:11.384Z"
     },
     {
       "slug": "06-quitar-tudo-antes-de-avancar",
@@ -78,7 +83,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:35:35.718Z"
+      "statusCheckedAt": "2026-09-26T21:04:16.863Z"
     },
     {
       "slug": "07-decisao-merece-stress-test",
@@ -90,7 +95,25 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-09-24T21:35:35.912Z"
+      "statusCheckedAt": "2026-09-26T21:04:17.065Z"
+    }
+  ],
+  "replacedPosts": [
+    {
+      "slug": "05-vendedor-nao-define-seu-prazo",
+      "bufferPostId": "6ab1627e5c376ae4a0a8e9b0",
+      "dueAt": "2026-09-26T16:01:04.049Z",
+      "assets": 7,
+      "scheduledAt": "2026-09-21T16:59:42.457Z",
+      "status": "error",
+      "sentAt": null,
+      "externalLink": null,
+      "error": "It looks like Buffer has lost the authorization to post to Facebook. No need to worry, though!",
+      "statusCheckedAt": "2026-09-26T21:03:32.635Z",
+      "publishNowRequestedAt": "2026-09-26T16:01:14.583Z",
+      "shareMode": "shareNow",
+      "replacedAt": "2026-09-26T21:04:11.383Z",
+      "reason": "media-repair"
     }
   ]
 }
