@@ -22,3 +22,7 @@ Priorizar argumentos baseados em planejamento, estrutura, eficiência e tomada d
 ## Preferências adicionais
 
 Quando produzir conteúdo financeiro, deixar claras as premissas, evitar garantias de rentabilidade ou aprovação e diferenciar educação financeira de recomendação personalizada.
+
+## Direção visual social vigente
+
+Desde 2026-09-28, os próximos posts devem seguir a estética editorial patrimonial aprovada nas referências em `identidade/referencias/editorial-patrimonial-2026/`: fundo marfim, títulos grandes em azul-marinho, dourado fosco como acento, fotografia arquitetônica/empresarial quente e rodapé azul-marinho com assinatura Borelli dourada, CTA branco e disclaimer. Essa direção substitui o antigo padrão preto/vermelho para novos conteúdos sociais. A especificação completa está em `identidade/estilo-editorial-patrimonial.md`.

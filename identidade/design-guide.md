@@ -2,64 +2,67 @@
 
 Esta referência é obrigatória para toda imagem, carrossel, apresentação, proposta e peça de comunicação criada pelo agente Hermes.
 
-## Arquivos oficiais
+## Prioridade vigente para conteúdo social
 
-- Logo principal com transparência: `identidade/assets/logo-borelli-capital.png`
-- Prancha de referência da marca: `identidade/assets/paleta-referencia.jpeg`
+Desde 2026-09-28, os próximos posts e carrosséis devem seguir o **Sistema visual editorial patrimonial**, documentado em `identidade/estilo-editorial-patrimonial.md` e nas três referências em `identidade/referencias/editorial-patrimonial-2026/`.
 
-Não redesenhar, recolorir, distorcer, recortar ou substituir a logo por texto. Preservar proporção, transparência e área de respiro.
+Essa direção substitui, para posts sociais novos, o antigo padrão preto/vermelho de performance. Materiais legados não precisam ser refeitos automaticamente.
 
-## Paleta oficial
+## Arquivos de marca
+
+- Logo institucional histórica: `identidade/assets/logo-borelli-capital.png`.
+- Prancha histórica: `identidade/assets/paleta-referencia.jpeg`.
+- Referências sociais atuais: `identidade/referencias/editorial-patrimonial-2026/`.
+
+Não distorcer, recortar ou redesenhar o arquivo institucional. Nas peças sociais do novo sistema, é autorizado o tratamento tipográfico de rodapé `BORELLI / CAPITAL` em dourado, conforme as referências. Esse tratamento é uma assinatura editorial aprovada e não deve ser tratado como substituição universal do logo institucional.
+
+## Paleta social atual
 
 | Função | Cor | Hex |
 |---|---|---|
-| Destaque principal | Vermelho Borelli | `#E10600` |
-| Texto claro e fundos claros | Branco suave | `#F2F2F2` |
-| Apoio e texto secundário | Cinza médio | `#5A5A5A` |
-| Fundo principal | Preto Borelli | `#0D0D0D` |
+| Fundo editorial | Marfim quente | `#F4F0E8` |
+| Texto e rodapé | Azul-marinho profundo | `#061B2B` |
+| Acento | Dourado fosco | `#B79A61` |
+| Assinatura | Dourado claro | `#D9BC79` |
+| Texto invertido | Branco quente | `#F7F3EA` |
+| Apoio | Taupe/cinza quente | `#817A70` |
 
 ### Uso da cor
 
-- Preto `#0D0D0D` deve dominar as peças institucionais.
-- Branco `#F2F2F2` deve garantir contraste e legibilidade.
-- Vermelho `#E10600` é acento: palavras-chave, linhas, indicadores, CTA e pequenos detalhes.
-- Cinza `#5A5A5A` é apoio: textos secundários, divisórias e elementos discretos.
-- Não usar dourado. Não introduzir cores vibrantes fora da paleta.
-- Evitar grandes superfícies vermelhas; manter a percepção premium e sóbria.
+- Marfim domina a área editorial.
+- Azul-marinho dá contraste aos títulos e forma o rodapé fixo.
+- Dourado é acento controlado em categorias, linhas, seta e assinatura.
+- Branco quente é usado no CTA e no disclaimer do rodapé.
+- Não usar vermelho como acento padrão dos novos posts.
+- Evitar dourado brilhante, metalizado excessivo, preto puro dominante e cores vibrantes.
 
-## Tipografia oficial
+## Tipografia
 
-- Títulos: **Montserrat Bold**.
-- Textos: **Montserrat Regular** ou **Montserrat Light**.
-- Usar caixa alta com espaçamento amplo em assinaturas, categorias e chamadas curtas.
-- Manter hierarquia limpa, alto contraste e bastante respiro.
-- Não substituir Montserrat por serifas editoriais em peças oficiais.
+- Headline: **Montserrat ExtraBold/Bold**, grande, azul-marinho, com entrelinha compacta.
+- Texto de apoio: **Montserrat Regular/Medium**.
+- Categorias: Montserrat Medium/Semibold em caixa alta e tracking amplo.
+- Assinatura editorial do rodapé: serifada clássica de alto contraste em `BORELLI`, com `CAPITAL` em sans serif espaçada.
+- Microcopy legal: Montserrat Regular, pequeno, mas legível.
 
 ## Direção visual
 
-- Personalidade: precisão, responsabilidade, performance, estratégia e visão de longo prazo.
-- Estética: minimalista, sofisticada, técnica e de alto contraste.
-- Imagens: composições cinematográficas em preto e branco ou baixa saturação, com pequenos acentos vermelhos quando fizer sentido.
-- Referências de performance e automobilismo podem ser usadas como metáfora visual, sem transformar a marca em uma equipe esportiva.
-- Priorizar linhas curvas inspiradas no símbolo da marca, trajetórias, caminhos, movimento e enquadramentos com profundidade.
-- Usar linhas verticais finas em vermelho, cinza e branco como elementos de apoio.
-- Evitar banco de imagens genérico, ostentação, dinheiro voando, luxo caricato e estética de enriquecimento rápido.
-
-## Aplicação da logo
-
-- Usar sempre o arquivo oficial.
-- Em fundo escuro, manter a versão transparente original.
-- Reservar margem mínima equivalente a 20% da largura da logo.
-- Em carrosséis, usar a logo discretamente no cabeçalho ou rodapé e com maior presença no CTA final.
-- Não usar apenas a letra “B” ou um wordmark improvisado como substituto.
+- Personalidade: confiança, estrutura, patrimônio, clareza e sofisticação sóbria.
+- Estética: editorial de arquitetura e wealth management contemporâneo.
+- Fotografia: luz natural quente, arquitetura, interiores, engenharia, maquetes, plantas, trabalho empresarial e ativos tangíveis.
+- Materiais visuais: madeira, pedra, concreto, metal, papel e vegetação.
+- Grid: assimétrico, com texto em marfim e fotografia ocupando a metade inferior/direita.
+- Rodapé: faixa azul-marinho com assinatura dourada, CTA branco e seta dourada em círculo.
+- Evitar cartões de interface, excesso de ícones, automobilismo, linhas esportivas, dinheiro, ostentação e banco de imagens genérico.
 
 ## Carrosséis do Instagram
 
-- Formato obrigatório: `1080x1350` (4:5).
-- Capa: hook curto, fundo preto ou imagem em baixa saturação, logo oficial e acento vermelho.
-- Slides internos: alternar preto e branco suave; grafite pode ser usado como transição.
-- CTA final: logo oficial, mensagem consultiva e chamada sem urgência artificial.
-- Todos os slides devem parecer parte da mesma campanha, mas variar composição e ritmo.
+- Formato obrigatório: `1080×1350` (4:5), PNG sRGB 8-bit.
+- Capa: categoria curta, headline de até oito palavras, apoio breve e fotografia protagonista.
+- Slides internos: mesma arquitetura visual, com variação de recorte e posição entre coluna textual e fotografia.
+- Todos os cards devem usar fotografia real, não gradiente ou placeholder.
+- Rodapé institucional consistente em todos os slides.
+- CTA final consultivo e sem urgência artificial.
+- Validar visualmente capa, card interno e CTA; validar overflow nos 49 cards antes de agendar.
 
 ## Restrições de comunicação
 
@@ -67,3 +70,8 @@ Não redesenhar, recolorir, distorcer, recortar ou substituir a logo por texto. 
 - Não usar frases de enriquecimento rápido, sensacionalismo ou pressão comercial.
 - Não inventar números, depoimentos, certificações ou dados da empresa.
 - Distinguir educação financeira de recomendação personalizada.
+- Incluir disclaimer específico quando o tema exigir.
+
+## Fonte detalhada
+
+Para medidas, hierarquia, fotografia, rodapé, ritmo e critérios de aceite, usar `identidade/estilo-editorial-patrimonial.md` como especificação operacional.
