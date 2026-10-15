@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { siteCarouselHtml } from './carousel-template.mjs';
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -123,100 +124,15 @@ function validatePlan(plan) {
   return plan;
 }
 
-function carouselHtml(item, backgroundDir = null) {
-  const variableFont = path.join(ROOT, 'identidade', 'assets', 'Montserrat-Variable.ttf');
-  const fontFaces = fs.existsSync(variableFont)
-    ? `@font-face{font-family:Montserrat;src:url('${pathToFileURL(variableFont).href}') format('truetype');font-weight:100 900;font-style:normal}`
-    : '';
-  const subject = `${item.category || ''} ${item.theme || ''}`.toLowerCase();
-  const disclaimer = item.disclaimer || (
-    subject.includes('consórc') || subject.includes('contemplad')
-      ? 'Contemplação por sorteio ou lance, sem garantia de data. Condições conforme contrato.'
-      : subject.includes('crédito')
-        ? 'Crédito sujeito à análise e à aprovação da instituição credora.'
-        : 'Conteúdo educativo. A estratégia adequada depende de análise individual.'
-  );
-  const slides = item.slides.map((slide, index) => {
-    const number = String(index + 1).padStart(2, '0');
-    const total = String(item.slides.length).padStart(2, '0');
-    const kicker = slide.kicker || item.category || 'PLANEJAMENTO PATRIMONIAL';
-    const isFinal = index === item.slides.length - 1;
-    const titleLength = slide.title.length;
-    const titleClass = titleLength > 78 ? 'title-compact' : titleLength > 52 ? 'title-medium' : '';
-    const backgroundFile = backgroundDir
-      ? path.join(backgroundDir, `fundo-${number}.png`)
-      : null;
-    const backgroundStyle = backgroundFile && fs.existsSync(backgroundFile)
-      ? ` style="background-image:url('${pathToFileURL(backgroundFile).href}')"`
-      : '';
-    return `
-      <section class="slide layout-${index % 3} ${isFinal ? 'final' : ''}">
-        <div class="photo"${backgroundStyle}></div>
-        <main>
-          <div class="kicker">${escapeHtml(kicker)}</div>
-          <h1 class="${titleClass}">${escapeHtml(slide.title)}</h1>
-          <div class="body-panel">
-            <div class="rule"></div>
-            ${slide.body ? `<p>${escapeHtml(slide.body)}</p>` : ''}
-            ${slide.emphasis ? `<div class="emphasis">${escapeHtml(slide.emphasis)}</div>` : ''}
-          </div>
-        </main>
-        <div class="counter">${number} / ${total}</div>
-        <footer class="brand-footer">
-          <div class="footer-main">
-            <div class="wordmark"><span class="borelli">BORELLI</span><span class="capital">CAPITAL</span></div>
-            <div class="footer-divider"></div>
-            <div class="footer-cta">${isFinal ? 'Converse com a Borelli' : 'Continue a leitura'}</div>
-            <div class="arrow">↓</div>
-          </div>
-          <div class="disclaimer">${escapeHtml(disclaimer)}</div>
-        </footer>
-      </section>`;
-  }).join('\n');
+function carouselHtml(item, backgroundDir) { return siteCarouselHtml(ROOT, item, backgroundDir); }
 
-  return `<!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<style>
-  ${fontFaces}
-  *{box-sizing:border-box}
-  html,body{margin:0;padding:0;background:#817A70;font-family:Montserrat,Arial,sans-serif}
-  .slide{width:1080px;height:1350px;background:#F4F0E8;color:#061B2B;overflow:hidden;position:relative}
-  .photo{position:absolute;z-index:1;left:354px;right:0;top:334px;bottom:220px;background-color:#D8D0C3;background-size:cover;background-position:center}
-  .photo:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(244,240,232,.18),transparent 28%)}
-  main{position:absolute;z-index:3;inset:54px 54px 220px}
-  .kicker{font-size:18px;font-weight:590;letter-spacing:.28em;text-transform:uppercase;color:#B79A61;margin:0 0 24px;font-variation-settings:"wght" 590}
-  h1{font-size:88px;line-height:.95;letter-spacing:-.052em;margin:0;max-width:940px;font-weight:820;font-variation-settings:"wght" 820}
-  h1.title-medium{font-size:78px;line-height:.97;max-width:930px}
-  h1.title-compact{font-size:68px;line-height:1;max-width:940px}
-  .body-panel{position:absolute;left:0;top:465px;width:338px;min-height:340px;background:#F4F0E8;padding:0 32px 28px 0}
-  .rule{width:74px;height:4px;background:#B79A61;margin:0 0 28px}
-  p{font-size:29px;font-weight:430;line-height:1.31;margin:0;color:#10263A;font-variation-settings:"wght" 430}
-  .emphasis{margin-top:24px;font-size:19px;font-weight:600;line-height:1.3;color:#B79A61}
-  .counter{position:absolute;right:38px;top:292px;z-index:4;font-size:14px;font-weight:600;letter-spacing:.16em;color:#F7F3EA;text-shadow:0 1px 8px rgba(6,27,43,.6)}
-  .layout-1 .photo{left:390px;background-position:58% center}
-  .layout-2 .photo{left:330px;background-position:62% center}
-  .layout-2 .body-panel{width:315px}
-  .brand-footer{position:absolute;z-index:5;left:0;right:0;bottom:0;height:220px;background:#061B2B;color:#F7F3EA;padding:32px 54px 20px}
-  .footer-main{height:118px;display:flex;align-items:center}
-  .wordmark{width:430px;color:#D9BC79;display:flex;flex-direction:column;align-items:flex-start;line-height:1}
-  .borelli{font-family:Georgia,'Times New Roman',serif;font-size:58px;letter-spacing:.12em}
-  .capital{font-size:18px;font-weight:500;letter-spacing:.44em;margin:14px 0 0 83px}
-  .footer-divider{height:64px;width:1px;background:#B79A61;margin:0 46px 0 18px;opacity:.8}
-  .footer-cta{font-size:25px;font-weight:750;white-space:nowrap;letter-spacing:-.02em}
-  .arrow{margin-left:auto;width:66px;height:66px;border:2px solid #D9BC79;border-radius:50%;color:#D9BC79;display:flex;align-items:center;justify-content:center;font-size:43px;font-weight:300;line-height:1;padding-bottom:8px}
-  .disclaimer{position:absolute;left:54px;right:54px;bottom:18px;font-size:13px;line-height:1.25;font-weight:380;color:#F7F3EA;opacity:.92}
-  .final h1{max-width:900px}
-  .final .photo{background-position:center}
-</style></head><body>${slides}</body></html>`;
-}
-
-async function renderPlan(inputFile, plan) {
+async function renderPlan(inputFile, plan, preview = false) {
   const { chromium } = await import('playwright');
   const weekDirName = `semana-${plan.weekStart}`;
-  const outputRoot = path.join(ROOT, 'marketing', 'conteudo', weekDirName);
+  const outputRoot = preview ? path.join(ROOT, '.runtime', 'brand-preview', weekDirName) : path.join(ROOT, 'marketing', 'conteudo', weekDirName);
   const publicRoot = path.join(ROOT, 'public', 'media', weekDirName);
   fs.mkdirSync(outputRoot, { recursive: true });
-  fs.mkdirSync(publicRoot, { recursive: true });
+  if (!preview) fs.mkdirSync(publicRoot, { recursive: true });
   fs.copyFileSync(inputFile, path.join(outputRoot, 'planejamento.json'));
 
   const browser = await chromium.launch({ headless: true });
@@ -227,14 +143,15 @@ async function renderPlan(inputFile, plan) {
       const imageDir = path.join(postDir, 'instagram');
       const publicPostDir = path.join(publicRoot, slug);
       fs.mkdirSync(imageDir, { recursive: true });
-      fs.mkdirSync(publicPostDir, { recursive: true });
-      const html = carouselHtml(item, path.join(postDir, 'fundos'));
+      if (!preview) fs.mkdirSync(publicPostDir, { recursive: true });
+      const html = carouselHtml(item, preview ? path.join(ROOT, 'marketing', 'conteudo', weekDirName, slug, 'fundos') : path.join(postDir, 'fundos'));
       fs.writeFileSync(path.join(postDir, 'carrossel.html'), html, 'utf8');
       fs.writeFileSync(path.join(postDir, 'legenda.md'), `${item.caption.trim()}\n`, 'utf8');
       writeJsonAtomic(path.join(postDir, 'conteudo.json'), item);
 
       const page = await browser.newPage({ viewport: { width: 1080, height: 1350 }, deviceScaleFactor: 1 });
       await page.goto(pathToFileURL(path.join(postDir, 'carrossel.html')).href, { waitUntil: 'load' });
+      await page.evaluate(() => document.fonts.ready);
       const locators = page.locator('.slide');
       const slideCount = await locators.count();
       for (let slideIndex = 0; slideIndex < slideCount; slideIndex += 1) {
@@ -245,6 +162,20 @@ async function renderPlan(inputFile, plan) {
             slide.style.display = index === activeIndex ? 'flex' : 'none';
           });
         }, slideIndex);
+        const issues = await locators.nth(slideIndex).evaluate(el => {
+          const main = el.querySelector('main');
+          const photo = el.querySelector('.photo');
+          const errors = [];
+          for (const child of main.children) {
+            if (child.getBoundingClientRect().bottom > main.getBoundingClientRect().bottom || child.scrollWidth > child.clientWidth + 1) errors.push('texto excede área segura');
+          }
+          const img = el.querySelector('img');
+          if (!img.complete || !img.naturalWidth) errors.push('fotografia não carregou');
+          if (!document.fonts.check('500 48px "Cormorant Garamond"') || !document.fonts.check('400 34px Inter')) errors.push('fonte não carregou');
+          if (photo.getBoundingClientRect().bottom > el.querySelector('footer').getBoundingClientRect().top) errors.push('foto sobrepõe rodapé');
+          return errors;
+        });
+        if (issues.length) fail(`Layout inválido ${slug}/${slideIndex+1}: ${issues.join(', ')}`);
         const filename = `slide-${String(slideIndex + 1).padStart(2, '0')}.png`;
         const localFile = path.join(imageDir, filename);
         await locators.nth(slideIndex).screenshot({ path: localFile });
@@ -252,7 +183,7 @@ async function renderPlan(inputFile, plan) {
         const normalized = spawnSync('convert', [localFile, '-depth', '8', '-colorspace', 'sRGB', normalizedFile], { encoding: 'utf8' });
         if (normalized.status !== 0) fail(`não foi possível normalizar ${localFile}: ${(normalized.stderr || '').trim()}`);
         fs.renameSync(normalizedFile, localFile);
-        fs.copyFileSync(localFile, path.join(publicPostDir, filename));
+        if (!preview) fs.copyFileSync(localFile, path.join(publicPostDir, filename));
       }
       await page.close();
       console.log(`renderizado: ${slug} (${item.slides.length} slides)`);
@@ -623,14 +554,15 @@ if (command === 'discover') {
   console.log(JSON.stringify(result, null, 2));
   process.exit(0);
 }
-if (!['validate', 'render', 'schedule', 'reschedule', 'audit', 'publish-now', 'repair', 'archive'].includes(command)) {
-  console.log('Uso: node scripts/weekly-content.mjs <validate|render|discover|schedule|reschedule|audit|publish-now|repair|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD] [--slug SLUG]');
+if (!['preview', 'validate', 'render', 'schedule', 'reschedule', 'audit', 'publish-now', 'repair', 'archive'].includes(command)) {
+  console.log('Uso: node scripts/weekly-content.mjs <preview|validate|render|discover|schedule|reschedule|audit|publish-now|repair|archive> [--input planejamento/semana-AAAA-MM-DD.json] [--start-date AAAA-MM-DD] [--slug SLUG]');
   process.exit(command === 'help' ? 0 : 2);
 }
 const inputFile = path.resolve(ROOT, args.input || defaultInputPath());
 const plan = validatePlan(readJson(inputFile));
 if (command === 'validate') console.log(`válido: ${inputFile} (7 carrosséis)`);
 if (command === 'render') await renderPlan(inputFile, plan);
+if (command === 'preview') await renderPlan(inputFile, plan, true);
 if (command === 'schedule') await schedulePlan(plan, args['start-date'] || plan.weekStart);
 if (command === 'reschedule') await reschedulePlan(plan, args['start-date']);
 if (command === 'audit') await auditPlan(plan);

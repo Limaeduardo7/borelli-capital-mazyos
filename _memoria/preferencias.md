@@ -25,4 +25,4 @@ Quando produzir conteúdo financeiro, deixar claras as premissas, evitar garanti
 
 ## Direção visual social vigente
 
-Desde 2026-09-28, os próximos posts devem seguir a estética editorial patrimonial aprovada nas referências em `identidade/referencias/editorial-patrimonial-2026/`: fundo marfim, títulos grandes em azul-marinho, dourado fosco como acento, fotografia arquitetônica/empresarial quente e rodapé azul-marinho com assinatura Borelli dourada, CTA branco e disclaimer. Essa direção substitui o antigo padrão preto/vermelho para novos conteúdos sociais. A especificação completa está em `identidade/estilo-editorial-patrimonial.md`.
+Desde 2026-10-15, usar a mesma identidade do site: navy #0B1720, off-white #F3F0EA, champagne #B6A071, grafite #25292C, Cormorant Garamond nos títulos e Inter no corpo. Seguir `identidade/design-guide.md` e `identidade/site-tokens.json`. A direção substitui Montserrat e referências anteriores para futuros lotes; preservar posts já agendados.
