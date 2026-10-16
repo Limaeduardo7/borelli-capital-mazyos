@@ -1,0 +1,45 @@
+{
+  "slug": "prazo-longo-nao-e-risco-sozinho",
+  "theme": "Objeção: avaliação de prazos longos por previsibilidade, flexibilidade e capacidade de amortização",
+  "category": "OBJEÇÕES E CRITÉRIOS",
+  "hook": "Prazo longo não é risco sozinho",
+  "footer": "Prazo deve ser lido junto com a estrutura.",
+  "caption": "Um prazo longo aumenta o tempo de exposição, mas isso não basta para classificar uma estrutura como ruim. Previsibilidade do fluxo, custo total, possibilidade de amortização, estabilidade da renda e flexibilidade contratual podem tornar compromissos de durações diferentes mais ou menos adequados. Reduzir o prazo sem preservar margem também pode concentrar risco no presente. A Borelli Capital compara duração e capacidade de resposta sem fórmulas universais. Agende uma reunião para avaliar o prazo dentro do seu contexto. Crédito sujeito à análise e à aprovação da instituição credora.\n\n#PlanejamentoFinanceiro #CréditoEstratégico #GestãoDeRisco #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "OBJEÇÕES E CRITÉRIOS",
+      "title": "Prazo longo não é risco sozinho",
+      "body": "Duração importa, mas precisa ser lida ao lado de custo, margem e flexibilidade."
+    },
+    {
+      "kicker": "MITO",
+      "title": "Curto nem sempre significa seguro",
+      "body": "Concentrar pagamentos pode reduzir a capacidade de responder a imprevistos."
+    },
+    {
+      "kicker": "EXPOSIÇÃO",
+      "title": "Longo amplia o tempo de mudança",
+      "body": "Renda, mercado e prioridades podem se transformar durante o compromisso."
+    },
+    {
+      "kicker": "FLEXIBILIDADE",
+      "title": "Saídas alteram a leitura",
+      "body": "Amortização, quitação e revisão de garantias ajudam a medir margem de manobra."
+    },
+    {
+      "kicker": "PREVISIBILIDADE",
+      "title": "Fluxo estável reduz surpresa",
+      "body": "Regras claras e parcelas compatíveis tornam a duração mais compreensível."
+    },
+    {
+      "kicker": "MÉTODO",
+      "title": "Teste prazo contra cenários",
+      "body": "Compare continuidade de renda, custo total e capacidade de ajuste."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Contextualize o prazo",
+      "body": "Converse com a Borelli Capital para comparar duração e flexibilidade."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Uma conversa estratégica não precisa começar pela solução idealizada. Muitas vezes, o melhor ponto de partida está nas restrições: liquidez que deve permanecer protegida, parcela máxima confortável, prazo real, ativos que não podem ser vinculados e objetivos que não podem ser adiados. Limites claros eliminam opções incompatíveis e tornam as alternativas restantes mais comparáveis. A Borelli Capital transforma essas restrições em critérios de decisão. Agende uma reunião e traga os limites que a sua próxima escolha precisa respeitar. Conteúdo educativo; análises individuais dependem de informações verificadas.
+
+#ConsultoriaPatrimonial #DiagnósticoFinanceiro #PlanejamentoEstratégico #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital

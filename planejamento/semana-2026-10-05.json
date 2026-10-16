@@ -1,0 +1,124 @@
+{
+  "weekStart": "2026-10-05",
+  "carousels": [
+    {
+      "slug": "patrimonio-sem-mapa-cobra-clareza",
+      "theme": "Educação patrimonial: mapa de dependências entre ativos, renda, dívida e liquidez",
+      "category": "EDUCAÇÃO PATRIMONIAL",
+      "hook": "Patrimônio sem mapa cobra clareza",
+      "footer": "Visibilidade vem antes da próxima escolha.",
+      "caption": "Um patrimônio pode crescer e, ainda assim, ficar difícil de compreender. Ativos, dívidas, garantias, reservas e fontes de renda criam relações que nem sempre aparecem quando cada item é analisado isoladamente. Um mapa patrimonial não serve apenas para somar valores: ele mostra dependências, concentrações e decisões que disputam o mesmo caixa. A Borelli Capital organiza essas conexões para que o próximo movimento comece com uma leitura mais clara. Agende uma reunião para mapear a estrutura antes de ampliar compromissos. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "EDUCAÇÃO PATRIMONIAL", "title": "Patrimônio sem mapa cobra clareza", "body": "Crescer sem enxergar conexões pode tornar cada nova decisão mais difícil."},
+        {"kicker": "VISÃO", "title": "Uma lista não mostra dependências", "body": "Ativos, dívidas, garantias e renda influenciam uns aos outros."},
+        {"kicker": "TENSÃO", "title": "O mesmo caixa sustenta vários planos", "body": "Objetivos isolados podem disputar recursos quando vistos no mesmo calendário."},
+        {"kicker": "CONCENTRAÇÃO", "title": "Valor não revela exposição", "body": "Liquidez, prazo e finalidade ajudam a entender onde a estrutura está concentrada."},
+        {"kicker": "CONEXÕES", "title": "Garantias criam vínculos silenciosos", "body": "Uma operação pode limitar escolhas futuras mesmo sem alterar o patrimônio hoje."},
+        {"kicker": "MÉTODO", "title": "Mapeie função, prazo e dependência", "body": "Essas três camadas transformam itens dispersos em uma estrutura legível."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Enxergue antes de ampliar", "body": "Converse com a Borelli Capital para organizar o mapa patrimonial."}
+      ]
+    },
+    {
+      "slug": "garantia-muda-o-preco-do-risco",
+      "theme": "Crédito estratégico: efeito das garantias sobre custo, flexibilidade e risco patrimonial",
+      "category": "CRÉDITO ESTRATÉGICO",
+      "hook": "Garantia muda o preço do risco",
+      "footer": "Custo menor também pode exigir concessões.",
+      "caption": "Oferecer uma garantia pode melhorar condições de crédito, mas a decisão não termina na taxa. O ativo vinculado, as regras de liberação, a possibilidade de substituição e o impacto de um imprevisto também fazem parte do custo da estrutura. Uma operação aparentemente mais barata pode reduzir flexibilidade justamente quando o patrimônio precisa responder. A Borelli Capital compara custo, prazo, garantias e margem de manobra antes da contratação. Agende uma reunião consultiva para avaliar a estrutura completa. Crédito sujeito à análise e à aprovação da instituição credora.\n\n#CréditoEstratégico #EstruturaDeCrédito #Garantias #PlanejamentoFinanceiro #GestãoDeRisco #BorelliCapital",
+      "slides": [
+        {"kicker": "CRÉDITO ESTRATÉGICO", "title": "Garantia muda o preço do risco", "body": "Condições melhores podem vir acompanhadas de vínculos patrimoniais relevantes."},
+        {"kicker": "TROCA", "title": "A taxa é apenas uma parte", "body": "O ativo oferecido e as obrigações do contrato também compõem o custo."},
+        {"kicker": "VÍNCULO", "title": "O patrimônio perde mobilidade", "body": "Enquanto a garantia permanece ativa, vender ou reorganizar pode exigir anuência."},
+        {"kicker": "CENÁRIO", "title": "Imprevistos testam a estrutura", "body": "A análise precisa considerar o que acontece quando receita e prazo saem do plano."},
+        {"kicker": "FLEXIBILIDADE", "title": "Substituir garantia tem regras", "body": "Prazos, avaliação e aprovação podem limitar uma mudança necessária."},
+        {"kicker": "MÉTODO", "title": "Compare custo e liberdade", "body": "Taxa, garantia, liquidez e saída precisam caber na mesma decisão."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Leia além da taxa", "body": "Converse com a Borelli Capital antes de vincular um ativo."}
+      ]
+    },
+    {
+      "slug": "prazo-de-grupo-molda-sua-escolha",
+      "theme": "Consórcio: adequação entre prazo remanescente do grupo, contribuição e horizonte de aquisição",
+      "category": "CONSÓRCIO COM ESTRATÉGIA",
+      "hook": "Prazo de grupo molda sua escolha",
+      "footer": "Horizonte e contrato precisam conversar.",
+      "caption": "Dois grupos com o mesmo valor de crédito podem produzir compromissos muito diferentes. Prazo remanescente, regras de reajuste, contribuição mensal e horizonte de aquisição alteram o encaixe da estratégia. Um prazo mais curto pode concentrar esforço; um prazo mais longo pode ampliar exposição a mudanças e exigir disciplina por mais tempo. A comparação responsável começa pelo calendário do objetivo e pela capacidade de sustentar o plano. A Borelli Capital ajuda a organizar esses critérios sem prometer data de contemplação. Agende uma reunião para comparar grupos com contexto.\n\n#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #CartaDeCrédito #AquisiçãoPlanejada #BorelliCapital",
+      "slides": [
+        {"kicker": "CONSÓRCIO COM ESTRATÉGIA", "title": "Prazo de grupo molda sua escolha", "body": "O mesmo crédito pode exigir ritmos muito diferentes de contribuição."},
+        {"kicker": "CALENDÁRIO", "title": "Comece pelo horizonte do objetivo", "body": "A data desejada ajuda a filtrar estruturas incompatíveis com a decisão."},
+        {"kicker": "TENSÃO", "title": "Prazo curto concentra esforço", "body": "Menos meses podem elevar a pressão sobre o caixa durante a execução."},
+        {"kicker": "EXPOSIÇÃO", "title": "Prazo longo exige disciplina", "body": "Mais tempo amplia a necessidade de acompanhar reajustes e mudanças de cenário."},
+        {"kicker": "GRUPO", "title": "O remanescente importa", "body": "Entrar em um grupo em andamento muda calendário, contribuição e leitura contratual."},
+        {"kicker": "MÉTODO", "title": "Compare ritmo, regra e objetivo", "body": "O encaixe vem do conjunto, não de uma parcela observada isoladamente."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Escolha o prazo com contexto", "body": "Converse com a Borelli Capital para comparar estruturas de grupo."}
+      ]
+    },
+    {
+      "slug": "saldo-disponivel-pode-estar-comprometido",
+      "theme": "Liquidez: diferença entre saldo bancário e recursos realmente livres para novas decisões",
+      "category": "LIQUIDEZ E ESTRUTURA",
+      "hook": "Saldo disponível pode estar comprometido",
+      "footer": "Liquidez livre nasce depois dos compromissos.",
+      "caption": "Ver saldo em conta não significa que todo o valor esteja livre para uma nova decisão. Tributos, despesas sazonais, parcelas próximas, manutenção de ativos e projetos já aprovados podem ter destino definido, mesmo antes do pagamento. Confundir saldo bancário com liquidez livre cria uma percepção de capacidade maior do que a estrutura realmente possui. A Borelli Capital separa recursos operacionais, reservas, compromissos e capital discricionário para tornar a escolha comparável. Agende uma reunião para entender quanto do caixa está realmente disponível. Conteúdo educativo; não constitui recomendação de investimento.\n\n#Liquidez #GestãoDeCaixa #PlanejamentoPatrimonial #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "LIQUIDEZ E ESTRUTURA", "title": "Saldo disponível pode estar comprometido", "body": "O extrato mostra dinheiro; a estrutura mostra o que ele precisa sustentar."},
+        {"kicker": "DESTINO", "title": "Parte do caixa já tem função", "body": "Impostos, despesas e projetos futuros existem antes de aparecerem como débito."},
+        {"kicker": "TENSÃO", "title": "Disponibilidade aparente induz excesso", "body": "Uma nova compra pode ocupar recursos necessários em outra janela."},
+        {"kicker": "CAMADAS", "title": "Separe operação e proteção", "body": "Caixa corrente, reserva e capital de decisão cumprem papéis diferentes."},
+        {"kicker": "CALENDÁRIO", "title": "Compromissos vencem em ritmos distintos", "body": "Projetar entradas e saídas revela quando a liquidez se torna realmente livre."},
+        {"kicker": "MÉTODO", "title": "Nomeie cada parcela do saldo", "body": "Função, prazo e prioridade reduzem a chance de usar o mesmo recurso duas vezes."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Descubra o caixa realmente livre", "body": "Converse com a Borelli Capital para organizar compromissos e margem."}
+      ]
+    },
+    {
+      "slug": "comprar-cedo-pode-encarecer-a-espera",
+      "theme": "Decisão de compra: custo de antecipar a aquisição antes do início do uso econômico",
+      "category": "DECISÕES DE COMPRA",
+      "hook": "Comprar cedo pode encarecer a espera",
+      "footer": "O momento da compra também tem custo.",
+      "caption": "Antecipar uma compra pode parecer prudente, mas um ativo adquirido antes do uso começa a gerar efeitos imediatamente. Capital imobilizado, seguro, manutenção, armazenagem, depreciação e custo financeiro podem existir durante uma espera sem benefício correspondente. Em outros casos, comprar cedo protege execução ou disponibilidade. A decisão depende da janela de uso, do risco de atraso e do custo total entre comprar agora e comprar depois. A Borelli Capital ajuda a comparar o calendário completo. Agende uma reunião e leve o cenário da sua próxima aquisição. Conteúdo educativo; cada decisão exige análise própria.\n\n#DecisãoDeCompra #CustoTotal #PlanejamentoPatrimonial #AquisiçãoDeAtivos #EstratégiaFinanceira #BorelliCapital",
+      "slides": [
+        {"kicker": "DECISÕES DE COMPRA", "title": "Comprar cedo pode encarecer a espera", "body": "Um ativo começa a consumir recursos antes mesmo de começar a entregar valor."},
+        {"kicker": "JANELA", "title": "Quando o uso realmente começa?", "body": "A data operacional define quanto tempo a compra ficará sem função econômica."},
+        {"kicker": "TENSÃO", "title": "Posse antecipada gera custos", "body": "Seguro, manutenção, armazenagem e capital imobilizado podem surgir imediatamente."},
+        {"kicker": "RISCO", "title": "Esperar também tem consequência", "body": "Disponibilidade, preço e prazo de entrega podem tornar a postergação inadequada."},
+        {"kicker": "COMPARAÇÃO", "title": "Meça o intervalo sem uso", "body": "O custo dessa janela ajuda a comparar antecipação e espera com clareza."},
+        {"kicker": "MÉTODO", "title": "Alinhe compra e operação", "body": "Data, custo total e risco de execução precisam apontar para o mesmo momento."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Escolha também o momento", "body": "Converse com a Borelli Capital antes de antecipar a aquisição."}
+      ]
+    },
+    {
+      "slug": "prazo-longo-nao-e-risco-sozinho",
+      "theme": "Objeção: avaliação de prazos longos por previsibilidade, flexibilidade e capacidade de amortização",
+      "category": "OBJEÇÕES E CRITÉRIOS",
+      "hook": "Prazo longo não é risco sozinho",
+      "footer": "Prazo deve ser lido junto com a estrutura.",
+      "caption": "Um prazo longo aumenta o tempo de exposição, mas isso não basta para classificar uma estrutura como ruim. Previsibilidade do fluxo, custo total, possibilidade de amortização, estabilidade da renda e flexibilidade contratual podem tornar compromissos de durações diferentes mais ou menos adequados. Reduzir o prazo sem preservar margem também pode concentrar risco no presente. A Borelli Capital compara duração e capacidade de resposta sem fórmulas universais. Agende uma reunião para avaliar o prazo dentro do seu contexto. Crédito sujeito à análise e à aprovação da instituição credora.\n\n#PlanejamentoFinanceiro #CréditoEstratégico #GestãoDeRisco #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital",
+      "slides": [
+        {"kicker": "OBJEÇÕES E CRITÉRIOS", "title": "Prazo longo não é risco sozinho", "body": "Duração importa, mas precisa ser lida ao lado de custo, margem e flexibilidade."},
+        {"kicker": "MITO", "title": "Curto nem sempre significa seguro", "body": "Concentrar pagamentos pode reduzir a capacidade de responder a imprevistos."},
+        {"kicker": "EXPOSIÇÃO", "title": "Longo amplia o tempo de mudança", "body": "Renda, mercado e prioridades podem se transformar durante o compromisso."},
+        {"kicker": "FLEXIBILIDADE", "title": "Saídas alteram a leitura", "body": "Amortização, quitação e revisão de garantias ajudam a medir margem de manobra."},
+        {"kicker": "PREVISIBILIDADE", "title": "Fluxo estável reduz surpresa", "body": "Regras claras e parcelas compatíveis tornam a duração mais compreensível."},
+        {"kicker": "MÉTODO", "title": "Teste prazo contra cenários", "body": "Compare continuidade de renda, custo total e capacidade de ajuste."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Contextualize o prazo", "body": "Converse com a Borelli Capital para comparar duração e flexibilidade."}
+      ]
+    },
+    {
+      "slug": "restricoes-tambem-orientam-boas-decisoes",
+      "theme": "Convite consultivo: usar limites e restrições como ponto de partida para o diagnóstico",
+      "category": "CONVERSA CONSULTIVA",
+      "hook": "Restrições também orientam boas decisões",
+      "footer": "Limites claros transformam opções em critérios.",
+      "caption": "Uma conversa estratégica não precisa começar pela solução idealizada. Muitas vezes, o melhor ponto de partida está nas restrições: liquidez que deve permanecer protegida, parcela máxima confortável, prazo real, ativos que não podem ser vinculados e objetivos que não podem ser adiados. Limites claros eliminam opções incompatíveis e tornam as alternativas restantes mais comparáveis. A Borelli Capital transforma essas restrições em critérios de decisão. Agende uma reunião e traga os limites que a sua próxima escolha precisa respeitar. Conteúdo educativo; análises individuais dependem de informações verificadas.\n\n#ConsultoriaPatrimonial #DiagnósticoFinanceiro #PlanejamentoEstratégico #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+      "slides": [
+        {"kicker": "CONVERSA CONSULTIVA", "title": "Restrições também orientam boas decisões", "body": "Limites claros reduzem ruído antes de comparar produtos ou caminhos."},
+        {"kicker": "LIQUIDEZ", "title": "O que precisa permanecer protegido?", "body": "A resposta define quanto capital pode participar da decisão sem fragilizar a estrutura."},
+        {"kicker": "FLUXO", "title": "Qual compromisso cabe com conforto?", "body": "A margem mensal precisa sobreviver a variações plausíveis de receita e despesa."},
+        {"kicker": "PRAZO", "title": "O que não pode esperar?", "body": "Separar desejo de necessidade ajuda a organizar o calendário real."},
+        {"kicker": "PATRIMÔNIO", "title": "O que não deve ser vinculado?", "body": "Alguns ativos cumprem funções que precisam permanecer preservadas."},
+        {"kicker": "MÉTODO", "title": "Transforme limites em critérios", "body": "Liquidez, fluxo, prazo e garantias filtram alternativas incompatíveis."},
+        {"kicker": "PRÓXIMO PASSO", "title": "Traga seus limites para a conversa", "body": "Agende uma reunião com a Borelli Capital para estruturar a decisão."}
+      ]
+    }
+  ]
+}

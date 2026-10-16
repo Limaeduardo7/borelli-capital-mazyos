@@ -1,0 +1,3 @@
+Dois grupos com o mesmo valor de crédito podem produzir compromissos muito diferentes. Prazo remanescente, regras de reajuste, contribuição mensal e horizonte de aquisição alteram o encaixe da estratégia. Um prazo mais curto pode concentrar esforço; um prazo mais longo pode ampliar exposição a mudanças e exigir disciplina por mais tempo. A comparação responsável começa pelo calendário do objetivo e pela capacidade de sustentar o plano. A Borelli Capital ajuda a organizar esses critérios sem prometer data de contemplação. Agende uma reunião para comparar grupos com contexto.
+
+#Consórcio #ConsórcioEstratégico #PlanejamentoPatrimonial #CartaDeCrédito #AquisiçãoPlanejada #BorelliCapital

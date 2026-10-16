@@ -1,0 +1,3 @@
+Ver saldo em conta não significa que todo o valor esteja livre para uma nova decisão. Tributos, despesas sazonais, parcelas próximas, manutenção de ativos e projetos já aprovados podem ter destino definido, mesmo antes do pagamento. Confundir saldo bancário com liquidez livre cria uma percepção de capacidade maior do que a estrutura realmente possui. A Borelli Capital separa recursos operacionais, reservas, compromissos e capital discricionário para tornar a escolha comparável. Agende uma reunião para entender quanto do caixa está realmente disponível. Conteúdo educativo; não constitui recomendação de investimento.
+
+#Liquidez #GestãoDeCaixa #PlanejamentoPatrimonial #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital

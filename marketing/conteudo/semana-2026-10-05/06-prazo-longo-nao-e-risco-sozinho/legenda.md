@@ -1,0 +1,3 @@
+Um prazo longo aumenta o tempo de exposição, mas isso não basta para classificar uma estrutura como ruim. Previsibilidade do fluxo, custo total, possibilidade de amortização, estabilidade da renda e flexibilidade contratual podem tornar compromissos de durações diferentes mais ou menos adequados. Reduzir o prazo sem preservar margem também pode concentrar risco no presente. A Borelli Capital compara duração e capacidade de resposta sem fórmulas universais. Agende uma reunião para avaliar o prazo dentro do seu contexto. Crédito sujeito à análise e à aprovação da instituição credora.
+
+#PlanejamentoFinanceiro #CréditoEstratégico #GestãoDeRisco #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital

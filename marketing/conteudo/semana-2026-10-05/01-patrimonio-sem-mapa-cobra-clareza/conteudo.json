@@ -1,0 +1,45 @@
+{
+  "slug": "patrimonio-sem-mapa-cobra-clareza",
+  "theme": "Educação patrimonial: mapa de dependências entre ativos, renda, dívida e liquidez",
+  "category": "EDUCAÇÃO PATRIMONIAL",
+  "hook": "Patrimônio sem mapa cobra clareza",
+  "footer": "Visibilidade vem antes da próxima escolha.",
+  "caption": "Um patrimônio pode crescer e, ainda assim, ficar difícil de compreender. Ativos, dívidas, garantias, reservas e fontes de renda criam relações que nem sempre aparecem quando cada item é analisado isoladamente. Um mapa patrimonial não serve apenas para somar valores: ele mostra dependências, concentrações e decisões que disputam o mesmo caixa. A Borelli Capital organiza essas conexões para que o próximo movimento comece com uma leitura mais clara. Agende uma reunião para mapear a estrutura antes de ampliar compromissos. Conteúdo educativo; não constitui recomendação individual.\n\n#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "EDUCAÇÃO PATRIMONIAL",
+      "title": "Patrimônio sem mapa cobra clareza",
+      "body": "Crescer sem enxergar conexões pode tornar cada nova decisão mais difícil."
+    },
+    {
+      "kicker": "VISÃO",
+      "title": "Uma lista não mostra dependências",
+      "body": "Ativos, dívidas, garantias e renda influenciam uns aos outros."
+    },
+    {
+      "kicker": "TENSÃO",
+      "title": "O mesmo caixa sustenta vários planos",
+      "body": "Objetivos isolados podem disputar recursos quando vistos no mesmo calendário."
+    },
+    {
+      "kicker": "CONCENTRAÇÃO",
+      "title": "Valor não revela exposição",
+      "body": "Liquidez, prazo e finalidade ajudam a entender onde a estrutura está concentrada."
+    },
+    {
+      "kicker": "CONEXÕES",
+      "title": "Garantias criam vínculos silenciosos",
+      "body": "Uma operação pode limitar escolhas futuras mesmo sem alterar o patrimônio hoje."
+    },
+    {
+      "kicker": "MÉTODO",
+      "title": "Mapeie função, prazo e dependência",
+      "body": "Essas três camadas transformam itens dispersos em uma estrutura legível."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Enxergue antes de ampliar",
+      "body": "Converse com a Borelli Capital para organizar o mapa patrimonial."
+    }
+  ]
+}

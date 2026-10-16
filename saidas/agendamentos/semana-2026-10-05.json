@@ -1,0 +1,92 @@
+{
+  "weekStart": "2026-10-05",
+  "channelId": "6ad03a70778b240e2f12324b",
+  "posts": [
+    {
+      "slug": "01-patrimonio-sem-mapa-cobra-clareza",
+      "bufferPostId": "6ad1a2019597cd166266b686",
+      "dueAt": "2026-10-16T04:03:34.598Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:14.097Z",
+      "status": "sent",
+      "sentAt": "2026-10-16T04:04:21.333Z",
+      "externalLink": "https://www.instagram.com/p/DeiodJGnNci/",
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:51.689Z",
+      "publishNowRequestedAt": "2026-10-16T04:03:44.805Z",
+      "shareMode": "shareNow"
+    },
+    {
+      "slug": "02-garantia-muda-o-preco-do-risco",
+      "bufferPostId": "6ad1a203fb64fffcf1b3572c",
+      "dueAt": "2026-10-17T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:15.672Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:51.893Z"
+    },
+    {
+      "slug": "03-prazo-de-grupo-molda-sua-escolha",
+      "bufferPostId": "6ad1a2059597cd166266b8b8",
+      "dueAt": "2026-10-18T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:17.251Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:52.084Z"
+    },
+    {
+      "slug": "04-saldo-disponivel-pode-estar-comprometido",
+      "bufferPostId": "6ad1a206ee2c696029bb13c1",
+      "dueAt": "2026-10-19T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:18.790Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:52.281Z"
+    },
+    {
+      "slug": "05-comprar-cedo-pode-encarecer-a-espera",
+      "bufferPostId": "6ad1a2089597cd166266b92d",
+      "dueAt": "2026-10-20T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:20.311Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:52.468Z"
+    },
+    {
+      "slug": "06-prazo-longo-nao-e-risco-sozinho",
+      "bufferPostId": "6ad1a209fb64fffcf1b35850",
+      "dueAt": "2026-10-21T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:21.806Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:52.655Z"
+    },
+    {
+      "slug": "07-restricoes-tambem-orientam-boas-decisoes",
+      "bufferPostId": "6ad1a20b4ed7d375a4444b3c",
+      "dueAt": "2026-10-22T16:00:00.000Z",
+      "assets": 7,
+      "scheduledAt": "2026-10-16T04:03:23.431Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-16T04:04:52.846Z"
+    }
+  ]
+}

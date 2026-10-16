@@ -1,0 +1,3 @@
+Antecipar uma compra pode parecer prudente, mas um ativo adquirido antes do uso começa a gerar efeitos imediatamente. Capital imobilizado, seguro, manutenção, armazenagem, depreciação e custo financeiro podem existir durante uma espera sem benefício correspondente. Em outros casos, comprar cedo protege execução ou disponibilidade. A decisão depende da janela de uso, do risco de atraso e do custo total entre comprar agora e comprar depois. A Borelli Capital ajuda a comparar o calendário completo. Agende uma reunião e leve o cenário da sua próxima aquisição. Conteúdo educativo; cada decisão exige análise própria.
+
+#DecisãoDeCompra #CustoTotal #PlanejamentoPatrimonial #AquisiçãoDeAtivos #EstratégiaFinanceira #BorelliCapital

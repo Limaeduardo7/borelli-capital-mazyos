@@ -1,0 +1,3 @@
+Oferecer uma garantia pode melhorar condições de crédito, mas a decisão não termina na taxa. O ativo vinculado, as regras de liberação, a possibilidade de substituição e o impacto de um imprevisto também fazem parte do custo da estrutura. Uma operação aparentemente mais barata pode reduzir flexibilidade justamente quando o patrimônio precisa responder. A Borelli Capital compara custo, prazo, garantias e margem de manobra antes da contratação. Agende uma reunião consultiva para avaliar a estrutura completa. Crédito sujeito à análise e à aprovação da instituição credora.
+
+#CréditoEstratégico #EstruturaDeCrédito #Garantias #PlanejamentoFinanceiro #GestãoDeRisco #BorelliCapital

@@ -1,0 +1,45 @@
+{
+  "slug": "saldo-disponivel-pode-estar-comprometido",
+  "theme": "Liquidez: diferença entre saldo bancário e recursos realmente livres para novas decisões",
+  "category": "LIQUIDEZ E ESTRUTURA",
+  "hook": "Saldo disponível pode estar comprometido",
+  "footer": "Liquidez livre nasce depois dos compromissos.",
+  "caption": "Ver saldo em conta não significa que todo o valor esteja livre para uma nova decisão. Tributos, despesas sazonais, parcelas próximas, manutenção de ativos e projetos já aprovados podem ter destino definido, mesmo antes do pagamento. Confundir saldo bancário com liquidez livre cria uma percepção de capacidade maior do que a estrutura realmente possui. A Borelli Capital separa recursos operacionais, reservas, compromissos e capital discricionário para tornar a escolha comparável. Agende uma reunião para entender quanto do caixa está realmente disponível. Conteúdo educativo; não constitui recomendação de investimento.\n\n#Liquidez #GestãoDeCaixa #PlanejamentoPatrimonial #FluxoDeCaixa #DecisõesFinanceiras #BorelliCapital",
+  "slides": [
+    {
+      "kicker": "LIQUIDEZ E ESTRUTURA",
+      "title": "Saldo disponível pode estar comprometido",
+      "body": "O extrato mostra dinheiro; a estrutura mostra o que ele precisa sustentar."
+    },
+    {
+      "kicker": "DESTINO",
+      "title": "Parte do caixa já tem função",
+      "body": "Impostos, despesas e projetos futuros existem antes de aparecerem como débito."
+    },
+    {
+      "kicker": "TENSÃO",
+      "title": "Disponibilidade aparente induz excesso",
+      "body": "Uma nova compra pode ocupar recursos necessários em outra janela."
+    },
+    {
+      "kicker": "CAMADAS",
+      "title": "Separe operação e proteção",
+      "body": "Caixa corrente, reserva e capital de decisão cumprem papéis diferentes."
+    },
+    {
+      "kicker": "CALENDÁRIO",
+      "title": "Compromissos vencem em ritmos distintos",
+      "body": "Projetar entradas e saídas revela quando a liquidez se torna realmente livre."
+    },
+    {
+      "kicker": "MÉTODO",
+      "title": "Nomeie cada parcela do saldo",
+      "body": "Função, prazo e prioridade reduzem a chance de usar o mesmo recurso duas vezes."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Descubra o caixa realmente livre",
+      "body": "Converse com a Borelli Capital para organizar compromissos e margem."
+    }
+  ]
+}

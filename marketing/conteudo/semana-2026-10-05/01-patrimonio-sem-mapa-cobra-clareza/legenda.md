@@ -1,0 +1,3 @@
+Um patrimônio pode crescer e, ainda assim, ficar difícil de compreender. Ativos, dívidas, garantias, reservas e fontes de renda criam relações que nem sempre aparecem quando cada item é analisado isoladamente. Um mapa patrimonial não serve apenas para somar valores: ele mostra dependências, concentrações e decisões que disputam o mesmo caixa. A Borelli Capital organiza essas conexões para que o próximo movimento comece com uma leitura mais clara. Agende uma reunião para mapear a estrutura antes de ampliar compromissos. Conteúdo educativo; não constitui recomendação individual.
+
+#PlanejamentoPatrimonial #EducaçãoFinanceira #GestãoPatrimonial #DecisõesFinanceiras #EstratégiaPatrimonial #BorelliCapital
