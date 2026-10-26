@@ -12,7 +12,7 @@
       "sentAt": "2026-10-16T04:04:21.333Z",
       "externalLink": "https://www.instagram.com/p/DeiodJGnNci/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:51.689Z",
+      "statusCheckedAt": "2026-10-26T16:08:32.477Z",
       "publishNowRequestedAt": "2026-10-16T04:03:44.805Z",
       "shareMode": "shareNow"
     },
@@ -22,11 +22,11 @@
       "dueAt": "2026-10-17T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:15.672Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-17T16:05:35.413Z",
+      "externalLink": "https://www.instagram.com/p/Demfd8uFNeJ/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:51.893Z"
+      "statusCheckedAt": "2026-10-26T16:08:32.703Z"
     },
     {
       "slug": "03-prazo-de-grupo-molda-sua-escolha",
@@ -34,11 +34,11 @@
       "dueAt": "2026-10-18T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:17.251Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-18T16:04:37.906Z",
+      "externalLink": "https://www.instagram.com/p/DepETIElHFS/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:52.084Z"
+      "statusCheckedAt": "2026-10-26T16:08:32.897Z"
     },
     {
       "slug": "04-saldo-disponivel-pode-estar-comprometido",
@@ -46,11 +46,11 @@
       "dueAt": "2026-10-19T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:18.790Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-19T16:09:14.785Z",
+      "externalLink": "https://www.instagram.com/p/DerpXlgkbOH/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:52.281Z"
+      "statusCheckedAt": "2026-10-26T16:08:33.103Z"
     },
     {
       "slug": "05-comprar-cedo-pode-encarecer-a-espera",
@@ -58,11 +58,11 @@
       "dueAt": "2026-10-20T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:20.311Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:52.468Z"
+      "error": "There is an issue with the media included. Please remove it and try to upload it again.",
+      "statusCheckedAt": "2026-10-26T16:08:33.354Z"
     },
     {
       "slug": "06-prazo-longo-nao-e-risco-sozinho",
@@ -70,11 +70,11 @@
       "dueAt": "2026-10-21T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:21.806Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-21T16:12:43.725Z",
+      "externalLink": "https://www.instagram.com/p/DewzhglEdjH/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:52.655Z"
+      "statusCheckedAt": "2026-10-26T16:08:33.552Z"
     },
     {
       "slug": "07-restricoes-tambem-orientam-boas-decisoes",
@@ -82,11 +82,11 @@
       "dueAt": "2026-10-22T16:00:00.000Z",
       "assets": 7,
       "scheduledAt": "2026-10-16T04:03:23.431Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-22T16:11:57.967Z",
+      "externalLink": "https://www.instagram.com/p/DezYFW6lY7j/",
       "error": null,
-      "statusCheckedAt": "2026-10-16T04:04:52.846Z"
+      "statusCheckedAt": "2026-10-26T16:08:33.811Z"
     }
   ]
 }
