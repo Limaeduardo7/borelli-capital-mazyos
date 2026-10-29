@@ -1,0 +1,39 @@
+{
+  "slug": "renda-variavel",
+  "theme": "Dinheiro disponível: orçamento com renda variável",
+  "category": "ORÇAMENTO",
+  "hook": "Sua renda muda. A parcela fica.",
+  "caption": "Uma média de renda pode esconder meses em que entra pouco dinheiro. Para quem recebe por projeto, comissão ou temporada, as datas de recebimento também importam. Não existe uma parcela ideal para todas as pessoas. Custos, reserva e estabilidade da renda precisam ser considerados juntos. Conteúdo educativo. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+  "slides": [
+    {
+      "kicker": "ORÇAMENTO",
+      "title": "Sua renda muda. A parcela fica.",
+      "body": "Não use apenas o melhor mês de renda para decidir quanto consegue pagar."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Olhe um período maior",
+      "body": "Reúna os valores realmente recebidos e as despesas. Identifique meses fracos e gastos que se repetem."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Separe trabalho e vida pessoal",
+      "body": "Quem trabalha por conta própria precisa reservar também dinheiro para despesas e impostos do negócio."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Crie espaço para meses fracos",
+      "body": "Uma reserva ajuda, mas não torna uma parcela alta sustentável por tempo indefinido."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Teste antes de assinar",
+      "body": "Veja como ficariam as contas com renda menor. Inclua reajustes e outros compromissos previstos no contrato."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Encontre um compromisso possível",
+      "body": "Quer revisar suas contas antes de assumir parcelas? Agende uma reunião com a Borelli Capital."
+    }
+  ]
+}

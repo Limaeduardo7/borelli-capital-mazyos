@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-11-02",
+  "channelId": "6ad03a70778b240e2f12324b",
+  "posts": [
+    {
+      "slug": "01-imovel-herdado",
+      "bufferPostId": "6ae37ba6100d70c22b89d5fe",
+      "dueAt": "2026-10-30T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:22.919Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:44.292Z"
+    },
+    {
+      "slug": "02-comparar-propostas",
+      "bufferPostId": "6ae37ba9100d70c22b89d8e6",
+      "dueAt": "2026-10-31T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:25.692Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:44.495Z"
+    },
+    {
+      "slug": "03-lance-nao-garante",
+      "bufferPostId": "6ae37bab03ff312c092690a4",
+      "dueAt": "2026-11-01T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:27.676Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:44.705Z"
+    },
+    {
+      "slug": "04-renda-variavel",
+      "bufferPostId": "6ae37bad03ff312c0926929c",
+      "dueAt": "2026-11-02T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:29.734Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:45.121Z"
+    },
+    {
+      "slug": "05-reforma-na-compra",
+      "bufferPostId": "6ae37bafd620628a0e7e7dc9",
+      "dueAt": "2026-11-03T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:32.078Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:45.379Z"
+    },
+    {
+      "slug": "06-aluguel-e-compra",
+      "bufferPostId": "6ae37bb13361c982e45d1e31",
+      "dueAt": "2026-11-04T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:33.845Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:45.592Z"
+    },
+    {
+      "slug": "07-metas-do-casal",
+      "bufferPostId": "6ae37bb3e21785fad769e463",
+      "dueAt": "2026-11-05T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-10-29T17:00:36.046Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-10-29T17:00:45.804Z"
+    }
+  ]
+}

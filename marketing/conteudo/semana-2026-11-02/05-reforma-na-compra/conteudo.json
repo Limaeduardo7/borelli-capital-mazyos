@@ -1,0 +1,39 @@
+{
+  "slug": "reforma-na-compra",
+  "theme": "Decisão de compra: orçamento de reforma antes do imóvel",
+  "category": "COMPRA DE IMÓVEL",
+  "hook": "O preço do imóvel inclui a reforma?",
+  "caption": "Um imóvel que precisa de obra pode exigir mais dinheiro antes de ficar pronto para uso. A avaliação técnica e os orçamentos ajudam a reduzir incertezas, mas não eliminam imprevistos. Documentação, tributos e condições de financiamento variam em cada caso. Conteúdo educativo, sem recomendação individual de compra. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+  "slides": [
+    {
+      "kicker": "COMPRA DE IMÓVEL",
+      "title": "O preço do imóvel inclui a reforma?",
+      "body": "Além do preço anunciado, estime documentação, mudança e obras necessárias antes de usar o imóvel."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Avalie antes de fechar",
+      "body": "Peça avaliação técnica quando necessária. Uma visita rápida pode não revelar problemas de instalação ou estrutura."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Detalhe o orçamento da obra",
+      "body": "Separe materiais, mão de obra e serviços. Compare escopos iguais, não apenas o valor final."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Considere o tempo sem uso",
+      "body": "Durante a reforma, você pode continuar pagando aluguel e assumir despesas do novo imóvel."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Não trate estimativa como certeza",
+      "body": "Obras podem atrasar ou custar mais. Deixe margem no orçamento sem consumir a reserva de emergência."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Veja a compra por inteiro",
+      "body": "Quer avaliar o impacto da compra nas suas contas? Agende uma reunião com a Borelli Capital."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "lance-nao-garante",
+  "theme": "Consórcio: lance e incerteza da contemplação",
+  "category": "CONSÓRCIO",
+  "hook": "Dar um lance não garante a compra",
+  "caption": "O resultado de lances anteriores não garante contemplação futura. Antes de ofertar, leia as regras do grupo e confirme os efeitos sobre o crédito disponível e as parcelas. Mesmo após a contemplação, há exigências da administradora para usar o crédito. Consórcio não assegura compra imediata nem ausência de custos. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+  "slides": [
+    {
+      "kicker": "CONSÓRCIO",
+      "title": "Dar um lance não garante a compra",
+      "body": "No consórcio, a liberação do crédito depende de contemplação por sorteio ou lance, conforme as regras do grupo."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Não comprometa a reserva",
+      "body": "Defina quanto poderia oferecer sem faltar dinheiro para despesas e imprevistos."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Confira de onde sai o lance",
+      "body": "Se usar parte da própria carta no lance, o valor disponível para comprar pode diminuir, conforme o contrato."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "A parcela continua no plano",
+      "body": "O efeito do lance sobre prazo ou parcelas depende das regras. Confirme antes de fazer a oferta."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Considere custos e reajustes",
+      "body": "Há taxa de administração e podem existir outros encargos. Crédito e parcelas podem ser reajustados."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Planeje sem contar com uma data",
+      "body": "Quer avaliar se pode esperar? Agende uma reunião com a Borelli Capital."
+    }
+  ]
+}

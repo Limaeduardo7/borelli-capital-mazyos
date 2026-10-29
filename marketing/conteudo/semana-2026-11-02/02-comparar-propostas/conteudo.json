@@ -1,0 +1,39 @@
+{
+  "slug": "comparar-propostas",
+  "theme": "Crédito estratégico: comparação de propostas no mesmo valor e prazo",
+  "category": "CRÉDITO",
+  "hook": "Compare propostas além da taxa",
+  "caption": "Uma proposta só é comparável quando você sabe quanto recebe e quanto terá de devolver. Confira também condições que não aparecem na taxa em destaque. Se houver correção variável, o valor futuro pode mudar. A análise depende do contrato e da sua capacidade de pagamento. Conteúdo educativo, sem garantia de aprovação. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+  "slides": [
+    {
+      "kicker": "CRÉDITO",
+      "title": "Compare propostas além da taxa",
+      "body": "Peça o valor total a pagar, com juros, tarifas, impostos e seguros aplicáveis."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Use a mesma base",
+      "body": "Compare propostas para o mesmo valor recebido, entrada e prazo. Diferenças podem esconder o custo."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Peça o custo completo",
+      "body": "O Custo Efetivo Total, ou CET, reúne os encargos da operação. Peça esse dado por escrito."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Confira as datas de pagamento",
+      "body": "Veja quando começa a cobrança e se as parcelas mudam. O custo deve caber também nos meses apertados."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Leia as condições da oferta",
+      "body": "A aprovação depende de análise. Confira garantias, cobranças e o que ocorre se houver atraso."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Leve as propostas para conversar",
+      "body": "Quer organizar essa comparação? Agende uma reunião com a Borelli Capital."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "imovel-herdado",
+  "theme": "Educação patrimonial: custos de manter um imóvel recebido",
+  "category": "IMÓVEL E FAMÍLIA",
+  "hook": "Recebeu um imóvel? Veja os custos",
+  "caption": "Um bem recebido pode mudar o orçamento da família antes de gerar qualquer renda. Reúna os gastos atuais, as necessidades de reparo e as regras de uso entre os envolvidos. Custos legais e tributários variam; consulte profissionais habilitados para essas questões. Este conteúdo é educativo, não uma recomendação individual. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+  "slides": [
+    {
+      "kicker": "IMÓVEL E FAMÍLIA",
+      "title": "Recebeu um imóvel? Veja os custos",
+      "body": "Antes de decidir o destino, liste os gastos que continuam mesmo sem uso."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Comece pelos gastos fixos",
+      "body": "Condomínio, imposto e manutenção precisam caber no orçamento de quem vai pagar."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Separe dinheiro para reparos",
+      "body": "Um imóvel fechado também pode precisar de cuidados. Faça uma avaliação antes de estimar custos."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Alugar não elimina as despesas",
+      "body": "Pode haver meses sem inquilino, reparos e impostos. O aluguel recebido não é todo dinheiro livre."
+    },
+    {
+      "kicker": "PARA AVALIAR",
+      "title": "Decida com os demais envolvidos",
+      "body": "Se houver outros proprietários, combinem uso, despesas e responsabilidades. Questões legais pedem orientação própria."
+    },
+    {
+      "kicker": "PRÓXIMO PASSO",
+      "title": "Planeje o destino desse imóvel",
+      "body": "Quer entender como esse imóvel entra nos seus planos? Agende uma reunião com a Borelli Capital."
+    }
+  ]
+}

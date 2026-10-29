@@ -1,0 +1,278 @@
+{
+  "weekStart": "2026-11-02",
+  "carousels": [
+    {
+      "slug": "imovel-herdado",
+      "theme": "Educação patrimonial: custos de manter um imóvel recebido",
+      "category": "IMÓVEL E FAMÍLIA",
+      "hook": "Recebeu um imóvel? Veja os custos",
+      "caption": "Um bem recebido pode mudar o orçamento da família antes de gerar qualquer renda. Reúna os gastos atuais, as necessidades de reparo e as regras de uso entre os envolvidos. Custos legais e tributários variam; consulte profissionais habilitados para essas questões. Este conteúdo é educativo, não uma recomendação individual. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "IMÓVEL E FAMÍLIA",
+          "title": "Recebeu um imóvel? Veja os custos",
+          "body": "Antes de decidir o destino, liste os gastos que continuam mesmo sem uso."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Comece pelos gastos fixos",
+          "body": "Condomínio, imposto e manutenção precisam caber no orçamento de quem vai pagar."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Separe dinheiro para reparos",
+          "body": "Um imóvel fechado também pode precisar de cuidados. Faça uma avaliação antes de estimar custos."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Alugar não elimina as despesas",
+          "body": "Pode haver meses sem inquilino, reparos e impostos. O aluguel recebido não é todo dinheiro livre."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Decida com os demais envolvidos",
+          "body": "Se houver outros proprietários, combinem uso, despesas e responsabilidades. Questões legais pedem orientação própria."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Planeje o destino desse imóvel",
+          "body": "Quer entender como esse imóvel entra nos seus planos? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "comparar-propostas",
+      "theme": "Crédito estratégico: comparação de propostas no mesmo valor e prazo",
+      "category": "CRÉDITO",
+      "hook": "Compare propostas além da taxa",
+      "caption": "Uma proposta só é comparável quando você sabe quanto recebe e quanto terá de devolver. Confira também condições que não aparecem na taxa em destaque. Se houver correção variável, o valor futuro pode mudar. A análise depende do contrato e da sua capacidade de pagamento. Conteúdo educativo, sem garantia de aprovação. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "CRÉDITO",
+          "title": "Compare propostas além da taxa",
+          "body": "Peça o valor total a pagar, com juros, tarifas, impostos e seguros aplicáveis."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Use a mesma base",
+          "body": "Compare propostas para o mesmo valor recebido, entrada e prazo. Diferenças podem esconder o custo."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Peça o custo completo",
+          "body": "O Custo Efetivo Total, ou CET, reúne os encargos da operação. Peça esse dado por escrito."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Confira as datas de pagamento",
+          "body": "Veja quando começa a cobrança e se as parcelas mudam. O custo deve caber também nos meses apertados."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Leia as condições da oferta",
+          "body": "A aprovação depende de análise. Confira garantias, cobranças e o que ocorre se houver atraso."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Leve as propostas para conversar",
+          "body": "Quer organizar essa comparação? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "lance-nao-garante",
+      "theme": "Consórcio: lance e incerteza da contemplação",
+      "category": "CONSÓRCIO",
+      "hook": "Dar um lance não garante a compra",
+      "caption": "O resultado de lances anteriores não garante contemplação futura. Antes de ofertar, leia as regras do grupo e confirme os efeitos sobre o crédito disponível e as parcelas. Mesmo após a contemplação, há exigências da administradora para usar o crédito. Consórcio não assegura compra imediata nem ausência de custos. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "CONSÓRCIO",
+          "title": "Dar um lance não garante a compra",
+          "body": "No consórcio, a liberação do crédito depende de contemplação por sorteio ou lance, conforme as regras do grupo."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Não comprometa a reserva",
+          "body": "Defina quanto poderia oferecer sem faltar dinheiro para despesas e imprevistos."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Confira de onde sai o lance",
+          "body": "Se usar parte da própria carta no lance, o valor disponível para comprar pode diminuir, conforme o contrato."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "A parcela continua no plano",
+          "body": "O efeito do lance sobre prazo ou parcelas depende das regras. Confirme antes de fazer a oferta."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Considere custos e reajustes",
+          "body": "Há taxa de administração e podem existir outros encargos. Crédito e parcelas podem ser reajustados."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Planeje sem contar com uma data",
+          "body": "Quer avaliar se pode esperar? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "renda-variavel",
+      "theme": "Dinheiro disponível: orçamento com renda variável",
+      "category": "ORÇAMENTO",
+      "hook": "Sua renda muda. A parcela fica.",
+      "caption": "Uma média de renda pode esconder meses em que entra pouco dinheiro. Para quem recebe por projeto, comissão ou temporada, as datas de recebimento também importam. Não existe uma parcela ideal para todas as pessoas. Custos, reserva e estabilidade da renda precisam ser considerados juntos. Conteúdo educativo. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "ORÇAMENTO",
+          "title": "Sua renda muda. A parcela fica.",
+          "body": "Não use apenas o melhor mês de renda para decidir quanto consegue pagar."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Olhe um período maior",
+          "body": "Reúna os valores realmente recebidos e as despesas. Identifique meses fracos e gastos que se repetem."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Separe trabalho e vida pessoal",
+          "body": "Quem trabalha por conta própria precisa reservar também dinheiro para despesas e impostos do negócio."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Crie espaço para meses fracos",
+          "body": "Uma reserva ajuda, mas não torna uma parcela alta sustentável por tempo indefinido."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Teste antes de assinar",
+          "body": "Veja como ficariam as contas com renda menor. Inclua reajustes e outros compromissos previstos no contrato."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Encontre um compromisso possível",
+          "body": "Quer revisar suas contas antes de assumir parcelas? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "reforma-na-compra",
+      "theme": "Decisão de compra: orçamento de reforma antes do imóvel",
+      "category": "COMPRA DE IMÓVEL",
+      "hook": "O preço do imóvel inclui a reforma?",
+      "caption": "Um imóvel que precisa de obra pode exigir mais dinheiro antes de ficar pronto para uso. A avaliação técnica e os orçamentos ajudam a reduzir incertezas, mas não eliminam imprevistos. Documentação, tributos e condições de financiamento variam em cada caso. Conteúdo educativo, sem recomendação individual de compra. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "COMPRA DE IMÓVEL",
+          "title": "O preço do imóvel inclui a reforma?",
+          "body": "Além do preço anunciado, estime documentação, mudança e obras necessárias antes de usar o imóvel."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Avalie antes de fechar",
+          "body": "Peça avaliação técnica quando necessária. Uma visita rápida pode não revelar problemas de instalação ou estrutura."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Detalhe o orçamento da obra",
+          "body": "Separe materiais, mão de obra e serviços. Compare escopos iguais, não apenas o valor final."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Considere o tempo sem uso",
+          "body": "Durante a reforma, você pode continuar pagando aluguel e assumir despesas do novo imóvel."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Não trate estimativa como certeza",
+          "body": "Obras podem atrasar ou custar mais. Deixe margem no orçamento sem consumir a reserva de emergência."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Veja a compra por inteiro",
+          "body": "Quer avaliar o impacto da compra nas suas contas? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "aluguel-e-compra",
+      "theme": "Objeção: aluguel enquanto se prepara uma compra",
+      "category": "MORADIA",
+      "hook": "Aluguel é sempre dinheiro perdido?",
+      "caption": "A escolha entre alugar e comprar envolve orçamento, tempo de permanência e necessidades de moradia. Nem o aluguel é sempre desperdício, nem a compra é sempre o melhor caminho. Evite decidir apenas pela pressão de ter um imóvel próprio. Os custos e riscos precisam ser avaliados em cada situação. Conteúdo educativo. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "MORADIA",
+          "title": "Aluguel é sempre dinheiro perdido?",
+          "body": "Ele atende à moradia sem exigir a compra agora. Isso não torna alugar sempre melhor."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Comprar também tem despesas",
+          "body": "Além das parcelas, considere entrada, documentação, manutenção e demais gastos do imóvel."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Pense no tempo de permanência",
+          "body": "Se sua cidade ou trabalho pode mudar, avalie o custo e o prazo para vender um imóvel depois."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Compare situações parecidas",
+          "body": "Use imóveis semelhantes e custos completos. Não compare só aluguel com parcela."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Não conte com valorização certa",
+          "body": "O preço de venda pode mudar. Comprar exige capacidade de manter o imóvel mesmo se os planos mudarem."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Escolha pelo seu momento",
+          "body": "Quer comparar morar de aluguel e comprar com calma? Agende uma reunião com a Borelli Capital."
+        }
+      ]
+    },
+    {
+      "slug": "metas-do-casal",
+      "theme": "Convite consultivo: conciliar objetivos financeiros da família",
+      "category": "PLANOS EM FAMÍLIA",
+      "hook": "Dois planos disputam o mesmo dinheiro?",
+      "caption": "Quando a família tem mais de um objetivo, somar os desejos não basta: é preciso enxergar de onde sairá o dinheiro e quando cada gasto vai acontecer. A conversa deve incluir limites, responsabilidades e o que será revisto se a renda mudar. O planejamento não elimina riscos nem garante resultados. Conteúdo educativo. Para conversar sobre seu planejamento, agende uma reunião com a Borelli Capital.\n\n#BorelliCapital #PlanejamentoFinanceiro #EducacaoFinanceira #Patrimonio #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "PLANOS EM FAMÍLIA",
+          "title": "Dois planos disputam o mesmo dinheiro?",
+          "body": "Uma reforma e uma troca de carro podem usar a mesma reserva. Vejam isso antes de assumir parcelas."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Definam o que não pode esperar",
+          "body": "Separem necessidades, compromissos já assumidos e desejos. Nem tudo precisa acontecer ao mesmo tempo."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Combinem um limite de gastos",
+          "body": "Decidam quanto pode sair do orçamento sem comprometer despesas essenciais e proteção para imprevistos."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Escolham uma ordem possível",
+          "body": "Adiar um objetivo pode abrir espaço para outro. Rever o prazo é diferente de desistir do plano."
+        },
+        {
+          "kicker": "PARA AVALIAR",
+          "title": "Revisem quando a vida mudar",
+          "body": "Mudanças na renda ou na família pedem uma nova conversa antes de aumentar os compromissos."
+        },
+        {
+          "kicker": "PRÓXIMO PASSO",
+          "title": "Transformem prioridades em um plano",
+          "body": "Querem organizar essas escolhas? Agendem uma reunião com a Borelli Capital."
+        }
+      ]
+    }
+  ]
+}
