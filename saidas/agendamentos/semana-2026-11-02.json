@@ -5,14 +5,16 @@
     {
       "slug": "01-imovel-herdado",
       "bufferPostId": "6ae37ba6100d70c22b89d5fe",
-      "dueAt": "2026-10-30T16:00:00.000Z",
+      "dueAt": "2026-10-29T17:05:35.442Z",
       "assets": 6,
       "scheduledAt": "2026-10-29T17:00:22.919Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-29T17:09:22.452Z",
+      "externalLink": "https://www.instagram.com/p/DfFgilTmmUp/",
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:44.292Z"
+      "statusCheckedAt": "2026-10-30T14:01:37.718Z",
+      "publishNowRequestedAt": "2026-10-29T17:05:45.736Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "02-comparar-propostas",
@@ -24,7 +26,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:44.495Z"
+      "statusCheckedAt": "2026-10-30T14:01:37.925Z"
     },
     {
       "slug": "03-lance-nao-garante",
@@ -36,7 +38,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:44.705Z"
+      "statusCheckedAt": "2026-10-30T14:01:38.113Z"
     },
     {
       "slug": "04-renda-variavel",
@@ -48,7 +50,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:45.121Z"
+      "statusCheckedAt": "2026-10-30T14:01:38.308Z"
     },
     {
       "slug": "05-reforma-na-compra",
@@ -60,7 +62,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:45.379Z"
+      "statusCheckedAt": "2026-10-30T14:01:38.480Z"
     },
     {
       "slug": "06-aluguel-e-compra",
@@ -72,7 +74,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:45.592Z"
+      "statusCheckedAt": "2026-10-30T14:01:38.678Z"
     },
     {
       "slug": "07-metas-do-casal",
@@ -84,7 +86,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-29T17:00:45.804Z"
+      "statusCheckedAt": "2026-10-30T14:01:38.848Z"
     }
   ]
 }
