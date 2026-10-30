@@ -12,21 +12,23 @@
       "sentAt": "2026-10-29T17:09:22.452Z",
       "externalLink": "https://www.instagram.com/p/DfFgilTmmUp/",
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:16.664Z",
+      "statusCheckedAt": "2026-10-30T16:50:24.447Z",
       "publishNowRequestedAt": "2026-10-29T17:05:45.736Z",
       "shareMode": "shareNow"
     },
     {
       "slug": "02-comparar-propostas",
       "bufferPostId": "6ae37ba9100d70c22b89d8e6",
-      "dueAt": "2026-10-31T16:00:00.000Z",
+      "dueAt": "2026-10-30T16:49:29.749Z",
       "assets": 6,
       "scheduledAt": "2026-10-29T17:00:25.692Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-10-30T16:50:12.336Z",
+      "externalLink": "https://www.instagram.com/p/DfIDOFbIPCt/",
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:16.886Z"
+      "statusCheckedAt": "2026-10-30T16:50:24.677Z",
+      "publishNowRequestedAt": "2026-10-30T16:49:40.044Z",
+      "shareMode": "shareNow"
     },
     {
       "slug": "03-lance-nao-garante",
@@ -38,7 +40,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:17.093Z"
+      "statusCheckedAt": "2026-10-30T16:50:24.870Z"
     },
     {
       "slug": "04-renda-variavel",
@@ -50,7 +52,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:17.408Z"
+      "statusCheckedAt": "2026-10-30T16:50:25.133Z"
     },
     {
       "slug": "05-reforma-na-compra",
@@ -62,7 +64,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:17.611Z"
+      "statusCheckedAt": "2026-10-30T16:50:25.326Z"
     },
     {
       "slug": "06-aluguel-e-compra",
@@ -74,7 +76,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:17.828Z"
+      "statusCheckedAt": "2026-10-30T16:50:25.527Z"
     },
     {
       "slug": "07-metas-do-casal",
@@ -86,7 +88,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-30T16:11:18.038Z"
+      "statusCheckedAt": "2026-10-30T16:50:25.740Z"
     }
   ]
 }
