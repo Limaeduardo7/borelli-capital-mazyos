@@ -12,7 +12,7 @@
       "sentAt": "2026-10-29T17:09:22.452Z",
       "externalLink": "https://www.instagram.com/p/DfFgilTmmUp/",
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:36.717Z",
+      "statusCheckedAt": "2026-11-01T14:01:53.147Z",
       "publishNowRequestedAt": "2026-10-29T17:05:45.736Z",
       "shareMode": "shareNow"
     },
@@ -26,7 +26,7 @@
       "sentAt": "2026-10-30T16:50:12.336Z",
       "externalLink": "https://www.instagram.com/p/DfIDOFbIPCt/",
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:36.918Z",
+      "statusCheckedAt": "2026-11-01T14:01:53.347Z",
       "publishNowRequestedAt": "2026-10-30T16:49:40.044Z",
       "shareMode": "shareNow"
     },
@@ -40,7 +40,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:37.139Z"
+      "statusCheckedAt": "2026-11-01T14:01:53.547Z"
     },
     {
       "slug": "04-renda-variavel",
@@ -52,7 +52,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:37.312Z"
+      "statusCheckedAt": "2026-11-01T14:01:53.741Z"
     },
     {
       "slug": "05-reforma-na-compra",
@@ -64,7 +64,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:37.504Z"
+      "statusCheckedAt": "2026-11-01T14:01:53.947Z"
     },
     {
       "slug": "06-aluguel-e-compra",
@@ -76,7 +76,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:37.675Z"
+      "statusCheckedAt": "2026-11-01T14:01:54.169Z"
     },
     {
       "slug": "07-metas-do-casal",
@@ -88,7 +88,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-10-31T16:11:37.879Z"
+      "statusCheckedAt": "2026-11-01T14:01:54.430Z"
     }
   ]
 }
