@@ -1,0 +1,278 @@
+{
+  "weekStart": "2026-11-09",
+  "carousels": [
+    {
+      "slug": "contas-da-empresa",
+      "theme": "Educação patrimonial: separar decisões da empresa e da família",
+      "category": "EMPRESA E FAMÍLIA",
+      "hook": "O caixa da empresa paga sua casa?",
+      "caption": "Retiradas pessoais sem previsão no orçamento empresarial. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "EMPRESA E FAMÍLIA",
+          "title": "O caixa da empresa paga sua casa?",
+          "body": "Quando despesas pessoais saem da conta da empresa, fica mais difícil entender quanto cada parte pode gastar."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Separe os compromissos",
+          "body": "Liste as contas da casa e as da empresa em registros diferentes. Marque as transferências entre elas para não contar o mesmo dinheiro duas vezes."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Nem toda entrada está livre",
+          "body": "Antes de retirar dinheiro, confira fornecedores, impostos, salários e outros pagamentos previstos. O saldo de hoje não mostra sozinho esses compromissos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Combine as retiradas",
+          "body": "Defina com seu contador como registrar e organizar as retiradas. Considere o orçamento da família sem comprometer as obrigações da empresa."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Teste antes de comprar",
+          "body": "Se uma compra pessoal depende de tirar mais dinheiro da empresa, refaça os dois orçamentos. Uma parcela não deve esconder a falta de dinheiro do negócio."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "Dois orçamentos, uma decisão",
+          "body": "Separar as contas ajuda a enxergar os limites de cada uma. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "casa-como-garantia",
+      "theme": "Crédito estratégico: risco da casa usada como garantia",
+      "category": "CRÉDITO",
+      "hook": "Sua casa pode garantir essa dívida?",
+      "caption": "Usar a própria moradia como garantia para contratar crédito. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "CRÉDITO",
+          "title": "Sua casa pode garantir essa dívida?",
+          "body": "Antes de oferecer o imóvel como garantia, avalie o que acontece se a renda não sustentar os pagamentos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "O imóvel entra no risco",
+          "body": "A falta de pagamento pode levar à perda do imóvel dado em garantia, conforme o contrato e a lei. Uma parcela menor não elimina esse risco."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Defina a finalidade",
+          "body": "Escreva para que o dinheiro será usado e como a dívida será paga. Não trate uma receita futura incerta como pagamento já garantido."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Confira todos os gastos",
+          "body": "Peça o custo total da operação, incluindo juros, tributos e despesas aplicáveis. Verifique também avaliação, registro e condições de atraso na proposta."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Compare sem pressa",
+          "body": "Compare a proposta com reduzir a compra ou adiar a decisão. Crédito depende de análise e aprovação; o imóvel, sozinho, não garante a contratação."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "A parcela não conta tudo",
+          "body": "Antes de comprometer a casa, avalie custo, prazo e capacidade de pagamento. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "reajuste-do-consorcio",
+      "theme": "Consórcio: entender mudanças da parcela antes de aderir",
+      "category": "CONSÓRCIO",
+      "hook": "A parcela do consórcio pode mudar?",
+      "caption": "Avaliar uma proposta de consórcio pelo valor inicial. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "CONSÓRCIO",
+          "title": "A parcela do consórcio pode mudar?",
+          "body": "Antes de entrar em um grupo, entenda como o contrato prevê a atualização do crédito e dos pagamentos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Peça a regra por escrito",
+          "body": "Verifique o critério e a frequência de atualização previstos no contrato. Não faça o orçamento de vários anos olhando apenas a primeira parcela."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Entenda a composição",
+          "body": "Confira taxa de administração, fundo de reserva e seguro, quando previstos. Consórcio tem custos; a prestação precisa ser lida por inteiro."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Teste o orçamento",
+          "body": "Peça uma simulação que explique como uma atualização afetaria o pagamento. Simulação não prevê o futuro: serve para testar se haverá espaço no orçamento."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "O prazo também importa",
+          "body": "A contemplação ocorre por sorteio ou lance, sem garantia de data. Se a compra tem prazo obrigatório, essa incerteza precisa entrar na decisão."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "Leia além da primeira parcela",
+          "body": "Custos, atualizações e espera precisam caber no plano. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "venda-a-prazo",
+      "theme": "Dinheiro disponível: diferença entre venda e recebimento",
+      "category": "DINHEIRO DISPONÍVEL",
+      "hook": "Vendeu hoje, mas recebe depois?",
+      "caption": "Fornecedores vencem antes do recebimento dos clientes. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "DINHEIRO DISPONÍVEL",
+          "title": "Vendeu hoje, mas recebe depois?",
+          "body": "Uma venda a prazo pode aumentar o movimento sem trazer dinheiro a tempo de pagar os próximos compromissos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Coloque as datas lado a lado",
+          "body": "Liste quando os clientes devem pagar e quando fornecedores e outras contas vencem. Marque os intervalos em que pode faltar dinheiro."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Considere os atrasos",
+          "body": "Faça também um cenário com recebimentos mais lentos. Não conte com cada pagamento chegando no dia exato para manter as contas em ordem."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Negocie antes do vencimento",
+          "body": "Avalie prazos com clientes e fornecedores. Uma mudança de prazo só ajuda se as condições, os custos e o risco de atraso forem aceitáveis."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Antecipar também tem custo",
+          "body": "Se considerar antecipar recebimentos, compare o valor líquido recebido com as taxas e condições. Evite transformar a antecipação em obrigação todo mês."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "Olhe as datas, não só as vendas",
+          "body": "Um calendário de recebimentos e pagamentos mostra onde o dinheiro pode faltar. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "imovel-sem-inquilino",
+      "theme": "Decisão de compra: suportar um imóvel sem aluguel",
+      "category": "COMPRA DE IMÓVEL",
+      "hook": "E se o imóvel ficar sem inquilino?",
+      "caption": "Comprar imóvel contando com aluguel imediato. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "COMPRA DE IMÓVEL",
+          "title": "E se o imóvel ficar sem inquilino?",
+          "body": "Ao comprar para alugar, teste também o período sem receita. Encontrar um inquilino pode levar mais tempo do que o planejado."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Faça a conta sem aluguel",
+          "body": "Liste os gastos que continuarão enquanto o imóvel estiver vazio. Inclua parcela, condomínio, tributos e manutenção que forem sua responsabilidade."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Separe pedido e receita",
+          "body": "O aluguel anunciado não é receita garantida. Pesquise imóveis semelhantes e considere negociação, despesas de administração e períodos sem ocupação."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Proteja as outras contas",
+          "body": "Veja por quanto tempo você consegue manter o imóvel sem usar dinheiro necessário à casa ou ao negócio. Não existe um prazo único adequado para todos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Teste uma compra menor",
+          "body": "Se o plano só funciona com aluguel imediato, avalie reduzir o valor da compra ou esperar. Inclua custos de aquisição e eventual crédito na comparação."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "O imóvel precisa caber vazio",
+          "body": "A decisão deve suportar a espera, não apenas o cenário de aluguel cheio. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "limite-aprovado",
+      "theme": "Objeção: crédito aprovado não define o orçamento da família",
+      "category": "DECISÃO DE CRÉDITO",
+      "hook": "Limite aprovado não é orçamento de compra",
+      "caption": "Usar o valor máximo aprovado como meta de gasto. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "DECISÃO DE CRÉDITO",
+          "title": "Limite aprovado não é orçamento de compra",
+          "body": "Uma instituição pode oferecer mais crédito do que você precisa. O valor da compra deve começar pelo seu objetivo e pelas suas contas."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Defina o necessário",
+          "body": "Descreva o que a compra precisa resolver. Diferencie necessidades de extras antes de usar o limite disponível como referência de preço."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Some os compromissos",
+          "body": "Inclua as parcelas que já existem, despesas anuais e gastos da casa. A nova prestação não será o único pagamento dos próximos meses."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Deixe espaço para imprevistos",
+          "body": "Teste o orçamento com uma despesa inesperada ou menos renda. O valor aprovado não substitui essa análise feita com as suas prioridades."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Confira o custo do crédito",
+          "body": "Peça o valor total a pagar, taxas, tributos e condições. Se o custo apertar o orçamento, avalie uma compra menor ou adiar a contratação."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "Seu limite começa nas suas contas",
+          "body": "Comprar abaixo do valor oferecido também é uma escolha possível. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    },
+    {
+      "slug": "calendario-das-dividas",
+      "theme": "Convite consultivo: organizar vencimentos antes de renegociar",
+      "category": "ORGANIZAÇÃO FINANCEIRA",
+      "hook": "Suas parcelas vencem antes da renda?",
+      "caption": "Recebimento e vencimentos em datas diferentes. O primeiro passo é entender os compromissos existentes e as condições de cada alternativa. Este conteúdo é educativo e não substitui uma análise individual.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Patrimonio #EducacaoFinanceira #DecisoesFinanceiras",
+      "slides": [
+        {
+          "kicker": "ORGANIZAÇÃO FINANCEIRA",
+          "title": "Suas parcelas vencem antes da renda?",
+          "body": "Antes de buscar outra dívida, descubra se o problema é falta de dinheiro no mês ou desencontro entre as datas."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Monte um calendário",
+          "body": "Anote receitas esperadas, vencimentos e valores das parcelas. Inclua as contas da casa para enxergar todos os compromissos, não só os empréstimos."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Separe dois problemas",
+          "body": "Se a renda não cobre as despesas do mês, mudar o vencimento não resolve sozinho. Se o dinheiro chega depois, vale avaliar alternativas de datas."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Mudanças precisam de confirmação",
+          "body": "Consulte a instituição sobre a possibilidade de mudar o vencimento. Peça por escrito as condições, eventuais custos e a data a partir da qual a mudança vale."
+        },
+        {
+          "kicker": "O QUE AVALIAR",
+          "title": "Não troque sem comparar",
+          "body": "Se houver proposta de renegociação, confira prazo, parcelas e total a pagar. Uma prestação menor pode vir acompanhada de mais tempo e maior custo."
+        },
+        {
+          "kicker": "SÍNTESE",
+          "title": "O diagnóstico vem antes do contrato",
+          "body": "Organizar valores e datas ajuda a escolher o que precisa mudar. Converse com a Borelli para avaliar seu cenário."
+        }
+      ]
+    }
+  ]
+}
