@@ -1,0 +1,90 @@
+{
+  "weekStart": "2026-11-09",
+  "channelId": "6ad03a70778b240e2f12324b",
+  "posts": [
+    {
+      "slug": "01-contas-da-empresa",
+      "bufferPostId": "6aec8e30d8fec5bcb2db24e7",
+      "dueAt": "2026-11-06T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:09:52.539Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:11.823Z"
+    },
+    {
+      "slug": "02-casa-como-garantia",
+      "bufferPostId": "6aec8e320a5aa24b714bb65d",
+      "dueAt": "2026-11-07T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:09:54.165Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:12.073Z"
+    },
+    {
+      "slug": "03-reajuste-do-consorcio",
+      "bufferPostId": "6aec8e33bfdb27db17f2b5d9",
+      "dueAt": "2026-11-08T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:09:55.680Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:12.315Z"
+    },
+    {
+      "slug": "04-venda-a-prazo",
+      "bufferPostId": "6aec8e35d8fec5bcb2db261f",
+      "dueAt": "2026-11-09T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:09:57.201Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:12.523Z"
+    },
+    {
+      "slug": "05-imovel-sem-inquilino",
+      "bufferPostId": "6aec8e36368462a0c0e6e430",
+      "dueAt": "2026-11-10T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:09:58.693Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:12.733Z"
+    },
+    {
+      "slug": "06-limite-aprovado",
+      "bufferPostId": "6aec8e37d8fec5bcb2db26f7",
+      "dueAt": "2026-11-11T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:10:00.191Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:12.948Z"
+    },
+    {
+      "slug": "07-calendario-das-dividas",
+      "bufferPostId": "6aec8e397dcf8f3b736a0846",
+      "dueAt": "2026-11-12T16:00:00.000Z",
+      "assets": 6,
+      "scheduledAt": "2026-11-05T14:10:01.770Z",
+      "status": "scheduled",
+      "sentAt": null,
+      "externalLink": null,
+      "error": null,
+      "statusCheckedAt": "2026-11-05T14:10:13.166Z"
+    }
+  ]
+}

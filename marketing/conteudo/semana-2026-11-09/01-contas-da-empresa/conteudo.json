@@ -1,0 +1,39 @@
+{
+  "slug": "contas-da-empresa",
+  "theme": "Educação patrimonial: separar decisões da empresa e da família",
+  "category": "EMPRESA E FAMÍLIA",
+  "hook": "O caixa da empresa paga sua casa?",
+  "caption": "Uma compra da família pode afetar o negócio quando os dois dependem do mesmo saldo. Levar os dois orçamentos para uma análise ajuda a identificar esse conflito antes de assumir outra parcela. O registro das retiradas deve ser alinhado com o contador.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #PlanejamentoFinanceiro #Empreendedores #Patrimonio #EducacaoFinanceira",
+  "slides": [
+    {
+      "kicker": "EMPRESA E FAMÍLIA",
+      "title": "O caixa da empresa paga sua casa?",
+      "body": "Quando despesas pessoais saem da conta da empresa, fica mais difícil entender quanto cada parte pode gastar."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Separe os compromissos",
+      "body": "Liste as contas da casa e as da empresa em registros diferentes. Marque as transferências entre elas para não contar o mesmo dinheiro duas vezes."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Nem toda entrada está livre",
+      "body": "Antes de retirar dinheiro, confira fornecedores, impostos, salários e outros pagamentos previstos. O saldo de hoje não mostra sozinho esses compromissos."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Combine as retiradas",
+      "body": "Defina com seu contador como registrar e organizar as retiradas. Considere o orçamento da família sem comprometer as obrigações da empresa."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Teste antes de comprar",
+      "body": "Se uma compra pessoal depende de tirar mais dinheiro da empresa, refaça os dois orçamentos. Uma parcela não deve esconder a falta de dinheiro do negócio."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "Dois orçamentos, uma decisão",
+      "body": "Separar as contas ajuda a enxergar os limites de cada uma. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}

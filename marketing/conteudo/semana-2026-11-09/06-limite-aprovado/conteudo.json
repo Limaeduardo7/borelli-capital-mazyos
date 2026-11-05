@@ -1,0 +1,39 @@
+{
+  "slug": "limite-aprovado",
+  "theme": "Objeção: crédito aprovado não define o orçamento da família",
+  "category": "DECISÃO DE CRÉDITO",
+  "hook": "Limite aprovado não é orçamento de compra",
+  "caption": "Ter uma oferta de crédito não obriga você a usar o valor inteiro. A análise da compra deve considerar suas prioridades, e não apenas o limite informado pela instituição. Custos e condições precisam ser conferidos na proposta, sem presumir aprovação definitiva ou liberação.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #CreditoConsciente #OrcamentoFamiliar #PlanejamentoFinanceiro #EducacaoFinanceira",
+  "slides": [
+    {
+      "kicker": "DECISÃO DE CRÉDITO",
+      "title": "Limite aprovado não é orçamento de compra",
+      "body": "Uma instituição pode oferecer mais crédito do que você precisa. O valor da compra deve começar pelo seu objetivo e pelas suas contas."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Defina o necessário",
+      "body": "Descreva o que a compra precisa resolver. Diferencie necessidades de extras antes de usar o limite disponível como referência de preço."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Some os compromissos",
+      "body": "Inclua as parcelas que já existem, despesas anuais e gastos da casa. A nova prestação não será o único pagamento dos próximos meses."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Deixe espaço para imprevistos",
+      "body": "Teste o orçamento com uma despesa inesperada ou menos renda. O valor aprovado não substitui essa análise feita com as suas prioridades."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Confira o custo do crédito",
+      "body": "Peça o valor total a pagar, taxas, tributos e condições. Se o custo apertar o orçamento, avalie uma compra menor ou adiar a contratação."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "Seu limite começa nas suas contas",
+      "body": "Comprar abaixo do valor oferecido também é uma escolha possível. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}

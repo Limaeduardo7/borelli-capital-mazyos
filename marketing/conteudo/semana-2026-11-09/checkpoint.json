@@ -1,83 +1,25 @@
 {
-  "status": "blocked-before-render",
+  "status": "scheduled-and-live-audited",
   "createdAt": "2026-11-04",
+  "updatedAt": "2026-11-05T14:10:14Z",
   "weekStart": "2026-11-09",
   "proposedStartDate": "2026-11-06",
   "channelId": "6ad03a70778b240e2f12324b",
-  "queueCoverageDays": 2,
-  "bufferMutations": 0,
-  "generatedPhotos": 7,
-  "renderedSlides": 0,
-  "reason": "Verificação externa de afirmações financeiras não concluída: extrator indisponível, sites oficiais inacessíveis ou dependentes de JavaScript; não validar nem renderizar nem agendar antes da revisão.",
-  "additionalGate": "Template canônico adiciona CTA comercial fixo; revisar compatibilidade com CTA único e contextual, sem alterar posts antigos.",
-  "resume": "Reconsultar fila completa. Preservar fotos-fonte válidas e posts existentes. Concluir fontes e revisão editorial; derivar fundos, validar, renderizar e inspecionar antes de schedule.",
-  "reviews": [
-    {
-      "slug": "contas-da-empresa",
-      "publico": "Empresários",
-      "situacao": "Retiradas pessoais sem previsão no orçamento empresarial",
-      "mensagem": "Separar despesas antes de decidir uma retirada",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "casa-como-garantia",
-      "publico": "Proprietários de imóveis",
-      "situacao": "Usar a própria moradia como garantia para contratar crédito",
-      "mensagem": "Avaliar o risco patrimonial além da parcela",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "reajuste-do-consorcio",
-      "publico": "Famílias planejando adquirir um imóvel",
-      "situacao": "Avaliar uma proposta de consórcio pelo valor inicial",
-      "mensagem": "Ler regras de atualização e custos antes de aderir",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "venda-a-prazo",
-      "publico": "Pequenos empresários",
-      "situacao": "Fornecedores vencem antes do recebimento dos clientes",
-      "mensagem": "Mapear datas para evitar falta de dinheiro entre pagamentos",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "imovel-sem-inquilino",
-      "publico": "Investidores em imóveis",
-      "situacao": "Comprar imóvel contando com aluguel imediato",
-      "mensagem": "Avaliar a capacidade de manter o imóvel desocupado",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "limite-aprovado",
-      "publico": "Famílias com proposta de crédito",
-      "situacao": "Usar o valor máximo aprovado como meta de gasto",
-      "mensagem": "Definir necessidade e orçamento antes de escolher o valor",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    },
-    {
-      "slug": "calendario-das-dividas",
-      "publico": "Profissionais com várias parcelas",
-      "situacao": "Recebimento e vencimentos em datas diferentes",
-      "mensagem": "Diagnosticar se falta renda ou se as datas estão desencontradas",
-      "estado": "rascunho-pendente-revisao",
-      "pontos_a_validar": "Conferência financeira em fonte oficial/aprovada; revisão da legenda; CTA do template; fotos, geometria e inspeção visual ainda pendentes."
-    }
-  ],
-  "sourcesAttempted": [
-    "https://www.bcb.gov.br/meubc/faqs/p/qualquer-um-pode-abrir-e-administrar-grupo-de-consorcio",
-    "https://www.caixa.gov.br/voce/credito-financiamento/emprestimo/emprestimo-com-garantia-de-imovel/Paginas/default.aspx",
-    "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm",
-    "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
-  ],
-  "approvedContext": [
-    "_memoria/empresa.md",
-    "_memoria/preferencias.md",
-    "_memoria/estrategia.md"
-  ]
+  "queueCoverageDaysBefore": 1,
+  "bufferMutationsThisRun": 7,
+  "confirmedScheduled": 7,
+  "queueCoverageDaysAfter": 8,
+  "ledger": "saidas/agendamentos/semana-2026-11-09.json",
+  "lastPublicationDate": "2026-11-12",
+  "generatedPhotosPreviousRun": 7,
+  "preservedPhotos": 7,
+  "renderedSlides": 42,
+  "validation": "passed",
+  "financialReview": "passed; official updated legislation retrieved from Camara dos Deputados",
+  "visualReview": "passed; seven contact sheets, all 42 slides inspected at mobile width",
+  "ctaReview": "same contact action in body, caption and fixed footer; no competing CTA",
+  "report": "revisao/relatorio-2026-11-05.md",
+  "queueSnapshot": "revisao/queue-after.json",
+  "previousBlocker": "Planato/BCB sources unavailable; resolved using official Camara PDFs. Fixed CTA reviewed in rendered content.",
+  "resume": "Completed batch: do not repeat schedule or render. Reconsult entire live queue and audit existing IDs only. Preserve healthy posts, photos and isolated user tests."
 }

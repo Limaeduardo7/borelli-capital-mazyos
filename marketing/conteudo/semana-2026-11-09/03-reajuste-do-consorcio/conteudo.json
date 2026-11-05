@@ -1,0 +1,39 @@
+{
+  "slug": "reajuste-do-consorcio",
+  "theme": "Consórcio: entender mudanças da parcela antes de aderir",
+  "category": "CONSÓRCIO",
+  "hook": "A parcela do consórcio pode mudar?",
+  "caption": "Se a primeira prestação já ocupa toda a sobra do mês, vale examinar o contrato antes de aderir. A análise precisa considerar as regras de atualização e o tempo que você pode esperar pela compra. Não existe garantia de data de contemplação por sorteio ou lance.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #Consorcio #PlanejamentoFinanceiro #CompraPlanejada #EducacaoFinanceira",
+  "slides": [
+    {
+      "kicker": "CONSÓRCIO",
+      "title": "A parcela do consórcio pode mudar?",
+      "body": "Antes de entrar em um grupo, entenda como o contrato prevê a atualização do crédito e dos pagamentos."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Peça a regra por escrito",
+      "body": "Verifique o critério e a frequência de atualização previstos no contrato. Não faça o orçamento de vários anos olhando apenas a primeira parcela."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Entenda a composição",
+      "body": "Confira taxa de administração, fundo de reserva e seguro, quando previstos. Consórcio tem custos; a prestação precisa ser lida por inteiro."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Teste o orçamento",
+      "body": "Peça uma simulação que explique como uma atualização afetaria o pagamento. Simulação não prevê o futuro: serve para testar se haverá espaço no orçamento."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "O prazo também importa",
+      "body": "A contemplação ocorre por sorteio ou lance, sem garantia de data. Se a compra tem prazo obrigatório, essa incerteza precisa entrar na decisão."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "Leia além da primeira parcela",
+      "body": "Custos, atualizações e espera precisam caber no plano. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}

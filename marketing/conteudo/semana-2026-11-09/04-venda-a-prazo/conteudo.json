@@ -1,0 +1,39 @@
+{
+  "slug": "venda-a-prazo",
+  "theme": "Dinheiro disponível: diferença entre venda e recebimento",
+  "category": "DINHEIRO DISPONÍVEL",
+  "hook": "Vendeu hoje, mas recebe depois?",
+  "caption": "O problema pode aparecer mesmo num mês de boas vendas: as contas vencem enquanto o dinheiro ainda está com os clientes. Antes de contratar crédito, uma análise das datas ajuda a separar uma falta temporária de dinheiro de despesas que as vendas não sustentam.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #GestaoFinanceira #Empreendedores #FluxoDeCaixa #PlanejamentoFinanceiro",
+  "slides": [
+    {
+      "kicker": "DINHEIRO DISPONÍVEL",
+      "title": "Vendeu hoje, mas recebe depois?",
+      "body": "Uma venda a prazo pode aumentar o movimento sem trazer dinheiro a tempo de pagar os próximos compromissos."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Coloque as datas lado a lado",
+      "body": "Liste quando os clientes devem pagar e quando fornecedores e outras contas vencem. Marque os intervalos em que pode faltar dinheiro."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Considere os atrasos",
+      "body": "Faça também um cenário com recebimentos mais lentos. Não conte com cada pagamento chegando no dia exato para manter as contas em ordem."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Negocie antes do vencimento",
+      "body": "Avalie prazos com clientes e fornecedores. Uma mudança de prazo só ajuda se as condições, os custos e o risco de atraso forem aceitáveis."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Antecipar também tem custo",
+      "body": "Se considerar antecipar recebimentos, compare o valor líquido recebido com as taxas e condições. Evite transformar a antecipação em obrigação todo mês."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "Olhe as datas, não só as vendas",
+      "body": "Um calendário de recebimentos e pagamentos mostra onde o dinheiro pode faltar. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}

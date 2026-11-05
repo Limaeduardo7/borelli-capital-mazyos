@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-11-05T14:08:17.062Z",
+  "channelId": "6ad03a70778b240e2f12324b",
+  "pages": 1,
+  "hasNextPage": false,
+  "total": 92,
+  "today": "2026-11-05",
+  "start": "2026-11-05",
+  "coverage": 1,
+  "gaps": [],
+  "duplicates": [],
+  "proposedStart": "2026-11-06",
+  "sentToday": [],
+  "scheduled": [
+    {
+      "id": "6ae37bb3e21785fad769e463",
+      "status": "scheduled",
+      "dueAt": "2026-11-05T16:00:00.000Z",
+      "sentAt": null,
+      "externalLink": null,
+      "assets": 6,
+      "error": null,
+      "slug": "07-metas-do-casal"
+    }
+  ],
+  "errors": [
+    {
+      "id": "6ad1a2089597cd166266b92d",
+      "status": "error",
+      "dueAt": "2026-10-20T16:00:00.000Z",
+      "sentAt": null,
+      "externalLink": null,
+      "assets": [
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        },
+        {
+          "id": null,
+          "mimeType": "image/jpeg"
+        }
+      ],
+      "error": {
+        "message": "There is an issue with the media included. Please remove it and try to upload it again."
+      }
+    }
+  ],
+  "lastAutomaticSent": {
+    "id": "6ae37bb13361c982e45d1e31",
+    "status": "sent",
+    "dueAt": "2026-11-04T16:00:00.000Z",
+    "sentAt": "2026-11-04T16:08:14.844Z",
+    "externalLink": "https://www.instagram.com/p/DfU2U-tFN_n/",
+    "assets": [
+      {
+        "id": "18649795642032975",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "id": "18649795684032975",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "id": "18649795759032975",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "id": "18649795807032975",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "id": "18649795840032975",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "id": "18649795873032975",
+        "mimeType": "image/jpeg"
+      }
+    ],
+    "error": null
+  }
+}

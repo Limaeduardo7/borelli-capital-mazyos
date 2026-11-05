@@ -1,0 +1,39 @@
+{
+  "slug": "imovel-sem-inquilino",
+  "theme": "Decisão de compra: suportar um imóvel sem aluguel",
+  "category": "COMPRA DE IMÓVEL",
+  "hook": "E se o imóvel ficar sem inquilino?",
+  "caption": "Um imóvel destinado à locação também precisa de um plano para os meses sem inquilino. O tempo até alugar e o valor negociado são incertos. Avaliar a compra junto das suas outras obrigações evita depender apenas do cenário mais favorável.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #InvestimentoImobiliario #PlanejamentoFinanceiro #Patrimonio #CompraDeImovel",
+  "slides": [
+    {
+      "kicker": "COMPRA DE IMÓVEL",
+      "title": "E se o imóvel ficar sem inquilino?",
+      "body": "Ao comprar para alugar, teste também o período sem receita. Encontrar um inquilino pode levar mais tempo do que o planejado."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Faça a conta sem aluguel",
+      "body": "Liste os gastos que continuarão enquanto o imóvel estiver vazio. Inclua parcela, condomínio, tributos e manutenção que forem sua responsabilidade."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Separe pedido e receita",
+      "body": "O aluguel anunciado não é receita garantida. Pesquise imóveis semelhantes e considere negociação, despesas de administração e períodos sem ocupação."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Proteja as outras contas",
+      "body": "Veja por quanto tempo você consegue manter o imóvel sem usar dinheiro necessário à casa ou ao negócio. Não existe um prazo único adequado para todos."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Teste uma compra menor",
+      "body": "Se o plano só funciona com aluguel imediato, avalie reduzir o valor da compra ou esperar. Inclua custos de aquisição e eventual crédito na comparação."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "O imóvel precisa caber vazio",
+      "body": "A decisão deve suportar a espera, não apenas o cenário de aluguel cheio. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}

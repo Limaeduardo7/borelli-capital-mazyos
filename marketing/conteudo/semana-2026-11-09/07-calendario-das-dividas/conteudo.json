@@ -1,0 +1,39 @@
+{
+  "slug": "calendario-das-dividas",
+  "theme": "Convite consultivo: organizar vencimentos antes de renegociar",
+  "category": "ORGANIZAÇÃO FINANCEIRA",
+  "hook": "Suas parcelas vencem antes da renda?",
+  "caption": "Para uma conversa sobre suas dívidas, reúna os contratos, os valores das parcelas e as datas de recebimento. Esse retrato ajuda a avaliar se o ajuste necessário está nas datas, nas despesas ou no valor das obrigações. Uma renegociação pode aumentar o custo total e depende das condições oferecidas.\n\nConverse com a Borelli para avaliar seu cenário.\n\n#BorelliCapital #OrganizacaoFinanceira #PlanejamentoFinanceiro #CreditoConsciente #EducacaoFinanceira",
+  "slides": [
+    {
+      "kicker": "ORGANIZAÇÃO FINANCEIRA",
+      "title": "Suas parcelas vencem antes da renda?",
+      "body": "Antes de buscar outra dívida, descubra se o problema é falta de dinheiro no mês ou desencontro entre as datas."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Monte um calendário",
+      "body": "Anote receitas esperadas, vencimentos e valores das parcelas. Inclua as contas da casa para enxergar todos os compromissos, não só os empréstimos."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Separe dois problemas",
+      "body": "Se a renda não cobre as despesas do mês, mudar o vencimento não resolve sozinho. Se o dinheiro chega depois, vale avaliar alternativas de datas."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Mudanças precisam de confirmação",
+      "body": "Consulte a instituição sobre a possibilidade de mudar o vencimento. Peça por escrito as condições, eventuais custos e a data a partir da qual a mudança vale."
+    },
+    {
+      "kicker": "O QUE AVALIAR",
+      "title": "Não troque sem comparar",
+      "body": "Se houver proposta de renegociação, confira prazo, parcelas e total a pagar. Uma prestação menor pode vir acompanhada de mais tempo e maior custo."
+    },
+    {
+      "kicker": "SÍNTESE",
+      "title": "O diagnóstico vem antes do contrato",
+      "body": "Organizar valores e datas ajuda a escolher o que precisa mudar. Converse com a Borelli para avaliar seu cenário."
+    }
+  ]
+}
