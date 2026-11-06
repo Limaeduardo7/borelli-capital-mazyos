@@ -12,7 +12,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:23.175Z"
+      "statusCheckedAt": "2026-11-06T14:01:55.832Z"
     },
     {
       "slug": "02-casa-como-garantia",
@@ -24,7 +24,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:23.409Z"
+      "statusCheckedAt": "2026-11-06T14:01:56.144Z"
     },
     {
       "slug": "03-reajuste-do-consorcio",
@@ -36,7 +36,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:23.643Z"
+      "statusCheckedAt": "2026-11-06T14:01:56.383Z"
     },
     {
       "slug": "04-venda-a-prazo",
@@ -48,7 +48,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:23.868Z"
+      "statusCheckedAt": "2026-11-06T14:01:56.608Z"
     },
     {
       "slug": "05-imovel-sem-inquilino",
@@ -60,7 +60,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:24.103Z"
+      "statusCheckedAt": "2026-11-06T14:01:56.816Z"
     },
     {
       "slug": "06-limite-aprovado",
@@ -72,7 +72,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:24.429Z"
+      "statusCheckedAt": "2026-11-06T14:01:57.050Z"
     },
     {
       "slug": "07-calendario-das-dividas",
@@ -84,7 +84,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-05T16:11:24.644Z"
+      "statusCheckedAt": "2026-11-06T14:01:57.285Z"
     }
   ]
 }
