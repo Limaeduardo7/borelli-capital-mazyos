@@ -8,11 +8,11 @@
       "dueAt": "2026-11-06T16:00:00.000Z",
       "assets": 6,
       "scheduledAt": "2026-11-05T14:09:52.539Z",
-      "status": "scheduled",
+      "status": "error",
       "sentAt": null,
       "externalLink": null,
-      "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:55.832Z"
+      "error": "There is an issue with the media included. Please remove it and try to upload it again.",
+      "statusCheckedAt": "2026-11-06T16:11:33.573Z"
     },
     {
       "slug": "02-casa-como-garantia",
@@ -24,7 +24,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:56.144Z"
+      "statusCheckedAt": "2026-11-06T16:11:33.787Z"
     },
     {
       "slug": "03-reajuste-do-consorcio",
@@ -36,7 +36,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:56.383Z"
+      "statusCheckedAt": "2026-11-06T16:11:33.981Z"
     },
     {
       "slug": "04-venda-a-prazo",
@@ -48,7 +48,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:56.608Z"
+      "statusCheckedAt": "2026-11-06T16:11:34.162Z"
     },
     {
       "slug": "05-imovel-sem-inquilino",
@@ -60,7 +60,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:56.816Z"
+      "statusCheckedAt": "2026-11-06T16:11:34.349Z"
     },
     {
       "slug": "06-limite-aprovado",
@@ -72,7 +72,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:57.050Z"
+      "statusCheckedAt": "2026-11-06T16:11:34.541Z"
     },
     {
       "slug": "07-calendario-das-dividas",
@@ -84,7 +84,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-06T14:01:57.285Z"
+      "statusCheckedAt": "2026-11-06T16:11:34.731Z"
     }
   ]
 }
