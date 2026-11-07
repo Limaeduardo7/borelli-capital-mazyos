@@ -12,7 +12,7 @@
       "sentAt": "2026-11-06T20:21:38.503Z",
       "externalLink": "https://www.instagram.com/p/Dfac-2eGaB8/",
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:10.699Z",
+      "statusCheckedAt": "2026-11-07T16:10:44.931Z",
       "repairedAt": "2026-11-06T20:21:06.097Z",
       "shareMode": "shareNow"
     },
@@ -22,11 +22,11 @@
       "dueAt": "2026-11-07T16:00:00.000Z",
       "assets": 6,
       "scheduledAt": "2026-11-05T14:09:54.165Z",
-      "status": "scheduled",
-      "sentAt": null,
-      "externalLink": null,
+      "status": "sent",
+      "sentAt": "2026-11-07T16:05:00.384Z",
+      "externalLink": "https://www.instagram.com/p/DfckQK7DsXj/",
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:10.926Z"
+      "statusCheckedAt": "2026-11-07T16:10:45.147Z"
     },
     {
       "slug": "03-reajuste-do-consorcio",
@@ -38,7 +38,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:11.145Z"
+      "statusCheckedAt": "2026-11-07T16:10:45.339Z"
     },
     {
       "slug": "04-venda-a-prazo",
@@ -50,7 +50,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:11.357Z"
+      "statusCheckedAt": "2026-11-07T16:10:45.514Z"
     },
     {
       "slug": "05-imovel-sem-inquilino",
@@ -62,7 +62,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:11.539Z"
+      "statusCheckedAt": "2026-11-07T16:10:45.708Z"
     },
     {
       "slug": "06-limite-aprovado",
@@ -74,7 +74,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:11.747Z"
+      "statusCheckedAt": "2026-11-07T16:10:45.890Z"
     },
     {
       "slug": "07-calendario-das-dividas",
@@ -86,7 +86,7 @@
       "sentAt": null,
       "externalLink": null,
       "error": null,
-      "statusCheckedAt": "2026-11-07T14:01:11.950Z"
+      "statusCheckedAt": "2026-11-07T16:10:46.089Z"
     }
   ],
   "replacedPosts": [
